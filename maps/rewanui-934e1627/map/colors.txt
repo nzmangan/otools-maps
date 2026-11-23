@@ -1,0 +1,41 @@
+# otools-map 1 colors
+9	Purple for course layout	n54	c35	m85	y0	k0	o0	t100	bNormal	sPurple	p100
+9	Black for control description	n56	k100	sProzess Black	p100	bNormal	c0	m0	y0	o0	t100
+9	White for course layout	n55	c0	m0	y0	k0	o0	t100	bNormal	sPurple	p0
+9	All printing colors	n1	k100	c100	m100	y100	sProzess Black	p100	sPMS471_Brown	p100	sPMS136_Yellow	p100	sPMS299_Blue	p100	sPMS361_Green	p100	sPMS428_Grey	p100	sPurple	p100	o0	t100	bNormal
+9 len=96	Upper purple for course planning	n50	c35	m85	y0	k0	o0	t100	bNormal	sPurple	p100
+9 len=176	White - railway	n9	k0	bNormal	y0	o0	c0	m0	t100	sProzess Black	p0	sPMS471_Brown	p0	sPMS136_Yellow	p0	sPMS299_Blue	p0	sPMS361_Green	p0	sPMS428_Grey	p0	sPurple	p0
+9	Black	n2	c0	m0	y0	k100	o1	bNormal	sProzess Black	p100	t100
+9	Blue - point symbols	n4	k0	y0	m0	c100	bNormal	o0	t100	sPMS299_Blue	p100
+9	Brown - point symbols	n5	c25	m75	y100	k0	o0	bNormal	t100	sPMS471_Brown	p100
+9	Green - point symbols	n6	y100	c80	m0	k0	o0	bNormal	t100	sPMS361_Green	p100
+9	White - Prominent bush or small tree	n57	k0	bNormal	y0	o0	c0	m0	t100	sProzess Black	p0	sPMS471_Brown	p0	sPMS136_Yellow	p0	sPMS299_Blue	p0	sPMS361_Green	p0	sPMS428_Grey	p0	sPurple	p0
+9	Blue - line symbols	n14	k0	y0	m0	c100	bNormal	o0	t100	sPMS299_Blue	p100
+9	Dark green	n13	y80	c100	m0	k30	o0	bNormal	t100	sProzess Black	p30	sPMS361_Green	p100
+9	Brown - line symbols	n15	c25	m75	y100	k0	o0	bNormal	t100	sPMS471_Brown	p100
+9 len=96	Lower purple for course planning	n52	c35	m85	y0	k0	o0	t100	bNormal	sPurple	p100
+9	White for course planning	n51	c0	m0	y0	k0	o0	t100	bNormal	sPurple	p0
+9	Black - street middleline	n7	c0	m0	y0	k100	o1	bNormal	t100	sProzess Black	p100
+9	Brown 50% - street infill	n8	c10	m35	y50	k0	o0	bNormal	t100	sProzess Black	p0	sPMS299_Blue	p0	sPMS471_Brown	p50	sPMS361_Green	p0	sPMS136_Yellow	p0
+9	Black - street sideline	n10	k100	y0	bNormal	o1	c0	m0	t100	sProzess Black	p100
+9	Black 50%	n11	k50	m0	bNormal	y0	o0	c0	t100	sProzess Black	p50	sPMS471_Brown	p0	sPMS361_Green	p0	sPMS136_Yellow	p0	sPMS428_Grey	p0
+9	Black 20%	n12	k20	y0	bNormal	o0	c0	m0	t100	sProzess Black	p20	sPMS471_Brown	p0	sPMS361_Green	p0	sPMS136_Yellow	p0	sPMS428_Grey	p0
+9	Blue - area symbols	n16	k0	y0	m0	c100	bNormal	o0	t100	sProzess Black	p0	sPMS299_Blue	p100	sPMS471_Brown	p0	sPMS361_Green	p0	sPMS136_Yellow	p0
+9	Blue 70%	n17	k0	y0	m0	c70	bNormal	o0	t100	sProzess Black	p0	sPMS299_Blue	p70	sPMS471_Brown	p0	sPMS361_Green	p0	sPMS136_Yellow	p0
+9	Blue 50%	n18	k0	y0	m0	c50	bNormal	o0	t100	sProzess Black	p0	sPMS299_Blue	p50	sPMS471_Brown	p0	sPMS361_Green	p0	sPMS136_Yellow	p0
+9	White over brown, green and yellow	n23	k0	bNormal	y0	o0	c0	m0	t100	sProzess Black	p0	sPMS471_Brown	p0	sPMS361_Green	p0	sPMS136_Yellow	p0
+9	Brown 50% - paved area	n19	c10	m35	y50	k0	o0	bNormal	t100	sProzess Black	p0	sPMS471_Brown	p50	sPMS361_Green	p0	sPMS136_Yellow	p0
+9	Yellow - narrow ride	n20	m27	y79	c0	k0	bNormal	o0	t100	sProzess Black	p0	sPMS361_Green	p0	sPMS136_Yellow	p100
+9 len=128	Green 60% - narrow ride	n21	y60	c48	m0	k0	o0	bNormal	t100	sProzess Black	p0	sPMS361_Green	p60	sPMS136_Yellow	p0
+9 len=128	Green 30% - narrow ride	n22	c24	y30	k0	bNormal	m0	o0	t100	sProzess Black	p0	sPMS361_Green	p30	sPMS136_Yellow	p0
+9	Olive green	n24	c38	m27	y100	k0	o0	t100	bNormal	sPMS136_Yellow	p100	sPMS361_Green	p50
+9	Green - area symbols	n26	y100	c80	m0	k0	o0	bNormal	t100	sPMS361_Green	p100
+9 len=96	Green 60%	n27	y60	c48	o0	k0	m0	bNormal	t100	sPMS361_Green	p60	sPMS136_Yellow	p0
+9 len=96	Green 30%	n28	c24	y30	k0	bNormal	m0	o0	t100	sPMS361_Green	p30	sPMS136_Yellow	p0
+9	Green - undergrowth / over yellow	n29	y100	c80	m0	k0	o0	bNormal	t100	sPMS361_Green	p100
+9	Black 35%	n30	y0	k35	m0	c0	bNormal	o0	t100	sProzess Black	p35	sPMS361_Green	p0	sPMS136_Yellow	p0
+9	White over yellow	n31	k0	bNormal	y0	o0	c0	m0	t100	sProzess Black	p0	sPMS136_Yellow	p0
+9	Black - cultivated land and sandy ground	n35	c0	m0	y0	k100	o1	bNormal	t100	sProzess Black	p100
+9	Yellow	n32	m27	y79	c0	k0	bNormal	o0	t100	sPMS136_Yellow	p100
+9 len=80	Yellow 75%	n33	m20	y59	c0	k0	bNormal	o0	t100	sPMS136_Yellow	p75
+9 len=80	Yellow 50%	n34	m14	y40	k0	bNormal	o0	sPMS136_Yellow	p50	c0	t100
