@@ -1,0 +1,35 @@
+# otools-map 1 symbol
+symbol=204.000 type=point
+flags=1
+extent=20
+filePos=39420
+nColors=1
+colors=4
+description=Boulder
+element elements dot color=4 diameter=40
+  0 0
+icon
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c000000007c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c0000000000007c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c0000000000007c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c0000000000007c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c0000000000007c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c000000007c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+rest=800
+  @668 03

@@ -1,0 +1,38 @@
+# otools-map 1 symbol
+symbol=701.000 type=point
+flags=1
+extent=363
+filePos=119360
+nColors=1
+colors=1
+description=Start
+element elements line color=1 width=35
+  -300 -173
+  300 -173
+  0 346
+  -300 -173
+icon
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c54547c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c54547c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c547c7c547c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c547c7c547c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c547c7c7c7c547c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c54547c7c7c7c54547c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c547c7c7c7c7c7c547c7c7c7c7c7c7c
+  7c7c7c7c7c7c547c7c7c7c7c7c7c7c547c7c7c7c7c7c
+  7c7c7c7c7c7c547c7c7c7c7c7c7c7c547c7c7c7c7c7c
+  7c7c7c7c7c547c7c7c7c7c7c7c7c7c7c547c7c7c7c7c
+  7c7c7c7c7c547c7c7c7c7c7c7c7c7c7c547c7c7c7c7c
+  7c7c7c7c547c7c7c7c7c7c7c7c7c7c7c7c547c7c7c7c
+  7c7c7c54547c7c7c7c7c7c7c7c7c7c7c7c54547c7c7c
+  7c7c7c545454545454545454545454545454547c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+rest=800
+  @668 08

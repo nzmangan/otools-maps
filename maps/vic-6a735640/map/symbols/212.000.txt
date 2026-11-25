@@ -1,0 +1,37 @@
+# otools-map 1 symbol
+symbol=212.000 type=area
+flags=1
+filePos=46196
+nColors=1
+colors=4
+description="Stony ground, fight"
+structMode=2
+structWidth=28
+structHeight=24
+element elements dot color=4 diameter=20
+  0 0
+icon
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c007c7c007c7c007c7c007c7c007c7c007c7c007c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c00007c00007c00007c00007c00007c00007c0000
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c007c7c007c7c007c7c007c7c007c7c007c7c007c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c00007c00007c00007c00007c00007c00007c0000
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c007c7c007c7c007c7c007c7c007c7c007c7c007c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c00007c00007c00007c00007c00007c00007c0000
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c007c7c007c7c007c7c007c7c007c7c007c7c007c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+rest=832
+  @668 03

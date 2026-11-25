@@ -1,0 +1,46 @@
+# otools-map 1 symbol
+symbol=110.000 type=point
+flags=1
+extent=40
+filePos=28980
+nColors=1
+colors=6
+description="Small elongated knoll"
+element elements area color=6
+  40 0
+  35 11
+  20 19
+  0 22
+  -20 19
+  -35 11
+  -40 0
+  -35 -11
+  -20 -19
+  0 -22
+  20 -19
+  35 -11
+icon
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c55555555555555557c7c7c7c7c7c7c
+  7c7c7c7c7c5555555555555555555555557c7c7c7c7c
+  7c7c7c7c7c5555555555555555555555557c7c7c7c7c
+  7c7c7c7c7c5555555555555555555555557c7c7c7c7c
+  7c7c7c7c7c5555555555555555555555557c7c7c7c7c
+  7c7c7c7c7c7c7c55555555555555557c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+rest=800
+  @668 02

@@ -1,0 +1,36 @@
+# otools-map 1 symbol
+symbol=101.100 type=point
+flags=1
+extent=67
+filePos=18400
+nColors=1
+colors=6
+description="Slope line, contour"
+element elements line color=6 width=14
+  0 0
+  0 -60
+icon
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c55557c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c55557c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c55557c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c55557c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c55557c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c55557c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c55557c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c55557c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c55557c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c55557c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+rest=800
+  @668 02

@@ -1,0 +1,10 @@
+# otools-map 1 symbol
+symbol=201.200 type=area
+filePos=35972
+nColors=1
+colors=4
+description="Impassable cliff (area)"
+fillColor=4
+fillOn=1
+rest=832
+  @668 03

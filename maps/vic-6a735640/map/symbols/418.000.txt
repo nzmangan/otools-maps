@@ -1,0 +1,35 @@
+# otools-map 1 symbol
+symbol=418.000 type=point
+flags=1
+extent=22
+filePos=80996
+nColors=1
+colors=7
+description="Prominent bush or tree"
+element elements dot color=7 diameter=45
+  0 0
+icon
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c29297c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c2929292929297c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c2929292929297c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c29292929292929297c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c29292929292929297c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c2929292929297c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c2929292929297c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c29297c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+rest=800
+  @668 05

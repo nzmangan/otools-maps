@@ -1,0 +1,42 @@
+# otools-map 1 symbol
+symbol=711.100 type=line
+tool=1
+extent=123
+filePos=129876
+nColors=1
+colors=1
+description="Out-of-bounds route (line)"
+mainLength=300
+endLength=150
+nPrimSym=1
+element prim line color=1 width=35
+  -75 -75
+  75 75
+element prim line color=1 width=35
+  -75 75
+  75 -75
+icon
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c547c7c7c7c7c7c7c547c7c7c7c7c7c547c7c7c
+  7c7c7c54547c7c7c7c7c54547c7c7c7c7c7c54547c7c
+  7c7c7c7c54547c7c7c54547c7c7c7c7c7c7c7c54547c
+  7c7c7c7c7c54547c54547c7c7c7c7c7c7c7c7c7c5454
+  7c7c7c7c7c7c5454547c7c7c7c7c7c7c7c7c7c7c7c54
+  7c7c7c7c7c7c5454547c7c7c7c7c7c7c7c7c7c7c7c54
+  7c7c7c7c7c54547c54547c7c7c7c7c7c7c7c7c7c5454
+  7c7c7c7c54547c7c7c54547c7c7c7c7c7c7c7c54547c
+  7c7c7c54547c7c7c7c7c54547c7c7c7c7c7c54547c7c
+  7c7c7c547c7c7c7c7c7c7c547c7c7c7c7c7c547c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+rest=872
+  @668 08

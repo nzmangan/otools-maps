@@ -1,0 +1,23 @@
+# otools-map 1 colors
+9 len=73	Purple for course planning	n1	c35	m85	y0	k0	o0	t100	bNormal	sPurple	p100
+9 len=76	Purple 50% for course planning	n2	c18	m43	y0	k0	o0	t100	bNormal	sPurple	p50
+9 len=68	White over black (railway)	n3	c0	m0	y0	k0	o0	t100	bNormal	sBlack	p0
+9 len=56	Black 100%	n4	c0	m0	y0	k100	o0	t100	bNormal	sBlack	p100
+9 len=54	Blue 100%	n5	c100	m0	y0	k0	o0	t100	bNormal	sBlue	p100
+9 len=58	Brown 100%	n6	c0	m56	y100	k18	o0	t100	bNormal	sBrown	p100
+9 len=75	Green 100% (points and lines)	n7	c76	m0	y91	k0	o0	t100	bNormal	sGreen	p100
+9	White over green and yellow	n8	c0	m0	y0	k0	o0	t100	bNormal	sGreen	p0	sYellow	p0
+9 len=65	Black 65% (buildings)	n9	c0	m0	y0	k65	o0	t100	bNormal	sBlack	p65
+9 len=54	Black 50%	n10	c0	m0	y0	k50	o0	t100	bNormal	sBlack	p50
+9 len=55	Brown 50%	n11	c0	m28	y50	k9	o0	t100	bNormal	sBrown	p50
+9 len=54	Black 20%	n12	c0	m0	y0	k20	o0	t100	bNormal	sBlack	p20
+9 len=52	Blue 50%	n13	c50	m0	y0	k0	o0	t100	bNormal	sBlue	p50
+9 len=66	Olive green	n14	c38	m27	y100	k0	o0	t100	bNormal	sOlive green	p100
+9 len=66	Black 30% (bare rock)	n15	c0	m0	y0	k30	o0	t100	bNormal	sBlack	p30
+9 len=105	Green 100% + Black 40% (impassable vegetation)	n16	c76	m0	y91	k40	o0	t100	bNormal	sGreen	p100	sBlack	p40
+9 len=65	Green 100% (areas)	n17	c76	m0	y91	k0	o0	t100	bNormal	sGreen	p100
+9 len=55	Green 60%	n18	c46	m0	y55	k0	o0	t100	bNormal	sGreen	p60
+9 len=55	Green 30%	n19	c23	m0	y27	k0	o0	t100	bNormal	sGreen	p30
+9 len=59	Yellow 100%	n20	c0	m27	y79	k0	o0	t100	bNormal	sYellow	p100
+9 len=57	Yellow 50%	n21	c0	m14	y40	k0	o0	t100	bNormal	sYellow	p50
+9 len=47	White (forest)	n22	c0	m0	y0	k0	o0	t100	bNormal

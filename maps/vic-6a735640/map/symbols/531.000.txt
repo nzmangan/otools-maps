@@ -1,0 +1,39 @@
+# otools-map 1 symbol
+symbol=531.000 type=point
+flags=1
+extent=50
+filePos=113988
+nColors=1
+colors=4
+description="Prominent man-made feature, x"
+element elements line color=4 width=16
+  -30 -30
+  30 30
+element elements line color=4 width=16
+  -30 30
+  30 -30
+icon
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c00007c7c7c7c7c7c7c7c00007c7c7c7c7c
+  7c7c7c7c7c0000007c7c7c7c7c7c0000007c7c7c7c7c
+  7c7c7c7c7c7c0000007c7c7c7c0000007c7c7c7c7c7c
+  7c7c7c7c7c7c7c0000007c7c0000007c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c0000000000007c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c000000007c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c000000007c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c0000000000007c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c0000007c7c0000007c7c7c7c7c7c7c
+  7c7c7c7c7c7c0000007c7c7c7c0000007c7c7c7c7c7c
+  7c7c7c7c7c0000007c7c7c7c7c7c0000007c7c7c7c7c
+  7c7c7c7c7c00007c7c7c7c7c7c7c7c00007c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+rest=800
+  @668 06

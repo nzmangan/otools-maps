@@ -1,0 +1,11 @@
+# otools-map 1 settings
+15 len=28	All symbols	g-1	e0	f1	l1	i0
+15 len=25	Landforms	g2	e0	f0	l0	i1
+15 len=33	Rock and boulders	g3	e0	f0	l0	i1
+15 len=31	Water and marsh	g4	e0	f0	l0	i1
+15 len=26	Vegetation	g5	e0	f0	l0	i1
+15 len=33	Man-made features	g6	e0	f0	l0	i1
+15 len=33	Technical symbols	g7	e0	f0	l0	i1
+15 len=31	Course planning	g8	e0	f0	l0	i1
+15 len=20	Text	g9	e0	f0	l0	i1
+1039 len=90		m4000.000000	g50.0000	r1	x1748055	y5427422	a24.50000000	d100.00	b0.00	c0.00	e2193	i19000

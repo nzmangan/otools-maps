@@ -1,0 +1,37 @@
+# otools-map 1 symbol
+symbol=113.000 type=area
+flags=1
+filePos=31620
+nColors=1
+colors=6
+description="Broken ground"
+structMode=2
+structWidth=55
+structHeight=48
+element elements dot color=6 diameter=18
+  0 0
+icon
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c557c7c7c557c7c7c55557c7c7c557c7c7c557c7c
+  7c7c557c7c7c557c7c7c7c7c7c7c7c557c7c7c557c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c557c7c7c557c7c7c7c557c7c7c557c7c7c55
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c55557c7c7c557c7c7c55557c7c7c557c7c7c55557c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c557c7c7c55557c7c55557c7c7c557c7c7c55
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c557c7c7c557c7c7c55557c7c7c557c7c7c557c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c557c7c7c557c7c7c7c557c7c7c557c7c7c7c
+  7c7c7c7c557c7c7c557c7c7c7c557c7c7c557c7c7c55
+rest=832
+  @668 02

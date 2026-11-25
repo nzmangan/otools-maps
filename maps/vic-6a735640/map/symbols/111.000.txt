@@ -1,0 +1,43 @@
+# otools-map 1 symbol
+symbol=111.000 type=point
+flags=1
+extent=46
+filePos=29892
+nColors=1
+colors=6
+description="Small depression"
+element elements line color=6 width=18
+  -35 12
+  -32 -1
+  -25 -13
+  -13 -20
+  0 -23
+  13 -20
+  25 -13
+  32 -1
+  35 12
+icon
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c5555557c7c7c7c7c7c7c7c5555557c7c7c7c
+  7c7c7c7c5555557c7c7c7c7c7c7c7c5555557c7c7c7c
+  7c7c7c7c5555557c7c7c7c7c7c7c7c5555557c7c7c7c
+  7c7c7c7c555555557c7c7c7c7c7c555555557c7c7c7c
+  7c7c7c7c7c555555557c7c7c7c555555557c7c7c7c7c
+  7c7c7c7c7c7c555555555555555555557c7c7c7c7c7c
+  7c7c7c7c7c7c7c55555555555555557c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c5555555555557c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+rest=800
+  @668 02

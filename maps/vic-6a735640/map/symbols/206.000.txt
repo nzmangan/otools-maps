@@ -1,0 +1,10 @@
+# otools-map 1 symbol
+symbol=206.000 type=area
+filePos=41068
+nColors=1
+colors=4
+description="Gigantic boulder or rock pillar"
+fillColor=4
+fillOn=1
+rest=832
+  @668 03

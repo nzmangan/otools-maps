@@ -1,0 +1,2 @@
+# otools-map 1 templates
+8	VIC - aerial wellington_2025_0.075m 0.25m.jpg	a24.50000000	b24.50000000	r1	s0	u0.0625000000	v0.0625000000	x-7.668870	y13.813523

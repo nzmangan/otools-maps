@@ -1,0 +1,250 @@
+# otools-map 1 objects 104.000
+defaults col=6 server=-1 otype=1 status=1 icol=6
+
+@~np6qsoqd line made=2026-11-25T09:02:45.142Z changed=2026-11-25T09:02:45.142Z
+tags="LiDAR"
+note="Bank or wall, 1.8 m high, 8 m long: check"
+147 6700
+80 6681
+17 6690
+-44 6727
+
+@~y7oa5g42 line made=2026-11-25T09:02:45.142Z changed=2026-11-25T09:02:45.142Z
+tags="LiDAR"
+note="Bank or wall, 1.7 m high, 9 m long: check"
+213 6287
+85 6360
+11 6374
+
+@~pldm2q3p line made=2026-11-25T09:02:45.142Z changed=2026-11-25T09:02:45.142Z
+tags="LiDAR"
+note="Bank or wall, 1.2 m high, 8 m long: check"
+-2859 5018
+-2805 4819
+
+@~7qf75ria line made=2026-11-25T09:02:45.143Z changed=2026-11-25T09:02:45.143Z
+tags="LiDAR"
+note="Bank or wall, 1.8 m high, 21 m long: check"
+-804 4174
+-1040 4169
+-1185 4230
+-1308 4259
+
+@~lnv5v4kr line made=2026-11-25T09:02:45.143Z changed=2026-11-25T09:02:45.143Z
+tags="LiDAR"
+note="Bank or wall, 1.6 m high, 9 m long: check"
+-407 4451
+-452 4229
+
+@~wnryl4vk line made=2026-11-25T09:02:45.143Z changed=2026-11-25T09:02:45.143Z
+tags="LiDAR"
+note="Bank or wall, 1.4 m high, 10 m long: check"
+1671 5269
+1656 5386
+1665 5507
+
+@~hcis2kja line made=2026-11-25T09:02:45.144Z changed=2026-11-25T09:02:45.144Z
+tags="LiDAR"
+note="Bank or wall, 1.7 m high, 7 m long: check"
+811 4269
+733 4427
+
+@~t6hifhiu line made=2026-11-25T09:02:45.144Z changed=2026-11-25T09:02:45.144Z
+tags="LiDAR"
+note="Bank or wall, 1.2 m high, 5 m long: check"
+1111 3939
+1080 4063
+
+@~o67n4dol line made=2026-11-25T09:02:45.144Z changed=2026-11-25T09:02:45.144Z
+tags="LiDAR"
+note="Bank or wall, 1.2 m high, 6 m long: check"
+2232 4343
+2204 4492
+
+@~66bcjum7 line made=2026-11-25T09:02:45.144Z changed=2026-11-25T09:02:45.144Z
+tags="LiDAR"
+note="Bank or wall, 1.7 m high, 29 m long: check"
+455 1722
+458 2196
+444 2321
+402 2436
+
+@~asfurbeq line made=2026-11-25T09:02:45.145Z changed=2026-11-25T09:02:45.145Z
+tags="LiDAR"
+note="Bank or wall, 1.4 m high, 7 m long: check"
+134 1433
+110 1614
+
+@~pmdf6il2 line made=2026-11-25T09:02:45.145Z changed=2026-11-25T09:02:45.145Z
+tags="LiDAR"
+note="Bank or wall, 1.1 m high, 5 m long: check"
+1190 1863
+1175 1990
+
+@~g46xzf7h line made=2026-11-25T09:02:45.145Z changed=2026-11-25T09:02:45.145Z
+tags="LiDAR"
+note="Bank or wall, 1 m high, 6 m long: check"
+-3079 -537
+-2942 -476
+
+@~tery7kj6 line made=2026-11-25T09:02:45.145Z changed=2026-11-25T09:02:45.145Z
+tags="LiDAR"
+note="Bank or wall, 1.6 m high, 11 m long: check"
+-1817 -2422
+-1940 -2362
+-2070 -2321
+
+@~lzypnb32 line made=2026-11-25T09:02:45.145Z changed=2026-11-25T09:02:45.145Z
+tags="LiDAR"
+note="Bank or wall, 1.6 m high, 6 m long: check"
+1620 -1453
+1756 -1449
+
+@~kv3rezmx line made=2026-11-25T09:02:45.146Z changed=2026-11-25T09:02:45.146Z
+tags="LiDAR"
+note="Bank or wall, 1.7 m high, 11 m long: check"
+-1763 -3355
+-1732 -3228
+-1720 -3098
+
+@~vwhv2ddy line made=2026-11-25T09:02:45.146Z changed=2026-11-25T09:02:45.146Z
+tags="LiDAR"
+note="Bank or wall, 1.4 m high, 12 m long: check"
+-3785 -4367
+-3590 -4302
+
+@~gbhgnjmy line made=2026-11-25T09:02:45.147Z changed=2026-11-25T09:02:45.147Z
+tags="LiDAR"
+note="Bank or wall, 1.6 m high, 18 m long: check"
+-2059 -3779
+-1934 -3729
+-1897 -3696
+-1774 -3459
+
+@~6f5laima line made=2026-11-25T09:02:45.147Z changed=2026-11-25T09:02:45.147Z
+tags="LiDAR"
+note="Bank or wall, 1.5 m high, 9 m long: check"
+-2792 -4565
+-2617 -4691
+
+@~k5vsko7v line made=2026-11-25T09:02:45.147Z changed=2026-11-25T09:02:45.147Z
+tags="LiDAR"
+note="Bank or wall, 1.6 m high, 7 m long: check"
+-1396 -4621
+-1432 -4448
+
+@~uy4i6yea line made=2026-11-25T09:02:45.147Z changed=2026-11-25T09:02:45.147Z
+tags="LiDAR"
+note="Bank or wall, 1.9 m high, 8 m long: check"
+-2951 -5692
+-3144 -5695
+
+@~3hakye2x line made=2026-11-25T09:02:45.147Z changed=2026-11-25T09:02:45.147Z
+tags="LiDAR"
+note="Bank or wall, 1.7 m high, 9 m long: check"
+-3277 -5990
+-3281 -6068
+-3305 -6136
+-3355 -6196
+
+@~35vvkj2r line made=2026-11-25T09:02:45.147Z changed=2026-11-25T09:02:45.147Z
+tags="LiDAR"
+note="Bank or wall, 1.8 m high, 11 m long: check"
+-367 -4686
+-238 -4736
+-100 -4751
+
+@~tjr26nti line made=2026-11-25T09:02:45.147Z changed=2026-11-25T09:02:45.147Z
+tags="LiDAR"
+note="Bank or wall, 1.7 m high, 15 m long: check"
+-2968 -6029
+-3008 -6212
+-3107 -6383
+
+@~o43vk4mn line made=2026-11-25T09:02:45.147Z changed=2026-11-25T09:02:45.147Z
+tags="LiDAR"
+note="Bank or wall, 1.4 m high, 7 m long: check"
+-1365 -5741
+-1359 -5560
+
+@~oduv6e6s line made=2026-11-25T09:02:45.148Z changed=2026-11-25T09:02:45.148Z
+tags="LiDAR"
+note="Bank or wall, 1.8 m high, 8 m long: check"
+3803 -3643
+3847 -3444
+
+@~w7zcgsm5 line made=2026-11-25T09:02:45.149Z changed=2026-11-25T09:02:45.149Z
+tags="LiDAR"
+note="Bank or wall, 1.7 m high, 6 m long: check"
+4663 -4908
+4626 -4760
+
+@~nfxclktj line made=2026-11-25T09:02:45.149Z changed=2026-11-25T09:02:45.149Z
+tags="LiDAR"
+note="Bank or wall, 1 m high, 7 m long: check"
+-816 -7296
+-711 -7439
+
+@~qpiqgugj line made=2026-11-25T09:02:45.149Z changed=2026-11-25T09:02:45.149Z
+tags="LiDAR"
+note="Bank or wall, 1.8 m high, 7 m long: check"
+-2064 -8172
+-1969 -8029
+
+@~v4udyqqe line made=2026-11-25T09:02:45.149Z changed=2026-11-25T09:02:45.149Z
+tags="LiDAR"
+note="Bank or wall, 1.8 m high, 20 m long: check"
+-2616 -8426
+-2125 -8306
+
+@~hmswts3y line made=2026-11-25T09:02:45.149Z changed=2026-11-25T09:02:45.149Z
+tags="LiDAR"
+note="Bank or wall, 1.1 m high, 11 m long: check"
+5280 -4992
+5285 -4816
+
+@~ccruby4d line made=2026-11-25T09:02:45.149Z changed=2026-11-25T09:02:45.149Z
+tags="LiDAR"
+note="Bank or wall, 1.8 m high, 20 m long: check"
+-1037 -8251
+-981 -8145
+-948 -7897
+-910 -7781
+
+@~g6om3n5w line made=2026-11-25T09:02:45.149Z changed=2026-11-25T09:02:45.149Z
+tags="LiDAR"
+note="Bank or wall, 1.2 m high, 7 m long: check"
+-751 -8112
+-675 -7943
+
+@~nw3zrgi4 line made=2026-11-25T09:02:45.150Z changed=2026-11-25T09:02:45.150Z
+tags="LiDAR"
+note="Bank or wall, 1.1 m high, 10 m long: check"
+5038 -5479
+4997 -5370
+4983 -5230
+
+@~4ulkkiwf line made=2026-11-25T09:02:45.150Z changed=2026-11-25T09:02:45.150Z
+tags="LiDAR"
+note="Bank or wall, 1.6 m high, 5 m long: check"
+476 -7798
+509 -7667
+
+@~iabpe47p line made=2026-11-25T09:02:45.150Z changed=2026-11-25T09:02:45.150Z
+tags="LiDAR"
+note="Bank or wall, 1.9 m high, 11 m long: check"
+4071 -6217
+4176 -6137
+4266 -6041
+
+@~kcxh6t6o line made=2026-11-25T09:02:45.150Z changed=2026-11-25T09:02:45.150Z
+tags="LiDAR"
+note="Bank or wall, 1.3 m high, 7 m long: check"
+484 -8147
+437 -8043
+
+@~hxjxpr3u line made=2026-11-25T09:02:45.150Z changed=2026-11-25T09:02:45.150Z
+tags="LiDAR"
+note="Bank or wall, 1.6 m high, 10 m long: check"
+5042 -6498
+5043 -6250

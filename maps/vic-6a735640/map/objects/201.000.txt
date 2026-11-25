@@ -1,0 +1,350 @@
+# otools-map 1 objects 201.000
+defaults col=4 server=-1 otype=1 status=1 icol=4
+
+@~ouv7hd5u line made=2026-11-25T09:02:45.140Z changed=2026-11-25T09:02:45.140Z
+tags="LiDAR"
+note="Wall or cliff, 2 m high, 11 m long: check"
+-2391 11024
+-2443 11127
+-2539 11261
+
+@~jgsrolax line made=2026-11-25T09:02:45.140Z changed=2026-11-25T09:02:45.140Z
+tags="LiDAR"
+note="Wall or cliff, 2.4 m high, 13 m long: check"
+-2155 10612
+-2274 10787
+-2310 10899
+
+@~st3phg42 line made=2026-11-25T09:02:45.141Z changed=2026-11-25T09:02:45.141Z
+tags="LiDAR"
+note="Wall or cliff, 2.9 m high, 5 m long: check"
+-2126 10376
+-2144 10509
+
+@~oziu575n line made=2026-11-25T09:02:45.141Z changed=2026-11-25T09:02:45.141Z
+tags="LiDAR"
+note="Wall or cliff, 3.5 m high, 31 m long: check"
+-1646 9636
+-1688 9689
+-1756 9835
+-1854 9954
+-1946 10135
+-2044 10282
+
+@~hjthori3 line made=2026-11-25T09:02:45.141Z changed=2026-11-25T09:02:45.141Z
+tags="LiDAR"
+note="Wall or cliff, 3.6 m high, 17 m long: check"
+-1047 8993
+-1291 9187
+-1399 9240
+
+@~p7dgv7bd line made=2026-11-25T09:02:45.142Z changed=2026-11-25T09:02:45.142Z
+tags="LiDAR"
+note="Wall or cliff, 2.6 m high, 8 m long: check"
+694 7897
+639 7932
+576 8037
+
+@~cyhwjwwf line made=2026-11-25T09:02:45.142Z changed=2026-11-25T09:02:45.142Z
+tags="LiDAR"
+note="Wall or cliff, 3.1 m high, 14 m long: check"
+1816 8330
+1697 8346
+1480 8324
+
+@~2fntkq7e line made=2026-11-25T09:02:45.142Z changed=2026-11-25T09:02:45.142Z
+tags="LiDAR"
+note="Wall or cliff, 2.7 m high, 14 m long: check"
+2263 8290
+1916 8335
+
+@~gjaumwof line made=2026-11-25T09:02:45.142Z changed=2026-11-25T09:02:45.142Z
+tags="LiDAR"
+note="Wall or cliff, 2.6 m high, 16 m long: check"
+2093 7548
+2069 7953
+
+@~eaaj2q6w line made=2026-11-25T09:02:45.143Z changed=2026-11-25T09:02:45.143Z
+tags="LiDAR"
+note="Wall or cliff, 2.6 m high, 23 m long: check"
+2153 6314
+2181 6498
+2154 6888
+
+@~ji4b6wyy line made=2026-11-25T09:02:45.143Z changed=2026-11-25T09:02:45.143Z
+tags="LiDAR"
+note="Wall or cliff, 2.3 m high, 8 m long: check"
+-88 5547
+-33 5589
+91 5645
+
+@~j4iplhri line made=2026-11-25T09:02:45.143Z changed=2026-11-25T09:02:45.143Z
+tags="LiDAR"
+note="Wall or cliff, 3.2 m high, 26 m long: check"
+-1 4947
+-174 5016
+-201 5062
+-216 5277
+-244 5323
+-352 5417
+
+@~dybfa4ab line made=2026-11-25T09:02:45.143Z changed=2026-11-25T09:02:45.143Z
+tags="LiDAR"
+note="Wall or cliff, 2.8 m high, 9 m long: check"
+793 5740
+904 5779
+1019 5786
+
+@~zv6jvfcq line made=2026-11-25T09:02:45.143Z changed=2026-11-25T09:02:45.143Z
+tags="LiDAR"
+note="Wall or cliff, 2.1 m high, 8 m long: check"
+650 4803
+598 4998
+
+@~rsdlhddu line made=2026-11-25T09:02:45.143Z changed=2026-11-25T09:02:45.143Z
+tags="LiDAR"
+note="Wall or cliff, 2.2 m high, 16 m long: check"
+-501 4000
+-722 4000
+-884 3932
+
+@~xkg5werj line made=2026-11-25T09:02:45.143Z changed=2026-11-25T09:02:45.143Z
+tags="LiDAR"
+note="Wall or cliff, 2.2 m high, 13 m long: check"
+-330 3779
+-390 3954
+-492 4037
+
+@~3jl5l52w line made=2026-11-25T09:02:45.144Z changed=2026-11-25T09:02:45.144Z
+tags="LiDAR"
+note="Wall or cliff, 2.5 m high, 17 m long: check"
+141 3691
+18 3837
+4 4068
+
+@~lpf7x335 line made=2026-11-25T09:02:45.144Z changed=2026-11-25T09:02:45.144Z
+tags="LiDAR"
+note="Wall or cliff, 2.1 m high, 5 m long: check"
+1047 3221
+1069 3349
+
+@~hspzjkyn line made=2026-11-25T09:02:45.145Z changed=2026-11-25T09:02:45.145Z
+tags="LiDAR"
+note="Wall or cliff, 2.1 m high, 79 m long: check"
+2184 857
+2217 1051
+2217 1103
+2188 1197
+2047 1463
+1820 1803
+1766 1942
+1768 2047
+1819 2220
+1805 2380
+1822 2512
+1816 2694
+
+@~lblllydq line made=2026-11-25T09:02:45.145Z changed=2026-11-25T09:02:45.145Z
+tags="LiDAR"
+note="Wall or cliff, 2.6 m high, 9 m long: check"
+-2762 -51
+-2823 167
+
+@~wz5qfw44 line made=2026-11-25T09:02:45.145Z changed=2026-11-25T09:02:45.145Z
+tags="LiDAR"
+note="Wall or cliff, 3 m high, 10 m long: check"
+-2438 -456
+-2346 -300
+-2331 -233
+
+@~4xppjl7v line made=2026-11-25T09:02:45.145Z changed=2026-11-25T09:02:45.145Z
+tags="LiDAR"
+note="Wall or cliff, 3 m high, 27 m long: check"
+-2030 -952
+-2072 -742
+-2153 -522
+-2147 -419
+-2097 -298
+
+@~cakcmghw line made=2026-11-25T09:02:45.145Z changed=2026-11-25T09:02:45.145Z
+tags="LiDAR"
+note="Wall or cliff, 3 m high, 7 m long: check"
+-2161 -377
+-2334 -427
+
+@~jk4zoecl line made=2026-11-25T09:02:45.145Z changed=2026-11-25T09:02:45.145Z
+tags="LiDAR"
+note="Wall or cliff, 2.1 m high, 6 m long: check"
+1659 835
+1559 927
+
+@~brs7uuz2 line made=2026-11-25T09:02:45.145Z changed=2026-11-25T09:02:45.145Z
+tags="LiDAR"
+note="Wall or cliff, 2.3 m high, 45 m long: check"
+-1006 -751
+-737 -703
+-131 -435
+21 -348
+
+@~pc54egkm line made=2026-11-25T09:02:45.145Z changed=2026-11-25T09:02:45.145Z
+tags="LiDAR"
+note="Wall or cliff, 2.7 m high, 16 m long: check"
+441 -713
+499 -682
+649 -542
+723 -445
+
+@~l7bc4my7 line made=2026-11-25T09:02:45.145Z changed=2026-11-25T09:02:45.145Z
+tags="LiDAR"
+note="Wall or cliff, 2.9 m high, 9 m long: check"
+1912 -274
+2039 -87
+
+@~jyva2lio line made=2026-11-25T09:02:45.145Z changed=2026-11-25T09:02:45.145Z
+tags="LiDAR"
+note="Wall or cliff, 2.7 m high, 20 m long: check"
+-30 -1201
+173 -1104
+301 -1023
+424 -991
+
+@~jjp5vgzs line made=2026-11-25T09:02:45.145Z changed=2026-11-25T09:02:45.145Z
+tags="LiDAR"
+note="Wall or cliff, 2.8 m high, 6 m long: check"
+-13 -1409
+-94 -1279
+
+@~lwzt4eij line made=2026-11-25T09:02:45.147Z changed=2026-11-25T09:02:45.147Z
+tags="LiDAR"
+note="Wall or cliff, 2 m high, 6 m long: check"
+89 -2841
+86 -2704
+
+@~7nmpi6j7 line made=2026-11-25T09:02:45.148Z changed=2026-11-25T09:02:45.148Z
+tags="LiDAR"
+note="Wall or cliff, 2.4 m high, 11 m long: check"
+3445 -4037
+3470 -3903
+3516 -3775
+
+@~jnhg2uca line made=2026-11-25T09:02:45.148Z changed=2026-11-25T09:02:45.148Z
+tags="LiDAR"
+note="Wall or cliff, 2.6 m high, 8 m long: check"
+5352 -3232
+5307 -3432
+
+@~5bzc4rdt line made=2026-11-25T09:02:45.148Z changed=2026-11-25T09:02:45.148Z
+tags="LiDAR"
+note="Wall or cliff, 3.2 m high, 9 m long: check"
+-422 -6151
+-539 -5957
+
+@~fmflzhjs line made=2026-11-25T09:02:45.148Z changed=2026-11-25T09:02:45.148Z
+tags="LiDAR"
+note="Wall or cliff, 3.1 m high, 23 m long: check"
+-1693 -7061
+-1635 -6887
+-1678 -6511
+
+@~ufezreox line made=2026-11-25T09:02:45.148Z changed=2026-11-25T09:02:45.148Z
+tags="LiDAR"
+note="Wall or cliff, 3.7 m high, 7 m long: check"
+-453 -6473
+-271 -6465
+
+@~s343kuv3 line made=2026-11-25T09:02:45.148Z changed=2026-11-25T09:02:45.148Z
+tags="LiDAR"
+note="Wall or cliff, 3.7 m high, 6 m long: check"
+-325 -6408
+-444 -6303
+
+@~2vzt7b5m line made=2026-11-25T09:02:45.148Z changed=2026-11-25T09:02:45.148Z
+tags="LiDAR"
+note="Wall or cliff, 2.8 m high, 18 m long: check"
+73 -6614
+36 -6444
+-16 -6365
+-138 -6245
+
+@~dxdgqtsl line made=2026-11-25T09:02:45.148Z changed=2026-11-25T09:02:45.148Z
+tags="LiDAR"
+note="Wall or cliff, 2.4 m high, 13 m long: check"
+-915 -6677
+-707 -6630
+-601 -6579
+
+@~scsnuoee line made=2026-11-25T09:02:45.149Z changed=2026-11-25T09:02:45.149Z
+tags="LiDAR"
+note="Wall or cliff, 2.6 m high, 15 m long: check"
+-551 -7092
+-504 -6872
+-398 -6783
+
+@~uhkp3yum line made=2026-11-25T09:02:45.149Z changed=2026-11-25T09:02:45.149Z
+tags="LiDAR"
+note="Wall or cliff, 3.3 m high, 24 m long: check"
+-838 -7752
+-779 -7611
+-778 -7507
+-926 -7209
+
+@~ltxcry3v line made=2026-11-25T09:02:45.149Z changed=2026-11-25T09:02:45.149Z
+tags="LiDAR"
+note="Wall or cliff, 2.6 m high, 5 m long: check"
+-99 -7298
+-132 -7174
+
+@~g6ha52xs line made=2026-11-25T09:02:45.149Z changed=2026-11-25T09:02:45.149Z
+tags="LiDAR"
+note="Wall or cliff, 3 m high, 19 m long: check"
+255 -7794
+218 -7663
+118 -7538
+32 -7374
+
+@~3laj2ac3 line made=2026-11-25T09:02:45.149Z changed=2026-11-25T09:02:45.149Z
+tags="LiDAR"
+note="Wall or cliff, 2.4 m high, 5 m long: check"
+43 -7479
+-85 -7456
+
+@~oae7wa5c line made=2026-11-25T09:02:45.149Z changed=2026-11-25T09:02:45.149Z
+tags="LiDAR"
+note="Wall or cliff, 2.6 m high, 33 m long: check"
+4499 -6223
+4553 -6050
+4608 -5693
+4687 -5420
+
+@~cfziptme line made=2026-11-25T09:02:45.150Z changed=2026-11-25T09:02:45.150Z
+tags="LiDAR"
+note="Wall or cliff, 3.4 m high, 7 m long: check"
+-151 -8109
+-64 -7962
+
+@~khcdtkmw line made=2026-11-25T09:02:45.150Z changed=2026-11-25T09:02:45.150Z
+tags="LiDAR"
+note="Wall or cliff, 2.6 m high, 27 m long: check"
+4644 -7111
+4621 -6931
+4638 -6631
+4603 -6447
+
+@~33g5d7zl line made=2026-11-25T09:02:45.150Z changed=2026-11-25T09:02:45.150Z
+tags="LiDAR"
+note="Wall or cliff, 2.6 m high, 5 m long: check"
+4638 -6457
+4548 -6358
+
+@~4dx3af6w line made=2026-11-25T09:02:45.150Z changed=2026-11-25T09:02:45.150Z
+tags="LiDAR"
+note="Wall or cliff, 2.6 m high, 6 m long: check"
+4646 -6300
+4567 -6304
+4488 -6287
+
+@~xop35vlr line made=2026-11-25T09:02:45.150Z changed=2026-11-25T09:02:45.150Z
+tags="LiDAR"
+note="Wall or cliff, 2.3 m high, 13 m long: check"
+5044 -7125
+5079 -6798
