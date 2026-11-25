@@ -1,0 +1,38 @@
+# otools-map 1 symbol
+symbol=525.000 type=point
+extent=117
+filePos=2245404
+nColors=1
+colors=2
+description="Small tower"
+element elements line color=2 width=24 diameter=4 flags=4
+  0 -105
+  0 33
+element elements line color=2 width=24 diameter=4 flags=4
+  -75 33
+  75 33
+icon
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c00007c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c00007c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c00007c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c00007c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c00007c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c00007c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c00007c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c00007c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c00007c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c0000000000000000000000007c7c7c7c7c
+  7c7c7c7c7c0000000000000000000000007c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+rest=800
+  @668 06

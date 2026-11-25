@@ -1,0 +1,54 @@
+# otools-map 1 symbol
+symbol=713.000 type=point
+extent=333
+filePos=2277168
+nColors=1
+colors=52
+description="Refreshment point"
+element elements line color=52 width=52 diameter=1 flags=1
+  -240 162
+  -240 192 c1
+  -131 219 c2
+  0 219
+  129 219 c1
+  234 190 c2
+  234 165
+  234 135 c1
+  129 102 c2
+  0 102
+  -131 102 c1
+  -240 130 c2
+  -240 160
+  -138 -234
+  -129 -255 c1
+  -83 -257 c2
+  0 -257
+  81 -257 c1
+  135 -251 c2
+  135 -231
+  234 162
+icon
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c4f4f4f4f4f4f7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c4f7c7c7c7c7c7c4f7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c4f7c7c7c7c7c7c4f7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c4f7c7c7c7c7c7c4f7c7c7c7c7c7c7c
+  7c7c7c7c7c7c4f7c7c7c7c7c7c7c7c4f7c7c7c7c7c7c
+  7c7c7c7c7c7c4f7c7c7c7c7c7c7c7c4f7c7c7c7c7c7c
+  7c7c7c7c7c7c4f7c7c7c7c7c7c7c7c4f7c7c7c7c7c7c
+  7c7c7c7c7c7c4f7c7c7c7c7c7c7c7c4f7c7c7c7c7c7c
+  7c7c7c7c7c7c4f7c7c7c7c7c7c7c7c4f7c7c7c7c7c7c
+  7c7c7c7c7c4f7c7c7c7c7c7c7c7c7c7c4f7c7c7c7c7c
+  7c7c7c7c7c4f7c7c7c7c7c7c7c7c7c7c4f7c7c7c7c7c
+  7c7c7c7c7c4f7c4f4f4f4f4f4f4f4f7c4f7c7c7c7c7c
+  7c7c7c7c7c4f4f7c7c7c7c7c7c7c7c4f4f7c7c7c7c7c
+  7c7c7c7c7c4f7c7c7c7c7c7c7c7c7c7c4f7c7c7c7c7c
+  7c7c7c7c7c4f7c7c7c7c7c7c7c7c7c7c4f7c7c7c7c7c
+  7c7c7c7c7c7c4f7c7c7c7c7c7c7c7c4f7c7c7c7c7c7c
+  7c7c7c7c7c7c7c4f4f4f4f4f4f4f4f7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+rest=800
+  @668 08

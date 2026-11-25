@@ -1,0 +1,40 @@
+# otools-map 1 symbol
+symbol=410.001 type=area
+flags=1
+tool=1
+filePos=2191252
+nColors=2
+colors=26,23
+description="Vegetation: fight, one direction"
+fillColor=26
+hatchMode=1
+hatchColor=23
+hatchLineWidth=60
+hatchDist=225
+hatchAngle1=900
+fillOn=1
+icon
+  0f0f0f0f0f0f0f0f0f0f7c7c7c0f0f0f0f0f0f0f7c7c
+  0f0f0f0f0f0f0f0f0f7c7c7c0f0f0f0f0f0f0f7c7c7c
+  0f0f0f0f0f0f0f0f7c7c7c0f0f0f0f0f0f0f7c7c7c0f
+  0f0f0f0f0f0f0f7c7c7c0f0f0f0f0f0f0f7c7c7c0f0f
+  0f0f0f0f0f0f7c7c7c0f0f0f0f0f0f0f7c7c7c0f0f0f
+  0f0f0f0f0f7c7c7c0f0f0f0f0f0f0f7c7c7c0f0f0f0f
+  0f0f0f0f7c7c7c0f0f0f0f0f0f0f7c7c7c0f0f0f0f0f
+  0f0f0f7c7c7c0f0f0f0f0f0f0f7c7c7c0f0f0f0f0f0f
+  0f0f7c7c7c0f0f0f0f0f0f0f7c7c7c0f0f0f0f0f0f0f
+  0f7c7c7c0f0f0f0f0f0f0f7c7c7c0f0f0f0f0f0f0f7c
+  7c7c7c0f0f0f0f0f0f0f7c7c7c0f0f0f0f0f0f0f7c7c
+  7c7c0f0f0f0f0f0f0f7c7c7c0f0f0f0f0f0f0f7c7c7c
+  7c0f0f0f0f0f0f0f7c7c7c0f0f0f0f0f0f0f7c7c7c0f
+  0f0f0f0f0f0f0f7c7c7c0f0f0f0f0f0f0f7c7c7c0f0f
+  0f0f0f0f0f0f7c7c7c0f0f0f0f0f0f0f7c7c7c0f0f0f
+  0f0f0f0f0f7c7c7c0f0f0f0f0f0f0f7c7c7c0f0f0f0f
+  0f0f0f0f7c7c7c0f0f0f0f0f0f0f7c7c7c0f0f0f0f0f
+  0f0f0f7c7c7c0f0f0f0f0f0f0f7c7c7c0f0f0f0f0f0f
+  0f0f7c7c7c0f0f0f0f0f0f0f7c7c7c0f0f0f0f0f0f0f
+  0f7c7c7c0f0f0f0f0f0f0f7c7c7c0f0f0f0f0f0f0f0f
+  7c7c7c0f0f0f0f0f0f0f7c7c7c0f0f0f0f0f0f0f0f0f
+  7c7c0f0f0f0f0f0f0f7c7c7c0f0f0f0f0f0f0f0f0f0f
+rest=832
+  @668 05

@@ -1,0 +1,47 @@
+# otools-map 1 symbol
+symbol=514.000 type=line
+tool=1
+extent=30
+filePos=2228876
+nColors=1
+colors=2
+description="Ruined wall"
+lineColor=2
+lineWidth=21
+lineStyle=4
+mainLength=300
+endLength=124
+secGap=52
+nPrimSym=1
+dblFillColor=50
+dblLeftColor=50
+dblRightColor=50
+frColor=50
+element prim dot color=2 width=18 diameter=60 flags=40
+  0 0
+icon
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c0000007c7c7c7c7c7c7c7c7c7c0000007c7c7c
+  7c7c00000000007c7c7c7c7c7c7c7c00000000007c7c
+  000000000000000000007c7c00000000000000000000
+  000000000000000000007c7c00000000000000000000
+  7c7c00000000007c7c7c7c7c7c7c7c00000000007c7c
+  7c7c7c0000007c7c7c7c7c7c7c7c7c7c0000007c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+rest=872
+  @668 06
+  @852 01

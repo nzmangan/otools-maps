@@ -1,0 +1,47 @@
+# otools-map 1 symbol
+symbol=510.000 type=line
+tool=6
+extent=66
+filePos=2221596
+nColors=1
+colors=2
+description="Power line, cableway or skilift"
+lineColor=2
+lineWidth=21
+dblFillColor=2
+dblLeftColor=2
+dblRightColor=2
+dblWidth=93
+dblLeftWidth=21
+dblRightWidth=21
+frColor=2
+element corner line color=2 width=21
+  0 -56
+  0 55
+icon
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c00007c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c00007c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c00007c7c7c7c7c7c7c7c7c
+  00000000000000000000000000000000000000000000
+  00000000000000000000000000000000000000000000
+  7c7c7c7c7c7c7c7c7c7c7c00007c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c00007c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c00007c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+rest=872
+  @668 06
+  @852 01
+  @870 04

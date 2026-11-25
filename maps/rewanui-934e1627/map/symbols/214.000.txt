@@ -1,0 +1,35 @@
+# otools-map 1 symbol
+symbol=214.000 type=area
+tool=1
+filePos=2157044
+nColors=1
+colors=30
+description="Bare rock"
+fillColor=30
+hatchColor=33
+fillOn=1
+icon
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c5d5d5d5d5d7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c5d5d5d5d5d5d5d7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c5d5d5d5d5d5d5d5d7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c5d5d5d5d5d5d5d5d7c7c7c7c7c
+  7c7c7c7c7c7c5d5d5d5d5d5d5d5d5d5d5d7c7c7c7c7c
+  7c7c7c7c7c5d5d5d5d5d5d5d5d5d5d5d5d7c7c7c7c7c
+  7c7c7c7c5d5d5d5d5d5d5d5d5d5d5d5d7c7c7c7c7c7c
+  7c7c7c7c5d5d5d5d5d5d5d5d5d5d5d7c7c7c7c7c7c7c
+  7c7c7c7c5d5d5d5d5d5d5d5d5d5d7c7c7c7c7c7c7c7c
+  7c7c7c7c5d5d5d5d5d5d5d5d5d7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c5d5d5d5d5d5d5d7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c5d5d5d5d5d7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c5d5d5d7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+rest=832
+  @668 03

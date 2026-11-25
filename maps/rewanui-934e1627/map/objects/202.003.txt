@@ -1,0 +1,13 @@
+# otools-map 1 objects 202.003
+
+@~pyftuh3z point col=2 server=-1 made=2026-02-12T04:55:44.5509998Z changed=2026-02-12T04:55:44.5509998Z res1=1 status=1 icol=2 ilen=80
+11513 8074
+
+@~4r7tkzoo point ang=-792 col=2 server=-1 made=2026-02-13T07:34:27.125Z changed=2026-02-13T07:35:24.056Z res1=1 status=1 icol=2 ilen=80
+13695 1325
+
+@~35vbvz2n point ang=-754 server=-1 made=2026-03-09T07:35:11.650Z changed=2026-03-09T07:35:11.650Z status=1 icol=2 ilen=64
+14239 5039
+
+@~iet2jfws point ang=-705 server=-1 made=2026-03-09T07:35:32.916Z changed=2026-03-09T07:35:32.916Z status=1 icol=2 ilen=64
+14176 5073

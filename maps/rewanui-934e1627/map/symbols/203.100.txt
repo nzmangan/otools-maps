@@ -1,0 +1,39 @@
+# otools-map 1 symbol
+symbol=203.100 type=point
+extent=77
+filePos=2141244
+nColors=1
+colors=2
+description="Rocky pit"
+element elements area color=2
+  0 -77
+  52 43 corner
+  25 43 corner
+  0 -24 corner
+  -26 43 corner
+  -53 43
+icon
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c0000007c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c0000007c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c00000000007c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c00007c00007c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c0000007c0000007c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c00007c7c7c00007c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c0000007c7c7c0000007c7c7c7c7c7c
+  7c7c7c7c7c7c7c00007c7c7c7c7c00007c7c7c7c7c7c
+  7c7c7c7c7c7c0000007c7c7c7c7c0000007c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+rest=800
+  @668 03

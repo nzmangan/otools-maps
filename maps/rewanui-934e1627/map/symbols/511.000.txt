@@ -1,0 +1,47 @@
+# otools-map 1 symbol
+symbol=511.000 type=line
+tool=6
+extent=128
+filePos=2222500
+nColors=1
+colors=2
+description="Major power line"
+lineColor=2
+dblMode=1
+dblFillColor=2
+dblLeftColor=2
+dblRightColor=2
+dblWidth=93
+dblLeftWidth=21
+dblRightWidth=21
+frColor=2
+element corner line color=2 width=30
+  0 -113
+  0 112
+icon
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c00007c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c00007c7c7c7c7c7c7c7c7c7c
+  00000000000000000000000000000000000000000000
+  7c7c7c7c7c7c7c7c7c7c00007c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c00007c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c00007c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c00007c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c00007c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c00007c7c7c7c7c7c7c7c7c7c
+  00000000000000000000000000000000000000000000
+  7c7c7c7c7c7c7c7c7c7c00007c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c00007c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+rest=872
+  @668 06
+  @852 01
+  @870 04

@@ -1,0 +1,35 @@
+# otools-map 1 symbol
+symbol=301.005 type=area
+tool=1
+filePos=2162988
+nColors=1
+colors=17
+description="Dominant uncrossable body of water 70% Blue (Area)"
+fillColor=17
+hatchColor=29
+fillOn=1
+icon
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c2c2c2c2c2c2c2c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c2c2c2c2c2c2c2c2c2c2c2c7c7c7c7c7c
+  7c7c7c7c7c2c2c2c2c2c2c2c2c2c2c2c2c2c7c7c7c7c
+  7c7c7c7c2c2c2c2c2c2c2c2c2c2c2c2c2c2c2c7c7c7c
+  7c7c7c7c2c2c2c2c2c2c2c2c2c2c2c2c2c2c2c7c7c7c
+  7c7c7c7c2c2c2c2c2c2c2c2c2c2c2c2c2c2c2c7c7c7c
+  7c7c7c7c7c2c2c2c2c2c2c2c2c2c2c2c2c2c7c7c7c7c
+  7c7c7c7c7c7c2c2c2c2c2c2c2c2c2c2c2c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c2c2c2c2c2c2c2c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+rest=832
+  @668 04

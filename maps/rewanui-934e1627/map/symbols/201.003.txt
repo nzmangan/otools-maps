@@ -1,0 +1,40 @@
+# otools-map 1 symbol
+symbol=201.003 type=line
+tool=6
+extent=9
+filePos=2134092
+nColors=1
+colors=2
+description="Impassable cliff, only tag"
+lineColor=2
+lineWidth=18
+dblFillColor=29
+dblLeftColor=29
+dblRightColor=29
+frColor=29
+icon
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c007c7c7c007c7c7c007c7c7c007c7c7c007c7c7c
+  7c7c007c7c7c007c7c7c007c7c7c007c7c7c007c7c7c
+  7c7c007c7c7c007c7c7c007c7c7c007c7c7c007c7c7c
+  7c7c007c7c7c007c7c7c007c7c7c007c7c7c007c7c7c
+  7c7c007c7c7c007c7c7c007c7c7c007c7c7c007c7c7c
+  7c7c007c7c7c007c7c7c007c7c7c007c7c7c007c7c7c
+  7c7c007c7c7c007c7c7c007c7c7c007c7c7c007c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+rest=872
+  @668 03
+  @852 01

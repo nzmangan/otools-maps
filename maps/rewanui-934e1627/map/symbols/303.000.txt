@@ -1,0 +1,39 @@
+# otools-map 1 symbol
+symbol=303.000 type=point
+extent=75
+filePos=2167228
+nColors=1
+colors=4
+description=Waterhole
+element elements area color=4 width=1
+  0 -75
+  52 45 corner
+  25 45 corner
+  0 -23 corner
+  -26 45 corner
+  -53 45
+icon
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c0e0e0e7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c0e0e0e7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c0e0e0e0e0e7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c0e0e7c0e0e7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c0e0e0e7c0e0e0e7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c0e0e7c7c7c0e0e7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c0e0e0e7c7c7c0e0e0e7c7c7c7c7c7c
+  7c7c7c7c7c7c7c0e0e7c7c7c7c7c0e0e7c7c7c7c7c7c
+  7c7c7c7c7c7c0e0e0e7c7c7c7c7c0e0e0e7c7c7c7c7c
+  7c7c7c7c7c7c0e0e7c7c7c7c7c7c7c0e0e7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+rest=800
+  @668 04

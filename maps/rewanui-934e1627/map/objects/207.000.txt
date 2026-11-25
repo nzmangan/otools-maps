@@ -1,0 +1,10 @@
+# otools-map 1 objects 207.000
+
+@~nduo3cas point col=2 server=-1 made=2025-11-02T17:43:28.486Z changed=2025-11-25T08:25:15.834Z res1=1 status=1 icol=2 ilen=80
+8718 7594
+
+@~csv6mxnb point ang=-1171 col=2 server=-1 made=2025-12-04T04:46:43.189Z changed=2025-12-28T07:15:09.486Z res1=1 status=1 icol=2 ilen=80
+8612 7170
+
+@~qhkesdx4 point col=2 server=-1 made=2025-12-28T07:14:24.2129998Z changed=2025-12-28T07:14:24.2129998Z res1=1 status=1 icol=2 ilen=80
+8906 6570

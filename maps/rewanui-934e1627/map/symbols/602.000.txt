@@ -1,0 +1,38 @@
+# otools-map 1 symbol
+symbol=602.000 type=point
+extent=307
+filePos=2255812
+nColors=1
+colors=1
+description="Registration mark"
+element elements line color=1 width=15
+  -300 0
+  300 0
+element elements line color=1 width=15
+  0 -300
+  0 300
+icon
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c000000000000000000000000000000000000007c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+rest=800
+  @668 07

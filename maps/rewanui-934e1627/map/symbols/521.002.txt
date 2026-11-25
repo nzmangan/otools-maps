@@ -1,0 +1,43 @@
+# otools-map 1 symbol
+symbol=521.002 type=line
+tool=5
+extent=15
+filePos=2239348
+nColors=1
+colors=2
+description="Large building outline"
+lineColor=2
+lineWidth=30
+lineStyle=4
+minSym=-1
+dblFillColor=2
+dblLeftColor=2
+dblRightColor=2
+dblRightWidth=30
+frColor=2
+icon
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c0000000000007c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c007c7c7c7c007c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c007c7c7c7c007c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c007c7c7c7c007c7c7c
+  7c7c7c00000000000000000000007c7c7c7c007c7c7c
+  7c7c7c007c7c7c7c7c7c7c7c7c7c7c7c7c7c007c7c7c
+  7c7c7c007c7c7c7c7c7c7c7c7c7c7c7c7c7c007c7c7c
+  7c7c7c007c7c7c7c7c7c7c7c7c7c7c7c7c7c007c7c7c
+  7c7c7c007c7c7c7c7c7c7c7c7c7c7c7c7c7c007c7c7c
+  7c7c7c007c7c7c7c7c7c7c7c7c7c7c7c7c7c007c7c7c
+  7c7c7c007c7c7c7c7c7c7c7c7c7c7c7c7c7c007c7c7c
+  7c7c7c000000000000000000000000000000007c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+rest=872
+  @668 06
+  @852 01

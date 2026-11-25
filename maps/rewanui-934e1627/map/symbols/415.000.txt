@@ -1,0 +1,41 @@
+# otools-map 1 symbol
+symbol=415.000 type=line
+tool=1
+extent=7
+filePos=2196356
+nColors=1
+colors=2
+description="Distinct cultivation boundary"
+lineColor=2
+lineWidth=15
+minSym=-1
+dblFillColor=29
+dblLeftColor=29
+dblRightColor=29
+frColor=29
+icon
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c7c7c
+rest=872
+  @668 05
+  @852 01

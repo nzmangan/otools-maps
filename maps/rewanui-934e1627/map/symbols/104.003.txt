@@ -1,0 +1,42 @@
+# otools-map 1 symbol
+symbol=104.003 type=point
+flags=1
+extent=96
+filePos=2114708
+nColors=1
+colors=15
+description="Earth bank, minimum without end tags"
+element elements line color=15 width=38
+  45 0
+  -45 0
+element elements line color=15 width=21
+  34 0
+  34 79
+element elements line color=15 width=21
+  -35 0
+  -35 79
+icon
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c4b4b7c7c7c7c4b4b7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c4b507c7c7c7c504b7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c4b507c7c7c7c504b7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c4b507c7c7c7c504b7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c4b5050505050504b7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c4b4b4b4b4b4b4b4b7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+rest=800
+  @668 02

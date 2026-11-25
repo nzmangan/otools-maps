@@ -1,0 +1,5 @@
+# otools-map 1 objects 709.004
+
+@~4qdreof3 line col=50 server=-1 made=2025-11-27T21:29:13.6179998Z changed=2025-12-03T23:16:28.735Z res1=1 status=1 icol=50 ilen=88
+18566 -4518
+18567 -4518

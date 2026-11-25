@@ -1,0 +1,4 @@
+# otools-map 1 objects 512.002
+
+@~2sltwawz point ang=1350 col=2 server=-1 made=2025-10-07T18:00:01.120Z changed=2025-11-25T08:25:15.733Z res1=1 status=1 icol=2 ilen=80
+15044 1491

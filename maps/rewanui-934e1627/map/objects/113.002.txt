@@ -1,0 +1,7 @@
+# otools-map 1 objects 113.002
+
+@~74kza5bg point col=15 server=-1 made=2025-10-04T07:56:16.0310002Z changed=2025-11-25T08:25:15.727Z res1=1 status=1 icol=15 ilen=80
+14356 2830
+
+@~ng7lbfcu point col=15 server=-1 made=2025-10-11T07:57:51.7929998Z changed=2025-11-25T08:25:15.739Z res1=1 status=1 icol=15 ilen=80
+21287 -2182

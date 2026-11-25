@@ -1,0 +1,80 @@
+# otools-map 1 symbol
+symbol=209.000 type=area
+flags=1
+tool=1
+extent=183
+filePos=2151580
+nColors=1
+colors=2
+description="Dense boulder field, difficult to run"
+fillColor=29
+hatchColor=29
+structMode=2
+structWidth=300
+structHeight=300
+element elements area color=2 width=10
+  -26 -138
+  -23 -51 corner
+  52 -48 corner
+  -26 -138
+element elements area color=2
+  79 -56
+  112 24 corner
+  46 60 corner
+  79 -56
+element elements area color=2
+  10 7
+  -65 -41 corner
+  -110 22 corner
+  10 7
+element elements area color=2
+  -56 -144
+  -137 -114 corner
+  -116 -42 corner
+  -56 -144
+element elements area color=2
+  115 -45
+  121 -132 corner
+  46 -141 corner
+  115 -45
+element elements area color=2
+  21 73
+  84 133 corner
+  141 82 corner
+  21 73
+element elements area color=2
+  -33 142
+  -54 57 corner
+  16 33 corner
+  -33 142
+element elements area color=2
+  -140 37
+  -135 123 corner
+  -59 124 corner
+  -140 37
+icon
+  000000007c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  0000007c7c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c
+  00007c7c7c7c7c7c7c7c7c7c00007c7c7c7c7c7c7c7c
+  007c7c7c0000007c7c7c7c7c0000007c000000007c7c
+  7c7c007c00007c7c7c007c7c000000007c0000007c7c
+  7c00007c007c7c7c0000007c7c7c7c7c7c7c00007c7c
+  0000007c7c7c7c00000000007c7c007c7c7c7c007c7c
+  7c00007c7c7c7c7c7c7c7c7c7c7c00007c7c7c7c7c7c
+  7c7c007c7c7c7c7c7c0000007c7c0000007c7c7c7c7c
+  7c7c7c7c7c007c7c7c7c00007c7c00007c7c7c7c7c7c
+  7c7c7c7c00007c7c7c7c7c007c7c007c7c7c7c7c7c7c
+  7c7c7c0000007c0000007c7c7c7c7c7c7c0000000000
+  7c7c7c7c00007c7c00007c7c0000007c7c7c0000007c
+  7c7c7c7c7c007c7c7c007c7c00007c7c7c7c7c007c7c
+  7c0000007c7c7c7c7c7c7c7c007c7c7c7c7c7c7c7c7c
+  7c7c00007c7c7c7c7c7c7c7c7c7c000000007c7c7c7c
+  7c7c7c007c7c7c00000000007c7c7c0000007c7c7c7c
+  7c7c7c7c7c7c7c7c0000007c7c7c7c7c00007c7c7c7c
+  7c7c00000000007c7c007c7c007c7c7c7c007c7c7c7c
+  7c7c7c0000007c7c7c7c7c7c00007c7c7c7c7c7c7c7c
+  7c7c7c7c007c7c7c7c7c7c7c0000007c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+rest=832
+  @668 03
+  @817 03

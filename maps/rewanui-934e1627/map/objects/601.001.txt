@@ -1,0 +1,57 @@
+# otools-map 1 objects 601.001
+
+@~hcaojqbb line col=4 server=-1 made=2025-12-29T03:53:40.1730002Z changed=2025-12-29T03:54:28.662Z res1=1 status=1 icol=4 ilen=88
+7500 7638
+7500 3858
+
+@~2xypu4ee line col=4 server=-1 made=2025-12-29T03:53:40.1730002Z changed=2025-12-29T03:59:37.960Z res1=1 status=1 icol=4 ilen=104
+10000 12264
+10000 7023 noleft noright x:8
+10000 6637
+10000 2381
+
+@~xyylruqy line col=4 server=-1 made=2025-12-29T03:53:40.1730002Z changed=2025-12-29T04:01:09.047Z res1=1 status=1 icol=4 ilen=152
+12500 12908
+12500 11060 noleft noright x:8
+12500 10634
+12500 9057 noleft noright x:8
+12500 8853
+12500 -1689 noleft noright x:8
+12500 -1838
+12500 -2319 noleft noright x:8
+12500 -2682
+12500 -4291
+
+@~2myqlomc line col=4 server=-1 made=2025-12-29T03:53:40.1730002Z changed=2025-12-29T04:02:02.644Z res1=1 status=1 icol=4 ilen=120
+15000 12908
+15000 2183 noleft noright x:8
+15000 -411
+15000 -1279 noleft noright x:8
+15000 -1799
+15000 -4486
+
+@~6khrpbgb line col=4 server=-1 made=2025-12-29T03:53:40.1730002Z changed=2025-12-29T04:03:10.005Z res1=1 status=1 icol=4 ilen=120
+17500 12896
+17500 4035 noleft noright x:8
+17500 3641
+17500 3058 noleft noright x:8
+17500 2719
+17500 -3335
+
+@~7jgcxrdx line col=4 server=-1 made=2025-12-29T03:53:40.1730002Z changed=2025-12-29T03:58:20.406Z res1=1 status=1 icol=4 ilen=88
+20000 12525
+20000 -3934
+
+@~xeyqoaze line col=4 server=-1 made=2025-12-29T03:53:40.1730002Z changed=2025-12-29T03:58:33.787Z res1=1 status=1 icol=4 ilen=88
+22500 11554
+22500 -2851
+
+@~defszs3m line col=4 server=-1 made=2025-12-29T03:53:40.1739998Z changed=2025-12-29T04:03:56.072Z res1=1 status=1 icol=4 ilen=104
+25000 11948
+25000 5092 noleft noright x:8
+25000 4832
+25000 98
+
+@~rhkv3fdr line col=4 server=-1 made=2025-12-29T03:53:40.1739998Z changed=2025-12-29T03:58:56.468Z res1=1 status=1 icol=4 ilen=88
+27500 12842
+27500 7449

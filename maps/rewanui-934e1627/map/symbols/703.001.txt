@@ -1,0 +1,34 @@
+# otools-map 1 symbol
+symbol=703.001 type=point
+flags=1
+extent=200
+filePos=2261040
+nColors=1
+colors=52
+description="Needs Field Check"
+element elements circle color=52 width=26 diameter=375 flags=500
+  0 0
+icon
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c54547c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c54547c7c54547c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c547c7c7c7c547c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c547c7c7c7c7c7c547c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c547c7c7c7c7c7c547c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c547c7c7c7c547c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c54547c7c54547c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c54547c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+rest=800

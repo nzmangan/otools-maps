@@ -1,0 +1,7 @@
+# otools-map 1 objects 204.001
+
+@~jws2e4jf point col=2 server=-1 made=2025-12-03T22:40:40.811Z changed=2026-02-13T07:38:49.764Z res1=1 status=1 icol=2 ilen=80
+12367 1725
+
+@~u4x6zqvh point col=2 server=-1 made=2026-02-05T08:35:21.9110002Z changed=2026-02-05T08:35:21.9110002Z res1=1 status=1 icol=2 ilen=80
+13942 9756

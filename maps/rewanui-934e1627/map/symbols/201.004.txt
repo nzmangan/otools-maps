@@ -1,0 +1,42 @@
+# otools-map 1 symbol
+symbol=201.004 type=point
+flags=1
+extent=104
+filePos=2134964
+nColors=1
+colors=2
+description="Impassable cliff, minimum"
+element elements line color=2 width=52 diameter=1 flags=1
+  27 0
+  -27 0
+element elements line color=2 width=18 diameter=4 flags=4
+  -38 0
+  -38 87
+element elements line color=2 width=18 diameter=4 flags=4
+  37 0
+  37 87
+icon
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c007c7c7c7c007c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c007c7c7c7c007c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c007c7c7c7c007c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c00000000000000007c7c7c7c7c7c7c7c
+  7c7c7c7c7c000000000000000000007c7c7c7c7c7c7c
+  7c7c7c7c7c7c00000000000000007c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+rest=800
+  @668 03

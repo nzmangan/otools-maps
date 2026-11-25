@@ -1,0 +1,38 @@
+# otools-map 1 symbol
+symbol=522.000 type=area
+tool=5
+extent=7
+filePos=2241076
+nColors=2
+colors=12,2
+description=Canopy
+borderSym=522001
+fillColor=12
+hatchColor=2
+fillOn=1
+borderOn=1
+icon
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e7c7c7c
+  7c7c7c3e5d5d5d5d5d5d5d5d5d5d5d5d5d5d3e7c7c7c
+  7c7c7c3e5d5d5d5d5d5d5d5d5d5d5d5d5d5d3e7c7c7c
+  7c7c7c3e5d5d5d5d5d5d5d5d5d5d5d5d5d5d3e7c7c7c
+  7c7c7c3e5d5d5d5d5d5d5d5d5d5d5d5d5d5d3e7c7c7c
+  7c7c7c3e5d5d5d5d5d5d5d5d5d5d5d5d5d5d3e7c7c7c
+  7c7c7c3e5d5d5d5d5d5d5d5d5d5d5d5d5d5d3e7c7c7c
+  7c7c7c3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+rest=832
+  @668 06

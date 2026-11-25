@@ -1,0 +1,36 @@
+# otools-map 1 symbol
+symbol=512.002 type=point
+flags=1
+extent=108
+filePos=2226148
+nColors=1
+colors=2
+description="Footbridge, minimum"
+element elements line color=2 width=38 diameter=4 flags=4
+  0 -89
+  0 88
+icon
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c0e0e7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c0e0e7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c0e7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c0e0e7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c0e0e7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c0e0e7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c0e0e7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c00000000000000007c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c00000000000000007c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c0e0e7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c0e0e7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c0e0e7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c0e0e7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c0e0e7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c0e0e7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c0e0e7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+rest=800
+  @668 06

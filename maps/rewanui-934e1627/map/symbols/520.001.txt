@@ -1,0 +1,40 @@
+# otools-map 1 symbol
+symbol=520.001 type=line
+extent=13
+filePos=2236812
+nColors=1
+colors=2
+description="Area that shall not be entered, outline"
+lineColor=2
+lineWidth=27
+lineStyle=4
+minSym=-1
+dblFillColor=29
+dblLeftColor=29
+dblRightColor=29
+frColor=29
+icon
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c0000000000000000000000007c7c7c7c7c
+  7c7c7c7c7c0000000000000000000000007c7c7c7c7c
+  7c7c7c7c7c00007c7c7c7c7c7c7c7c00007c7c7c7c7c
+  7c7c7c7c7c00007c7c7c7c7c7c7c7c00007c7c7c7c7c
+  7c7c7c7c7c00007c7c7c7c7c7c7c7c00007c7c7c7c7c
+  7c7c7c7c7c00007c7c7c7c7c7c7c7c00007c7c7c7c7c
+  7c7c7c7c7c00007c7c7c7c7c7c7c7c00007c7c7c7c7c
+  7c7c7c7c7c00007c7c7c7c7c7c7c7c00007c7c7c7c7c
+  7c7c7c7c7c00007c7c7c7c7c7c7c7c00007c7c7c7c7c
+  7c7c7c7c7c00007c7c7c7c7c7c7c7c00007c7c7c7c7c
+  7c7c7c7c7c0000000000000000000000007c7c7c7c7c
+  7c7c7c7c7c0000000000000000000000007c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+rest=872
+  @668 06

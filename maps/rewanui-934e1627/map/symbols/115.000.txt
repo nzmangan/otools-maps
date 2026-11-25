@@ -1,0 +1,37 @@
+# otools-map 1 symbol
+symbol=115.000 type=point
+extent=67
+filePos=2130636
+nColors=1
+colors=5
+description="Prominent landform feature"
+element elements line color=5 width=27 diameter=4 flags=4
+  -47 -27
+  42 -27 corner
+  0 49 corner
+  -47 -27
+icon
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c5050505050505050505050507c7c7c7c7c
+  7c7c7c7c7c5050505050505050505050507c7c7c7c7c
+  7c7c7c7c7c7c50507c7c7c7c7c7c50507c7c7c7c7c7c
+  7c7c7c7c7c7c5050507c7c7c7c50507c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c50507c7c7c7c50507c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c50507c7c50507c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c50507c7c50507c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c505050507c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c505050507c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c50507c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+  7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c
+rest=800
+  @668 02
