@@ -1,9 +1,0 @@
-{"format":"otools-map","version":2,"kind":"objects","symbol":"205.000",
-"objects":[
-{"id":"tedver4p","type":"point","col":2,"server":-1,"made":"2026-11-25T22:07:20.942Z","changed":"2026-11-25T22:07:20.942Z","otype":1,"status":1,"icol":2,"ilen":104,"points":[
- [21875,-2043]
-]},
-{"id":"lkomiv4j","type":"point","col":2,"server":-1,"made":"2026-11-25T22:07:22.606Z","changed":"2026-11-25T22:07:22.606Z","otype":1,"status":1,"icol":2,"ilen":104,"points":[
- [21346,-1822]
-]}
-]}
