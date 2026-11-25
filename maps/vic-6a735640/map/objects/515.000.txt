@@ -1,0 +1,13 @@
+# otools-map 1 objects 515.000
+
+@7aw5elkz line col=4 server=-1 made=2026-11-25T11:27:35.495Z changed=2026-11-25T11:27:35.495Z otype=1 status=1 icol=4
+-2469 7830
+-2470 7571
+
+@4ual7asj line col=4 server=-1 made=2026-11-25T11:27:48.351Z changed=2026-11-25T11:27:48.351Z otype=1 status=1 icol=4
+-2465 7490
+-2466 7265
+
+@4cx2d3jj line col=4 server=-1 made=2026-11-25T11:27:54.827Z changed=2026-11-25T11:27:54.827Z otype=1 status=1 icol=4
+-2524 7264
+-2527 7496
