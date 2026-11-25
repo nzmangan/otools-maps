@@ -1,6 +1,0 @@
-# otools-map 1 map
-ocad=2018 sub=8 subsub=3 objlen=units
-filename="C:\\Ingham\\Orienteering\\events\\ONZ2026\\rewanui fp\\Rewanui_20260319.ocd" filenamelen=128
-header
-  rQwAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC3TwAAAAAAAAAAAAAA
-  AAAA
