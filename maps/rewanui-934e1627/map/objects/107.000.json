@@ -1,0 +1,9 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"107.000",
+"objects":[
+{"id":"~luv5fz2w","type":"line","col":15,"server":-1,"made":"2025-10-16T07:04:53.499Z","changed":"2025-12-03T23:16:28.544Z","res1":1,"status":1,"icol":15,"ilen":104,"points":[
+ [24164,4680],
+ [24131,4681,"c1"],
+ [24078,4688,"c2"],
+ [24046,4680]
+]}
+]}

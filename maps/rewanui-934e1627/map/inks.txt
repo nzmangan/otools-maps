@@ -1,8 +1,0 @@
-# otools-map 1 inks
-10	Prozess Black	n0	v1	c0.0	m0.0	y0.0	k100.0	f1500.0	a45.0
-10	PMS299_Blue	n1	v1	c100.0	m0.0	y0.0	k0.0	f1500.0	a45.0
-10	PMS471_Brown	n2	v1	c0.0	m56.0	y100.0	k18.0	f1500.0	a45.0
-10	PMS361_Green	n3	v1	c76.0	m0.0	y91.0	k0.0	f1500.0	a45.0
-10	PMS136_Yellow	n4	v1	c0.0	m27.0	y79.0	k0.0	f1500.0	a30.0
-10	Purple	n5	v1	c35.0	m85.0	y0.0	k0.0	f1500.0	a45.0
-10	PMS428_Grey	n6	v1	c0.0	m0.0	y0.0	k30.0	f1500.0	a45.0

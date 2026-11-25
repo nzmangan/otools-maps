@@ -1,0 +1,59 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"601.001",
+"objects":[
+{"id":"~hcaojqbb","type":"line","col":4,"server":-1,"made":"2025-12-29T03:53:40.1730002Z","changed":"2025-12-29T03:54:28.662Z","res1":1,"status":1,"icol":4,"ilen":88,"points":[
+ [7500,7638],
+ [7500,3858]
+]},
+{"id":"~2xypu4ee","type":"line","col":4,"server":-1,"made":"2025-12-29T03:53:40.1730002Z","changed":"2025-12-29T03:59:37.960Z","res1":1,"status":1,"icol":4,"ilen":104,"points":[
+ [10000,12264],
+ [10000,7023,"noleft","noright","x:8"],
+ [10000,6637],
+ [10000,2381]
+]},
+{"id":"~xyylruqy","type":"line","col":4,"server":-1,"made":"2025-12-29T03:53:40.1730002Z","changed":"2025-12-29T04:01:09.047Z","res1":1,"status":1,"icol":4,"ilen":152,"points":[
+ [12500,12908],
+ [12500,11060,"noleft","noright","x:8"],
+ [12500,10634],
+ [12500,9057,"noleft","noright","x:8"],
+ [12500,8853],
+ [12500,-1689,"noleft","noright","x:8"],
+ [12500,-1838],
+ [12500,-2319,"noleft","noright","x:8"],
+ [12500,-2682],
+ [12500,-4291]
+]},
+{"id":"~2myqlomc","type":"line","col":4,"server":-1,"made":"2025-12-29T03:53:40.1730002Z","changed":"2025-12-29T04:02:02.644Z","res1":1,"status":1,"icol":4,"ilen":120,"points":[
+ [15000,12908],
+ [15000,2183,"noleft","noright","x:8"],
+ [15000,-411],
+ [15000,-1279,"noleft","noright","x:8"],
+ [15000,-1799],
+ [15000,-4486]
+]},
+{"id":"~6khrpbgb","type":"line","col":4,"server":-1,"made":"2025-12-29T03:53:40.1730002Z","changed":"2025-12-29T04:03:10.005Z","res1":1,"status":1,"icol":4,"ilen":120,"points":[
+ [17500,12896],
+ [17500,4035,"noleft","noright","x:8"],
+ [17500,3641],
+ [17500,3058,"noleft","noright","x:8"],
+ [17500,2719],
+ [17500,-3335]
+]},
+{"id":"~7jgcxrdx","type":"line","col":4,"server":-1,"made":"2025-12-29T03:53:40.1730002Z","changed":"2025-12-29T03:58:20.406Z","res1":1,"status":1,"icol":4,"ilen":88,"points":[
+ [20000,12525],
+ [20000,-3934]
+]},
+{"id":"~xeyqoaze","type":"line","col":4,"server":-1,"made":"2025-12-29T03:53:40.1730002Z","changed":"2025-12-29T03:58:33.787Z","res1":1,"status":1,"icol":4,"ilen":88,"points":[
+ [22500,11554],
+ [22500,-2851]
+]},
+{"id":"~defszs3m","type":"line","col":4,"server":-1,"made":"2025-12-29T03:53:40.1739998Z","changed":"2025-12-29T04:03:56.072Z","res1":1,"status":1,"icol":4,"ilen":104,"points":[
+ [25000,11948],
+ [25000,5092,"noleft","noright","x:8"],
+ [25000,4832],
+ [25000,98]
+]},
+{"id":"~rhkv3fdr","type":"line","col":4,"server":-1,"made":"2025-12-29T03:53:40.1739998Z","changed":"2025-12-29T03:58:56.468Z","res1":1,"status":1,"icol":4,"ilen":88,"points":[
+ [27500,12842],
+ [27500,7449]
+]}
+]}

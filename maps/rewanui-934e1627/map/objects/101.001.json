@@ -1,0 +1,24 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"101.001",
+"objects":[
+{"id":"~df7fktis","type":"point","ang":-1211,"col":15,"server":-1,"made":"2025-10-07T05:38:22.939Z","changed":"2025-11-25T08:25:15.730Z","res1":1,"status":1,"icol":15,"ilen":80,"points":[
+ [12956,4596]
+]},
+{"id":"~3n6ddjlg","type":"point","ang":900,"col":15,"server":-1,"made":"2025-10-08T17:58:21.596Z","changed":"2025-11-25T08:25:15.7369998Z","res1":1,"status":1,"icol":15,"ilen":80,"points":[
+ [19176,8542]
+]},
+{"id":"~3hanfjzn","type":"point","ang":-1572,"col":15,"server":-1,"made":"2025-10-08T17:58:28.2569998Z","changed":"2025-11-25T08:25:15.7369998Z","res1":1,"status":1,"icol":15,"ilen":80,"points":[
+ [18895,8700]
+]},
+{"id":"~2fwklboo","type":"point","ang":-1644,"col":15,"server":-1,"made":"2025-10-09T06:16:16.474Z","changed":"2025-11-25T08:25:15.738Z","res1":1,"status":1,"icol":15,"ilen":80,"points":[
+ [20500,9222]
+]},
+{"id":"~6p3fzh6u","type":"point","ang":182,"col":15,"server":-1,"made":"2025-10-09T06:16:23.605Z","changed":"2025-11-25T08:25:15.738Z","res1":1,"status":1,"icol":15,"ilen":80,"points":[
+ [20603,8873]
+]},
+{"id":"~yxgjlf4i","type":"point","ang":-1393,"col":15,"server":-1,"made":"2025-10-14T05:21:32.3520002Z","changed":"2025-11-25T08:25:15.742Z","res1":1,"status":1,"icol":15,"ilen":80,"points":[
+ [23120,3381]
+]},
+{"id":"~k24xus7z","type":"point","ang":-1408,"col":15,"server":-1,"made":"2025-10-21T05:35:18.095Z","changed":"2025-11-25T08:25:15.743Z","res1":1,"status":1,"icol":15,"ilen":80,"points":[
+ [26320,11549]
+]}
+]}

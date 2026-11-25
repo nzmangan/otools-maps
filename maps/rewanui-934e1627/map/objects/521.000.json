@@ -1,0 +1,10 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"521.000",
+"objects":[
+{"id":"~4kof4q4i","type":"area","col":2,"server":-1,"made":"2025-10-13T06:29:07.3640002Z","changed":"2025-12-03T23:16:28.461Z","res1":1,"status":1,"icol":2,"ilen":112,"points":[
+ [16933,1073],
+ [16921,1029,"corner"],
+ [16956,1020,"corner"],
+ [16968,1063,"corner"],
+ [16933,1073]
+]}
+]}

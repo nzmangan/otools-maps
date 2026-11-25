@@ -1,0 +1,9 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"108.000",
+"objects":[
+{"id":"~wwhqqgm2","type":"line","col":15,"server":-1,"made":"2025-12-02T19:24:06.467Z","changed":"2025-12-03T23:16:28.761Z","res1":1,"status":1,"icol":15,"ilen":104,"points":[
+ [11221,-2154],
+ [11189,-2099,"c1"],
+ [11161,-2080,"c2"],
+ [11120,-2031]
+]}
+]}

@@ -1,13 +1,13 @@
 {
   "map": "Rewanui",
   "mapId": "m934e16273cd34a0b8f4ac80cfce8e19c",
-  "version": 2,
+  "version": 3,
   "fileName": "Rewanui.ocd",
-  "snapshot": "REady for event",
+  "snapshot": null,
   "note": null,
   "uploadedBy": "nzmangan",
-  "uploaded": "2026-11-23T11:59:47.1518991+00:00",
-  "sha256": "74bac774923d92687277b8ff4c7b65f6e154197fdd8f6586ef8ceff9cfdb8852",
+  "uploaded": "2026-11-25T21:49:46.4722081+00:00",
+  "sha256": "1cbaf0a201bec7af22a572a92dd6a699dad7f1b88b4bf03f7a9000b4ab6cbfb8",
   "scale": 10000,
   "ocadVersion": 2018
 }

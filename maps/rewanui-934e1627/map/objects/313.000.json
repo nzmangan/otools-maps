@@ -1,0 +1,21 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"313.000",
+"objects":[
+{"id":"~orx3nmfs","type":"point","col":4,"server":-1,"made":"2025-10-04T07:55:36.468Z","changed":"2025-11-25T08:25:15.727Z","res1":1,"status":1,"icol":4,"ilen":80,"points":[
+ [15358,1767]
+]},
+{"id":"~k47aeogz","type":"point","col":4,"server":-1,"made":"2025-10-07T17:41:12.9329998Z","changed":"2025-11-25T08:25:15.733Z","res1":1,"status":1,"icol":4,"ilen":80,"points":[
+ [16691,-279]
+]},
+{"id":"~lno77h3g","type":"point","col":4,"server":-1,"made":"2025-10-11T07:58:30.863Z","changed":"2025-11-25T08:25:15.739Z","res1":1,"status":1,"icol":4,"ilen":80,"points":[
+ [21225,-2517]
+]},
+{"id":"~z4z3jw2p","type":"point","col":4,"server":-1,"made":"2025-10-11T08:15:48.769Z","changed":"2025-11-25T08:25:15.739Z","res1":1,"status":1,"icol":4,"ilen":80,"points":[
+ [16756,-384]
+]},
+{"id":"~vdwmv3aa","type":"point","col":4,"server":-1,"made":"2025-10-11T08:20:55.833Z","changed":"2025-11-25T08:25:15.7399998Z","res1":1,"status":1,"icol":4,"ilen":80,"points":[
+ [18249,-1119]
+]},
+{"id":"~wsik445q","type":"point","col":4,"server":-1,"made":"2025-11-28T18:32:32.903Z","changed":"2025-11-28T18:32:32.903Z","res1":1,"status":1,"icol":4,"ilen":80,"points":[
+ [15098,-3338]
+]}
+]}

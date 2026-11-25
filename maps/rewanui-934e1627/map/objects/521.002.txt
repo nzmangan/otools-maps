@@ -1,7 +1,0 @@
-# otools-map 1 objects 521.002
-
-@~zr5o7kb7 line col=2 server=-1 made=2025-10-05T18:12:13.359Z changed=2025-12-03T23:16:28.351Z res1=1 status=1 icol=2 ilen=104
-15731 1531
-15680 1548 corner
-15701 1607 corner
-15755 1590

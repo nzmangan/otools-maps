@@ -1,0 +1,10 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"522.000",
+"objects":[
+{"id":"~kjseckv4","type":"area","server":-1,"made":"2025-10-05T18:11:55.501Z","changed":"2025-12-03T23:16:28.351Z","res1":1,"status":1,"icol":-1,"ilen":112,"points":[
+ [15696,1603],
+ [15677,1542,"corner"],
+ [15725,1528,"corner"],
+ [15747,1591,"corner"],
+ [15696,1603]
+]}
+]}
