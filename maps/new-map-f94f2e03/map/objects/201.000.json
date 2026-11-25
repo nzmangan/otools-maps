@@ -1,0 +1,19 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"201.000",
+"objects":[
+{"id":"~bq757nb2","type":"line","col":4,"server":-1,"made":"2026-11-25T12:05:26.990Z","changed":"2026-11-25T12:05:26.990Z","otype":1,"status":1,"icol":4,"tags":"LiDAR","note":"Wall or cliff, 2 m high, 125 m long: check","points":[
+ [-9943,-2445],
+ [-11009,-686]
+]},
+{"id":"~swomshfy","type":"line","col":4,"server":-1,"made":"2026-11-25T12:05:26.990Z","changed":"2026-11-25T12:05:26.990Z","otype":1,"status":1,"icol":4,"tags":"LiDAR","note":"Wall or cliff, 2 m high, 12 m long: check","points":[
+ [-9628,-2517],
+ [-9723,-2567],
+ [-9807,-2587],
+ [-9888,-2559],
+ [-9975,-2496]
+]},
+{"id":"~t664ihdj","type":"line","col":4,"server":-1,"made":"2026-11-25T12:05:26.991Z","changed":"2026-11-25T12:05:26.991Z","otype":1,"status":1,"icol":4,"tags":"LiDAR","note":"Wall or cliff, 2 m high, 17 m long: check","points":[
+ [-9392,-2998],
+ [-9510,-2702],
+ [-9632,-2485]
+]}
+]}

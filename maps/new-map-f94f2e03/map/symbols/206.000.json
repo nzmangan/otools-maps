@@ -1,0 +1,11 @@
+{"format":"otools-map","version":2,"kind":"symbol",
+"symbol":"206.000",
+"type":"area",
+"filePos":41068,
+"nColors":1,
+"colors":[4],
+"description":"Gigantic boulder or rock pillar",
+"fillColor":4,
+"fillOn":1,
+"rest":{"length":832,"bytes":[[668,"03"]]}
+}
