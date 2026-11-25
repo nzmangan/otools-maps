@@ -1,0 +1,28 @@
+# otools-map 1 objects 419.000
+
+@l6bzhiso point col=6 server=-1 made=2026-11-23T11:59:15.665Z changed=2026-11-23T11:59:15.665Z otype=1 status=1 icol=6 ilen=104
+13131 2587
+
+@5z2wlplm point col=6 server=-1 made=2026-11-23T11:59:17.401Z changed=2026-11-23T11:59:17.401Z otype=1 status=1 icol=6 ilen=104
+11895 2479
+
+@tzlmjon5 point col=6 server=-1 made=2026-11-23T11:59:18.396Z changed=2026-11-23T11:59:18.396Z otype=1 status=1 icol=6 ilen=104
+11933 3927
+
+@6xlxx33j point col=6 server=-1 made=2026-11-23T11:59:19.308Z changed=2026-11-23T11:59:19.308Z otype=1 status=1 icol=6 ilen=104
+10263 3864
+
+@37lzueab point col=6 server=-1 made=2026-11-23T11:59:21.365Z changed=2026-11-23T11:59:21.365Z otype=1 status=1 icol=6 ilen=104
+9253 4706
+
+@hp2di7ht point col=6 server=-1 made=2026-11-23T11:59:22.821Z changed=2026-11-23T11:59:22.821Z otype=1 status=1 icol=6 ilen=104
+7133 5576
+
+@jspq4cxn point col=6 server=-1 made=2026-11-23T11:59:23.763Z changed=2026-11-23T11:59:23.763Z otype=1 status=1 icol=6 ilen=104
+7033 6716
+
+@imdxmd4p point col=6 server=-1 made=2026-11-23T11:59:24.857Z changed=2026-11-23T11:59:24.857Z otype=1 status=1 icol=6 ilen=104
+9555 6204
+
+@zawa545o point col=6 server=-1 made=2026-11-23T11:59:26.199Z changed=2026-11-23T11:59:26.199Z otype=1 status=1 icol=6 ilen=104
+10125 7158
