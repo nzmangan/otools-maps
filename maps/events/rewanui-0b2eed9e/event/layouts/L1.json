@@ -1,0 +1,11 @@
+{
+  "id": "L1",
+  "name": "Standard",
+  "paper": "A4",
+  "items": [
+    {"id":"i1","kind":"rect","x":10,"y":10,"w":190,"h":277,"stroke":"#000000","strokeWidth":0.5},
+    {"id":"i2","kind":"text","x":12,"y":12,"w":186,"h":8,"text":"{event}","size":16,"bold":true,"align":"left","color":"#000000"},
+    {"id":"i3","kind":"text","x":12,"y":20,"w":186,"h":6,"text":"{course}   {length}   {scale}","size":11,"align":"left","color":"#000000"},
+    {"id":"i4","kind":"image","x":122.5,"y":16,"w":72,"h":72,"image":"I2"}
+  ]
+}

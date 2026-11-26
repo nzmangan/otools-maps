@@ -31,6 +31,11 @@
       "y": 633
     }
   },
+  "layouts": [
+    "L1"
+  ],
+  "layoutDefault": "L1",
+  "images": "images.jsonl",
   "classes": "classes.jsonl",
   "controls": "controls.jsonl",
   "specials": "specials.jsonl",
