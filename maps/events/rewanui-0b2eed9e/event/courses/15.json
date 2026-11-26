@@ -2,6 +2,7 @@
   "id": 15,
   "name": "Course 1",
   "climb": null,
+  "level": "nz-red",
   "items": [
     {"control":13},
     {"control":17},
