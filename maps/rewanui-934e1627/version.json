@@ -1,13 +1,13 @@
 {
   "map": "Rewanui",
   "mapId": "m934e16273cd34a0b8f4ac80cfce8e19c",
-  "version": 7,
+  "version": 8,
   "fileName": "Rewanui.ocd",
   "snapshot": null,
-  "note": "Gigantic boulder or rock pillar (206.000): 1 object reshaped",
+  "note": "Gigantic boulder or rock pillar (206.000): 1 object removed",
   "uploadedBy": "nzmangan",
-  "uploaded": "2026-11-25T23:18:05.9413698+00:00",
-  "sha256": "2220b11b752f2d6e5c7d535bfbebc2856365844be8a90402fc9059fdcacf560b",
+  "uploaded": "2026-11-26T00:21:09.172655+00:00",
+  "sha256": "414058bb0f7b4bb2b8560c0bbe528cba72fce1152a58913016e3d0f653420be1",
   "scale": 10000,
   "ocadVersion": 2018
 }
