@@ -4,8 +4,8 @@
   "title": "Karori Northwest",
   "map": {
     "file": "Karori Northwest.ocd",
-    "size": 15937392,
-    "sha256": "470080ee79573eafd82853a1b3dd16a2419d6099a61d27489ef323fbb4461325",
+    "size": 15939504,
+    "sha256": "813bb125f222e3193e411fd4a4382dd0149fd9cdd92ae9ad276cf94618538ef9",
     "scale": 4000,
     "georef": {
       "x": 1744000,
@@ -17,7 +17,7 @@
     "library": {
       "org": "oe95abec73f054cab884a34f1da1f3ee4",
       "id": "mfb641530acbe48aeac1af99319c62c6b",
-      "version": 3,
+      "version": 4,
       "name": "Karori Northwest",
       "follow": "latest"
     }
