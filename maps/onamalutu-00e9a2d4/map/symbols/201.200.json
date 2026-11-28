@@ -1,0 +1,11 @@
+{"format":"otools-map","version":2,"kind":"symbol",
+"symbol":"201.200",
+"type":"area",
+"filePos":36220,
+"nColors":1,
+"colors":[4],
+"description":"Impassable cliff (area)",
+"fillColor":4,
+"fillOn":1,
+"rest":{"length":832,"bytes":[[668,"03"]]}
+}

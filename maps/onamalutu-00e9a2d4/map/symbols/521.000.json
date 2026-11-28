@@ -1,0 +1,11 @@
+{"format":"otools-map","version":2,"kind":"symbol",
+"symbol":"521.000",
+"type":"area",
+"filePos":103876,
+"nColors":1,
+"colors":[4],
+"description":"Building",
+"fillColor":4,
+"fillOn":1,
+"rest":{"length":832,"bytes":[[668,"06"]]}
+}
