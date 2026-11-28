@@ -26,6 +26,29 @@
   "overprint": "auto",
   "classes": "classes.jsonl",
   "controls": "controls.jsonl",
+  "hanging": {
+    "helpers": [
+      ""
+    ],
+    "depot": {
+      "x": -1417,
+      "y": 950
+    },
+    "rounds": [
+      {
+        "id": 1,
+        "helper": 0,
+        "controls": [
+          10,
+          9,
+          8,
+          7,
+          6,
+          5
+        ]
+      }
+    ]
+  },
   "courses": [
     3
   ]
