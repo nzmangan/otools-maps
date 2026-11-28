@@ -2,8 +2,9 @@
   "id": 1,
   "name": "Long",
   "climb": null,
+  "level": "nz-red",
   "items": [
-    {"control":3},
+    {"control":13},
     {"control":5},
     {"control":6},
     {"control":7},
