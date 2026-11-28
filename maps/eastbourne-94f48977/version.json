@@ -1,13 +1,13 @@
 {
   "map": "Eastbourne",
   "mapId": "m94f48977400742af99416b614d629ff6",
-  "version": 1,
+  "version": 2,
   "fileName": "Eastbourne.ocd",
   "snapshot": null,
-  "note": null,
+  "note": "Symbol Impassable cliff (201.000): endLength 25 \u2192 6, minSym 0 \u2192 1",
   "uploadedBy": "nzmangan",
-  "uploaded": "2026-11-28T04:18:33.9250957+00:00",
-  "sha256": "4bad5c870762407a81c27b4c0682ecb7037187f9b92b93b68eb5ec0202e17aa5",
+  "uploaded": "2026-11-28T05:56:21.9388897+00:00",
+  "sha256": "064392bc751609a8dafcaf6ed807b8d6350687df3deafef4529052c4a21de117",
   "scale": 15000,
   "ocadVersion": 2018
 }
