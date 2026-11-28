@@ -1,0 +1,15 @@
+{
+  "id": 28,
+  "name": "Yellow",
+  "climb": null,
+  "level": "nz-yellow",
+  "items": [
+    {"control":3},
+    {"control":30},
+    {"control":31},
+    {"control":32},
+    {"control":33},
+    {"control":34},
+    {"control":4}
+  ]
+}

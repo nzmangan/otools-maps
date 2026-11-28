@@ -1,0 +1,38 @@
+{
+  "format": "otools-event",
+  "version": 1,
+  "title": "Rewanui",
+  "date": "2026-12-01",
+  "type": "Regional",
+  "map": {
+    "file": "Rewanui.ocd",
+    "size": 2522772,
+    "sha256": "414058bb0f7b4bb2b8560c0bbe528cba72fce1152a58913016e3d0f653420be1",
+    "scale": 10000,
+    "georef": {
+      "x": 1844000,
+      "y": 5466000,
+      "angle": 25,
+      "epsg": 2193,
+      "grid": 19000
+    },
+    "library": {
+      "org": "oe95abec73f054cab884a34f1da1f3ee4",
+      "id": "m934e16273cd34a0b8f4ac80cfce8e19c",
+      "version": 8,
+      "name": "Rewanui",
+      "follow": "latest"
+    }
+  },
+  "printScale": 10000,
+  "overprint": "auto",
+  "classes": "classes.jsonl",
+  "controls": "controls.jsonl",
+  "legs": "legs.jsonl",
+  "specials": "specials.jsonl",
+  "courses": [
+    1,
+    18,
+    28
+  ]
+}
