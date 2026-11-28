@@ -1,0 +1,15 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"417.000",
+"objects":[
+{"id":"~7jnsmlbm","type":"point","col":6,"server":-1,"made":"2026-11-28T04:43:46.085Z","changed":"2026-11-28T04:43:46.085Z","status":1,"icol":6,"points":[
+ [-26470,-81241]
+]},
+{"id":"~agm5he47","type":"point","col":6,"server":-1,"made":"2026-11-28T04:43:46.085Z","changed":"2026-11-28T04:43:46.085Z","status":1,"icol":6,"points":[
+ [-26785,-83049]
+]},
+{"id":"~ckpr4bei","type":"point","col":6,"server":-1,"made":"2026-11-28T04:43:46.085Z","changed":"2026-11-28T04:43:46.085Z","status":1,"icol":6,"points":[
+ [-29184,-87411]
+]},
+{"id":"~duvw2xbo","type":"point","col":6,"server":-1,"made":"2026-11-28T04:43:46.086Z","changed":"2026-11-28T04:43:46.086Z","status":1,"icol":6,"points":[
+ [-29026,-90849]
+]}
+]}

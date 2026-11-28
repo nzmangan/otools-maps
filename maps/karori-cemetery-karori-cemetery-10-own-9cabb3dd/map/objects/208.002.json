@@ -1,0 +1,12 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"208.002",
+"objects":[
+{"id":"~teeo6oc6","type":"point","col":2,"server":-1,"made":"2026-11-28T04:43:46.085Z","changed":"2026-11-28T04:43:46.085Z","status":1,"icol":2,"points":[
+ [-28288,-82785]
+]},
+{"id":"~5iushgyw","type":"point","col":2,"server":-1,"made":"2026-11-28T04:43:46.085Z","changed":"2026-11-28T04:43:46.085Z","status":1,"icol":2,"points":[
+ [-20684,-86243]
+]},
+{"id":"~jdyz7r2g","type":"point","col":2,"server":-1,"made":"2026-11-28T04:43:46.085Z","changed":"2026-11-28T04:43:46.085Z","status":1,"icol":2,"points":[
+ [-24341,-87616]
+]}
+]}
