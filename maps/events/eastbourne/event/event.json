@@ -5,7 +5,7 @@
   "map": {
     "file": "Eastbourne.ocd",
     "size": 1740224,
-    "sha256": "4bad5c870762407a81c27b4c0682ecb7037187f9b92b93b68eb5ec0202e17aa5",
+    "sha256": "064392bc751609a8dafcaf6ed807b8d6350687df3deafef4529052c4a21de117",
     "scale": 15000,
     "georef": {
       "x": 1757867,
@@ -17,13 +17,16 @@
     "library": {
       "org": "oe95abec73f054cab884a34f1da1f3ee4",
       "id": "m94f48977400742af99416b614d629ff6",
-      "version": 1,
+      "version": 2,
       "name": "Eastbourne",
       "follow": "latest"
     }
   },
   "printScale": 15000,
   "overprint": "auto",
+  "classes": "classes.jsonl",
   "controls": "controls.jsonl",
-  "courses": []
+  "courses": [
+    3
+  ]
 }

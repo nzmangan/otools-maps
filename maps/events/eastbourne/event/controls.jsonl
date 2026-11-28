@@ -1,0 +1,8 @@
+{"id":1,"kind":"start","x":97,"y":226}
+{"id":2,"kind":"finish","x":-1436,"y":902}
+{"id":5,"kind":"control","x":6420,"y":4919,"code":31,"desc":{"d":"2.1","g":"11.14SW"}}
+{"id":6,"kind":"control","x":4275,"y":6808,"code":32,"desc":{"d":"2.1","g":"11.14S"}}
+{"id":7,"kind":"control","x":823,"y":8172,"code":33,"desc":{"d":"2.1","g":"11.14NE"},"gaps":[[88.5,125.2]],"autoCut":true}
+{"id":8,"kind":"control","x":-2714,"y":6254,"code":34}
+{"id":9,"kind":"control","x":-3509,"y":3328,"code":35}
+{"id":10,"kind":"control","x":-2725,"y":2881,"code":36}
