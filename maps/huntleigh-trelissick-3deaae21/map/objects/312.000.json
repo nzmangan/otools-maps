@@ -1,0 +1,9 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"312.000",
+"objects":[
+{"id":"~irhtitoo","type":"point","ang":-1014,"col":14,"made":"2020-06-23T04:23:54.135Z","changed":"2025-10-12T03:59:59.315Z","res1":1,"status":1,"icol":14,"ilen":80,"points":[
+ [-19720,28409]
+]},
+{"id":"~7k77yor2","type":"point","ang":230,"col":14,"made":"2020-06-23T04:23:54.135Z","changed":"2025-10-12T03:59:59.315Z","res1":1,"status":1,"icol":14,"ilen":80,"points":[
+ [-19989,29819]
+]}
+]}

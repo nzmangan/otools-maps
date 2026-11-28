@@ -1,0 +1,10 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"900.000",
+"objects":[
+{"id":"~yu5np2ww","type":"text","col":15,"server":-1,"made":"2026-09-12T02:19:55.090Z","changed":"2026-09-12T02:20:01.465Z","res1":1,"status":1,"icol":15,"ilen":176,"tn":8,"text":"Kaukau\r\nMap","points":[
+ [6003,79254],
+ [6003,77411],
+ [10440,77411],
+ [10440,81044],
+ [6003,81044]
+]}
+]}

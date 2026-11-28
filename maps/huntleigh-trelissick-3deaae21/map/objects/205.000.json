@@ -1,0 +1,55 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"205.000",
+"defaults":{"col":2,"res1":1,"status":1,"icol":2},
+"objects":[
+{"id":"~atufou6g","type":"point","ang":240,"made":"2020-06-23T04:23:54.122Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"points":[
+ [-10544,9011]
+]},
+{"id":"~yfgrhz4j","type":"point","ang":240,"made":"2020-06-23T04:23:54.132Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"points":[
+ [-20667,27413]
+]},
+{"id":"~hsciiaa3","type":"point","ang":240,"made":"2020-06-23T04:23:54.133Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"points":[
+ [-15955,27754]
+]},
+{"id":"~qtjjaeno","type":"point","ang":240,"made":"2020-06-23T04:23:54.133Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"points":[
+ [-16562,25994]
+]},
+{"id":"~vnja4yys","type":"point","ang":240,"made":"2020-06-23T04:23:54.133Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"points":[
+ [-23697,33278]
+]},
+{"id":"~j2gqx4lg","type":"point","ang":240,"made":"2020-06-23T04:23:54.133Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"points":[
+ [-20883,31801]
+]},
+{"id":"~wmjzbvxf","type":"point","ang":240,"made":"2020-06-23T04:23:54.133Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"points":[
+ [-18104,27219]
+]},
+{"id":"~dasv6fbe","type":"point","ang":240,"made":"2020-06-23T04:23:54.133Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"points":[
+ [-18283,26891]
+]},
+{"id":"~shaebjvc","type":"point","ang":240,"made":"2020-06-23T04:23:54.133Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"points":[
+ [-18441,26615]
+]},
+{"id":"~uptfuzn4","type":"point","ang":240,"made":"2020-06-23T04:23:54.133Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"points":[
+ [-19812,26358]
+]},
+{"id":"~7k37sybg","type":"point","ang":240,"made":"2020-06-23T04:23:54.133Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"points":[
+ [-15819,26342]
+]},
+{"id":"~nv3uou24","type":"point","ang":240,"made":"2020-06-23T04:23:54.133Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"points":[
+ [-12618,23741]
+]},
+{"id":"~leqk6kq6","type":"point","ang":240,"made":"2020-06-23T04:23:54.136Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"points":[
+ [-14610,24141]
+]},
+{"id":"~dn2xobt3","type":"point","ang":240,"made":"2020-06-23T04:23:54.136Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"points":[
+ [-14873,24242]
+]},
+{"id":"~v4rwdlke","type":"point","ang":240,"made":"2020-06-23T04:23:54.177Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"points":[
+ [-34561,8600]
+]},
+{"id":"~q3uaj3oj","type":"point","ang":240,"made":"2020-06-23T04:23:54.178Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"points":[
+ [-41548,3847]
+]},
+{"id":"~vx6krz3i","type":"point","ang":240,"made":"2020-06-23T04:23:54.262Z","changed":"2025-10-12T03:59:59.331Z","ilen":80,"points":[
+ [16859,51221]
+]}
+]}

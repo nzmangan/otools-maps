@@ -1,0 +1,15 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"521.002",
+"objects":[
+{"id":"~c2u5d4xg","type":"line","col":2,"server":-1,"made":"2021-11-13T08:07:42.660Z","changed":"2025-10-12T03:59:59.695Z","res1":1,"status":1,"icol":2,"ilen":112,"points":[
+ [21283,45757],
+ [21256,45629,"corner"],
+ [21348,45607,"corner"],
+ [21376,45736,"corner"],
+ [21283,45757]
+]},
+{"id":"~44752r5v","type":"line","ang":4,"col":2,"made":"2026-07-12T09:24:34.708Z","changed":"2026-07-12T09:25:35.425Z","res1":1,"status":1,"icol":2,"ilen":96,"points":[
+ [-4243,-2116],
+ [-4241,-2123],
+ [-4249,-2125]
+]}
+]}

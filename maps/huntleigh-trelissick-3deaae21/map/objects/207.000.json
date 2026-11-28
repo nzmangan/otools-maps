@@ -1,0 +1,43 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"207.000",
+"defaults":{"col":2,"server":-1,"res1":1,"status":1,"icol":2},
+"objects":[
+{"id":"~fsahyx3g","type":"point","ang":239,"made":"2020-06-23T04:23:54.1279998Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"server":0,"points":[
+ [-14971,23067]
+]},
+{"id":"~bae2hszk","type":"point","ang":239,"made":"2020-06-23T04:23:54.1710002Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"server":0,"points":[
+ [-25766,-2726]
+]},
+{"id":"~rez52uzy","type":"point","made":"2020-07-03T23:58:52.566Z","changed":"2025-10-12T03:59:59.331Z","ilen":80,"points":[
+ [-15479,25977]
+]},
+{"id":"~z2vd3mjm","type":"point","made":"2020-07-03T23:58:55.494Z","changed":"2025-10-12T03:59:59.331Z","ilen":80,"points":[
+ [-15501,25660]
+]},
+{"id":"~4vffhn64","type":"point","made":"2020-07-03T23:58:58.671Z","changed":"2025-10-12T03:59:59.331Z","ilen":80,"points":[
+ [-14400,24874]
+]},
+{"id":"~6yv3rugh","type":"point","made":"2020-07-03T23:59:02.975Z","changed":"2025-10-12T03:59:59.331Z","ilen":80,"points":[
+ [-13748,25028]
+]},
+{"id":"~qq5urb4y","type":"point","made":"2020-07-03T23:59:06.1820002Z","changed":"2025-10-12T03:59:59.331Z","ilen":80,"points":[
+ [-13001,25493]
+]},
+{"id":"~nzdfr5iq","type":"point","made":"2020-07-03T23:59:10.142Z","changed":"2025-10-12T03:59:59.331Z","ilen":80,"points":[
+ [-12210,26163]
+]},
+{"id":"~v6j3hd2d","type":"point","made":"2020-07-03T23:59:23.183Z","changed":"2025-10-12T03:59:59.331Z","ilen":80,"points":[
+ [-22770,28601]
+]},
+{"id":"~7skcqmbc","type":"point","made":"2020-07-03T23:59:26.102Z","changed":"2025-10-12T03:59:59.331Z","ilen":80,"points":[
+ [-23715,28571]
+]},
+{"id":"~veoxw734","type":"point","made":"2020-07-03T23:59:29.6789998Z","changed":"2025-10-12T03:59:59.331Z","ilen":80,"points":[
+ [-24086,28445]
+]},
+{"id":"~jub3dfzb","type":"point","made":"2020-07-03T23:59:33.1979998Z","changed":"2025-10-12T03:59:59.331Z","ilen":80,"points":[
+ [-25276,29901]
+]},
+{"id":"~7qnmdhtj","type":"point","made":"2020-07-03T23:59:36.5980002Z","changed":"2025-10-12T03:59:59.331Z","ilen":80,"points":[
+ [-25383,30868]
+]}
+]}

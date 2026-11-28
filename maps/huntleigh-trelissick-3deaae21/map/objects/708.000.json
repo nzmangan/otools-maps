@@ -1,0 +1,23 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"708.000",
+"objects":[
+{"id":"~vrr4lhac","type":"line","col":52,"server":-1,"made":"2026-09-12T02:19:16.268Z","changed":"2026-09-12T02:19:16.268Z","res1":1,"status":1,"icol":52,"ilen":96,"points":[
+ [-17448,80216],
+ [-12708,79789,"corner"],
+ [-9501,82426]
+]},
+{"id":"~ugrbelov","type":"line","col":52,"server":-1,"made":"2026-09-12T02:19:42.957Z","changed":"2026-09-12T02:19:42.957Z","res1":1,"status":1,"icol":52,"ilen":176,"points":[
+ [-9429,82497],
+ [-5509,80715,"corner"],
+ [764,80929,"corner"],
+ [2475,79254,"corner"],
+ [2118,77793,"corner"],
+ [3187,76973,"corner"],
+ [2795,75512,"corner"],
+ [3116,74585,"corner"],
+ [3793,74336,"corner"],
+ [3865,73409,"corner"],
+ [5362,72090,"corner"],
+ [11741,73766,"corner"],
+ [13416,75833]
+]}
+]}

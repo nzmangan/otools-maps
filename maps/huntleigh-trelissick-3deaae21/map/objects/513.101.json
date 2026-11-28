@@ -1,0 +1,37 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"513.101",
+"objects":[
+{"id":"~3gbpo63s","type":"line","col":2,"server":-1,"made":"2020-07-03T08:47:04.4200002Z","changed":"2025-10-12T03:59:59.648Z","res1":1,"status":1,"icol":2,"ilen":96,"points":[
+ [20199,10748],
+ [20222,10409,"corner"],
+ [20283,10410]
+]},
+{"id":"~oddgtb55","type":"line","col":2,"server":-1,"made":"2020-07-03T08:47:09.440Z","changed":"2025-10-12T03:59:59.648Z","res1":1,"status":1,"icol":2,"ilen":96,"points":[
+ [20035,10730],
+ [20057,10393,"corner"],
+ [20026,10391]
+]},
+{"id":"~qa5c4swg","type":"line","col":2,"server":-1,"made":"2020-07-03T08:47:13.8570002Z","changed":"2025-10-12T03:59:59.648Z","res1":1,"status":1,"icol":2,"ilen":96,"points":[
+ [19963,10385],
+ [19887,10381,"corner"],
+ [19875,10696]
+]},
+{"id":"~hlenpgsp","type":"line","col":2,"server":-1,"made":"2021-11-17T11:12:38.294Z","changed":"2025-10-12T03:59:59.695Z","res1":1,"status":1,"icol":2,"ilen":96,"points":[
+ [23244,45808],
+ [23253,45840,"corner"],
+ [23192,45858]
+]},
+{"id":"~kc7ge4gd","type":"line","col":2,"server":-1,"made":"2022-12-31T23:55:32.117Z","changed":"2025-10-12T03:59:59.711Z","res1":1,"status":1,"icol":2,"ilen":96,"points":[
+ [22812,44690],
+ [22773,44648,"corner"],
+ [22841,44626]
+]},
+{"id":"~pgzdg62c","type":"line","ang":4,"col":2,"made":"2026-07-12T09:24:34.715Z","changed":"2026-07-12T09:25:35.433Z","res1":1,"status":1,"icol":2,"ilen":96,"points":[
+ [-2483,-501],
+ [-2494,-578,"corner"],
+ [-2540,-571]
+]},
+{"id":"~uymqryue","type":"line","ang":4,"col":2,"made":"2026-07-12T09:24:34.715Z","changed":"2026-07-12T09:25:35.434Z","res1":1,"status":1,"icol":2,"ilen":88,"points":[
+ [-2911,-2967],
+ [-2914,-3012]
+]}
+]}

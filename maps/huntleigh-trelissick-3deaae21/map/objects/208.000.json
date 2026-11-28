@@ -1,0 +1,12 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"208.000",
+"objects":[
+{"id":"~n5dsjvju","type":"area","col":2,"server":-1,"made":"2025-10-26T03:06:32.268Z","changed":"2025-10-26T03:06:32.268Z","res1":1,"status":1,"icol":2,"ilen":128,"points":[
+ [8747,46385],
+ [8884,46459,"corner"],
+ [8947,46617,"corner"],
+ [8842,46690,"corner"],
+ [8631,46596,"corner"],
+ [8536,46448,"corner"],
+ [8599,46332]
+]}
+]}

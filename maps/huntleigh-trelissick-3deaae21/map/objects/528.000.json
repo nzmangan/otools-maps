@@ -1,0 +1,23 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"528.000",
+"objects":[
+{"id":"~76eo74kg","type":"line","ang":239,"col":2,"server":-1,"made":"2020-06-25T23:29:37.600Z","changed":"2025-10-12T03:59:59.648Z","res1":1,"status":1,"icol":2,"ilen":88,"points":[
+ [8245,1196],
+ [8522,1450]
+]},
+{"id":"~z4lpm7a2","type":"line","ang":239,"col":2,"server":-1,"made":"2020-06-25T23:30:04.706Z","changed":"2025-10-12T03:59:59.648Z","res1":1,"status":1,"icol":2,"ilen":88,"points":[
+ [-2598,7694],
+ [-2549,7394]
+]},
+{"id":"~idp3p6gh","type":"line","ang":239,"col":2,"server":-1,"made":"2020-06-25T23:30:09.443Z","changed":"2025-10-12T03:59:59.648Z","res1":1,"status":1,"icol":2,"ilen":88,"points":[
+ [-3031,7695],
+ [-2729,7444]
+]},
+{"id":"~bsu7nusq","type":"line","ang":239,"col":2,"server":-1,"made":"2020-06-26T00:34:03.1280002Z","changed":"2025-10-12T03:59:59.648Z","res1":1,"status":1,"icol":2,"ilen":88,"points":[
+ [-1294,5415],
+ [-1364,4878]
+]},
+{"id":"~q5sidveu","type":"line","col":2,"server":-1,"made":"2022-08-20T22:04:14.9559998Z","changed":"2025-10-12T03:59:59.695Z","res1":1,"status":1,"icol":2,"ilen":88,"points":[
+ [-1799,8528],
+ [-1890,8117]
+]}
+]}

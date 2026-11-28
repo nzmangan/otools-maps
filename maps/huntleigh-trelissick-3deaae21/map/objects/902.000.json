@@ -1,0 +1,10 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"902.000",
+"objects":[
+{"id":"~pxevff2x","type":"text","col":15,"server":-1,"made":"2026-09-12T02:22:19.406Z","changed":"2026-09-12T02:22:24.874Z","res1":1,"status":1,"icol":15,"ilen":176,"tn":8,"text":"Trig","points":[
+ [-6010,63443],
+ [-6010,63372],
+ [-5555,63372],
+ [-5555,63841],
+ [-6010,63841]
+]}
+]}

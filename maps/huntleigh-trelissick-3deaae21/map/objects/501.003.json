@@ -1,0 +1,21 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"501.003",
+"objects":[
+{"id":"~mxi2uow6","type":"area","col":36,"server":-1,"made":"2021-11-13T09:30:56.211Z","changed":"2025-10-12T03:59:59.695Z","res1":1,"status":1,"icol":36,"ilen":136,"points":[
+ [22345,45897],
+ [22348,45842,"corner"],
+ [22399,45792,"corner"],
+ [22537,45767,"corner"],
+ [22547,45796,"corner"],
+ [22425,45833,"corner"],
+ [22456,45935,"corner"],
+ [22341,45953]
+]},
+{"id":"~pclqtgzz","type":"area","col":36,"server":-1,"made":"2021-11-17T09:14:36.182Z","changed":"2025-10-12T03:59:59.695Z","res1":1,"status":1,"icol":36,"ilen":120,"points":[
+ [23271,45889],
+ [23239,45784,"corner"],
+ [23273,45775,"corner"],
+ [23282,45808,"corner"],
+ [23306,45803,"corner"],
+ [23324,45876]
+]}
+]}

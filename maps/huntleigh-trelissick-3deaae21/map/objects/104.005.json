@@ -1,0 +1,9 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"104.005",
+"objects":[
+{"id":"~mbvvlbee","type":"line","col":15,"server":-1,"made":"2021-02-14T01:15:50.941Z","changed":"2025-10-12T03:59:59.695Z","res1":1,"status":1,"icol":15,"ilen":104,"points":[
+ [20055,45451],
+ [20049,45350,"c1"],
+ [20085,45293,"c2"],
+ [20168,45237]
+]}
+]}

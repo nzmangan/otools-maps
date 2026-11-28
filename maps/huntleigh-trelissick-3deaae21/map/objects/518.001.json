@@ -1,0 +1,41 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"518.001",
+"objects":[
+{"id":"~crpqkoe5","type":"line","col":2,"server":-1,"made":"2021-11-13T08:10:06.9029998Z","changed":"2025-10-12T03:59:59.695Z","res1":1,"status":1,"icol":2,"ilen":96,"points":[
+ [21395,45914],
+ [22067,45793],
+ [22073,45852]
+]},
+{"id":"~lxipovzs","type":"line","col":2,"server":-1,"made":"2021-11-13T08:10:30.057Z","changed":"2025-10-12T03:59:59.695Z","res1":1,"status":1,"icol":2,"ilen":88,"points":[
+ [21423,45803],
+ [21656,45760]
+]},
+{"id":"~4ofcc3ma","type":"line","col":2,"server":-1,"made":"2021-11-13T08:10:35.940Z","changed":"2025-10-12T03:59:59.695Z","res1":1,"status":1,"icol":2,"ilen":96,"points":[
+ [21761,45741],
+ [21987,45701],
+ [22002,45794]
+]},
+{"id":"~k77dojgt","type":"line","col":2,"server":-1,"made":"2021-11-13T08:13:20.303Z","changed":"2025-10-12T03:59:59.695Z","res1":1,"status":1,"icol":2,"ilen":144,"points":[
+ [22927,45269],
+ [22810,45268,"corner"],
+ [22713,45043,"corner"],
+ [22590,44930,"corner"],
+ [22460,44876,"corner"],
+ [22237,44912,"corner"],
+ [21268,45084,"corner"],
+ [21237,45102,"corner"],
+ [21326,45539,"corner"]
+]},
+{"id":"~ksekxopj","type":"line","col":2,"server":-1,"made":"2021-11-13T08:18:16.9380002Z","changed":"2025-10-12T03:59:59.695Z","res1":1,"status":1,"icol":2,"ilen":120,"points":[
+ [20590,46472],
+ [20491,46251,"corner"],
+ [20386,46124,"corner"],
+ [20167,45964,"corner"],
+ [20047,45776],
+ [20085,45748]
+]},
+{"id":"~nu5qe33a","type":"line","col":2,"server":-1,"made":"2021-11-13T09:12:23.102Z","changed":"2025-10-12T03:59:59.695Z","res1":1,"status":1,"icol":2,"ilen":96,"points":[
+ [21611,46053],
+ [21706,46022,"corner"],
+ [21828,45978]
+]}
+]}

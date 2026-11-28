@@ -1,0 +1,82 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"204.000",
+"defaults":{"col":2,"res1":1,"status":1,"icol":2},
+"objects":[
+{"id":"~uxmjni4v","type":"point","ang":240,"made":"2020-06-23T04:23:54.122Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"points":[
+ [-10545,8964]
+]},
+{"id":"~eaoxebpd","type":"point","ang":240,"made":"2020-06-23T04:23:54.123Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"points":[
+ [-13361,13860]
+]},
+{"id":"~mcw75kmm","type":"point","ang":240,"made":"2020-06-23T04:23:54.133Z","changed":"2025-10-18T04:11:41.824Z","ilen":80,"points":[
+ [-12428,26989]
+]},
+{"id":"~row7dfzn","type":"point","ang":240,"made":"2020-06-23T04:23:54.133Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"points":[
+ [-21637,31548]
+]},
+{"id":"~rx253njj","type":"point","ang":240,"made":"2020-06-23T04:23:54.133Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"points":[
+ [-21786,31257]
+]},
+{"id":"~jn6kkyih","type":"point","ang":240,"made":"2020-06-23T04:23:54.133Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"points":[
+ [-21936,31526]
+]},
+{"id":"~qfbsfmpi","type":"point","ang":240,"made":"2020-06-23T04:23:54.133Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"points":[
+ [-22300,31383]
+]},
+{"id":"~zwpawljk","type":"point","ang":240,"made":"2020-06-23T04:23:54.133Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"points":[
+ [-22264,31099]
+]},
+{"id":"~hiaxgjdr","type":"point","ang":240,"made":"2020-06-23T04:23:54.136Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"points":[
+ [-13507,24751]
+]},
+{"id":"~sq4ssaxc","type":"point","ang":240,"made":"2020-06-23T04:23:54.1380002Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"points":[
+ [-16476,12288]
+]},
+{"id":"~hc6wa5ra","type":"point","ang":240,"made":"2020-06-23T04:23:54.157Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"points":[
+ [-35077,21902]
+]},
+{"id":"~kahestgl","type":"point","ang":240,"made":"2020-06-23T04:23:54.157Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"points":[
+ [-34159,21944]
+]},
+{"id":"~qzziav5q","type":"point","ang":240,"made":"2020-06-23T04:23:54.157Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"points":[
+ [-33645,22973]
+]},
+{"id":"~2q6ldnxs","type":"point","ang":240,"made":"2020-06-23T04:23:54.159Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"points":[
+ [-33326,20021]
+]},
+{"id":"~5xbxqbrd","type":"point","ang":240,"made":"2020-06-23T04:23:54.1609998Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"points":[
+ [-25277,1152]
+]},
+{"id":"~ikjrisge","type":"point","ang":240,"made":"2020-06-23T04:23:54.1609998Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"points":[
+ [-14430,-11923]
+]},
+{"id":"~n3iwsudv","type":"point","ang":240,"made":"2020-06-23T04:23:54.163Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"points":[
+ [-14663,-10659]
+]},
+{"id":"~vbe3w5ba","type":"point","ang":240,"made":"2020-06-23T04:23:54.163Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"points":[
+ [-17518,-10809]
+]},
+{"id":"~h27p2ui2","type":"point","ang":240,"made":"2020-06-23T04:23:54.164Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"points":[
+ [-11155,-13102]
+]},
+{"id":"~aqte4hwf","type":"point","ang":240,"made":"2020-06-23T04:23:54.1710002Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"points":[
+ [-22399,-4741]
+]},
+{"id":"~raxtjiz4","type":"point","ang":240,"made":"2020-06-23T04:23:54.1829998Z","changed":"2025-10-12T03:59:59.315Z","ilen":80,"points":[
+ [-9303,-1752]
+]},
+{"id":"~usva5gvh","type":"point","ang":240,"server":-1,"made":"2020-06-26T02:07:10.776Z","changed":"2025-10-12T03:59:59.331Z","ilen":80,"points":[
+ [11706,6235]
+]},
+{"id":"~xlth4qdg","type":"point","ang":1,"server":-1,"made":"2023-01-01T04:09:01.756Z","changed":"2025-10-12T03:59:59.711Z","ilen":80,"points":[
+ [14504,50882]
+]},
+{"id":"~jmax3hln","type":"point","ang":1,"server":-1,"made":"2023-01-01T04:09:03.178Z","changed":"2025-10-12T03:59:59.711Z","ilen":80,"points":[
+ [14497,50953]
+]},
+{"id":"~pm3hzw3k","type":"point","server":-1,"made":"2025-10-12T03:34:34.670Z","changed":"2025-10-25T22:23:57.983Z","ilen":80,"points":[
+ [19478,36459]
+]},
+{"id":"~7prxavcd","type":"point","server":-1,"made":"2025-10-19T05:22:52.0440002Z","changed":"2025-10-19T05:22:52.0440002Z","ilen":80,"points":[
+ [-1498,41477]
+]}
+]}

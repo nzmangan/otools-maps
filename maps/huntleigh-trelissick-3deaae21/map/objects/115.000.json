@@ -1,0 +1,9 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"115.000",
+"objects":[
+{"id":"~fe7ux4ca","type":"point","col":15,"server":-1,"made":"2020-07-03T12:01:37.606Z","changed":"2025-10-12T03:59:59.331Z","res1":1,"status":1,"icol":15,"ilen":80,"points":[
+ [-11675,-14032]
+]},
+{"id":"~6vllax5e","type":"point","col":15,"server":-1,"made":"2020-07-03T12:03:24.1350002Z","changed":"2025-10-12T03:59:59.331Z","res1":1,"status":1,"icol":15,"ilen":80,"points":[
+ [-12440,-4554]
+]}
+]}

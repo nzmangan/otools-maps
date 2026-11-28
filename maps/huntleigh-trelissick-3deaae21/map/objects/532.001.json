@@ -1,0 +1,13 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"532.001",
+"objects":[
+{"id":"~2szbhk5x","type":"line","ang":239,"col":82,"made":"2020-06-23T04:23:54.152Z","changed":"2025-10-12T03:59:59.600Z","res1":1,"status":1,"icol":-1,"ilen":104,"points":[
+ [6142,13846],
+ [6160,13830,"c1"],
+ [6819,13606,"c2"],
+ [6829,13600]
+]},
+{"id":"~qe7dwbxu","type":"line","ang":4,"made":"2026-07-12T09:24:34.7129998Z","changed":"2026-07-12T09:25:35.431Z","res1":1,"status":1,"icol":-1,"ilen":88,"points":[
+ [-2478,-2845],
+ [-2579,-2977]
+]}
+]}
