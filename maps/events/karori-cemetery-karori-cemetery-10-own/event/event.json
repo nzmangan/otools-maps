@@ -1,0 +1,29 @@
+{
+  "format": "otools-event",
+  "version": 1,
+  "title": "karori-cemetery__Karori Cemetery 10.own",
+  "map": {
+    "file": "karori-cemetery__Karori Cemetery 10.own.ocd",
+    "size": 1996952,
+    "sha256": "d80fd7933a65fb0a31aef35c7d0b6e5853281b5f0df37f0bde6d189b0e704099",
+    "scale": 4000,
+    "georef": {
+      "x": 1749000,
+      "y": 5432000,
+      "angle": 24.4,
+      "epsg": 2193,
+      "grid": 19000
+    },
+    "library": {
+      "org": "oe95abec73f054cab884a34f1da1f3ee4",
+      "id": "m9cabb3dde77143fe8472035706c62e74",
+      "version": 1,
+      "name": "karori-cemetery__Karori Cemetery 10.own",
+      "follow": "latest"
+    }
+  },
+  "printScale": 4000,
+  "overprint": "auto",
+  "controls": "controls.jsonl",
+  "courses": []
+}
