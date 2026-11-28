@@ -1,0 +1,29 @@
+{
+  "format": "otools-event",
+  "version": 1,
+  "title": "Onamalutu",
+  "map": {
+    "file": "Onamalutu.ocd",
+    "size": 690244,
+    "sha256": "c544c895efd8751f6371b7fd5c7ee298de5cc5254420aaa4e1a3231c76c8b538",
+    "scale": 10000,
+    "georef": {
+      "x": 1660712,
+      "y": 5407760,
+      "angle": 23.8,
+      "epsg": 2193,
+      "grid": 19000
+    },
+    "library": {
+      "org": "oe95abec73f054cab884a34f1da1f3ee4",
+      "id": "m00e9a2d4d95e468aa9a36f9105e20665",
+      "version": 1,
+      "name": "Onamalutu",
+      "follow": "latest"
+    }
+  },
+  "printScale": 10000,
+  "overprint": "auto",
+  "controls": "controls.jsonl",
+  "courses": []
+}
