@@ -2,6 +2,20 @@
   "id": 3,
   "name": "Course 1",
   "climb": null,
+  "issue": {
+    "x": -935,
+    "y": 565,
+    "bends": [
+      {
+        "x": -599,
+        "y": 311
+      },
+      {
+        "x": -363,
+        "y": 101
+      }
+    ]
+  },
   "items": [
     {"control":1},
     {"control":5},
