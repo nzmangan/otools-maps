@@ -1,0 +1,29 @@
+{
+  "format": "otools-event",
+  "version": 1,
+  "title": "Eastbourne",
+  "map": {
+    "file": "Eastbourne.ocd",
+    "size": 1740224,
+    "sha256": "4bad5c870762407a81c27b4c0682ecb7037187f9b92b93b68eb5ec0202e17aa5",
+    "scale": 15000,
+    "georef": {
+      "x": 1757867,
+      "y": 5423207,
+      "angle": 24.6,
+      "epsg": 2193,
+      "grid": 19000
+    },
+    "library": {
+      "org": "oe95abec73f054cab884a34f1da1f3ee4",
+      "id": "m94f48977400742af99416b614d629ff6",
+      "version": 1,
+      "name": "Eastbourne",
+      "follow": "latest"
+    }
+  },
+  "printScale": 15000,
+  "overprint": "auto",
+  "controls": "controls.jsonl",
+  "courses": []
+}
