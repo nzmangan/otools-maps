@@ -1,13 +1,13 @@
 {
   "map": "Karori Northwest",
   "mapId": "mfb641530acbe48aeac1af99319c62c6b",
-  "version": 2,
+  "version": 3,
   "fileName": "Karori Northwest.ocd",
   "snapshot": null,
-  "note": null,
+  "note": "Small unpaved footpath or track (506.000): 4 objects added, 1 reshaped; Uncrossable wall (515.000): 4 objects removed",
   "uploadedBy": "nzmangan",
-  "uploaded": "2026-11-28T09:02:33.3352222+00:00",
-  "sha256": "e2489ccbc2514525fc1aa22c05fc569c26a4b0ca8d70230b45591ae91c950b0b",
+  "uploaded": "2026-11-28T10:16:07.0351344+00:00",
+  "sha256": "470080ee79573eafd82853a1b3dd16a2419d6099a61d27489ef323fbb4461325",
   "scale": 4000,
   "ocadVersion": 2018
 }
