@@ -1,0 +1,16 @@
+{"format":"otools-map","version":2,"kind":"templates","strings":[
+{"type":8,"values":["Karori Cemetery_DTM_Hill Shading.tif","a24.40000000","b24.40000000","r1","s0","u0.2500000000","v0.2500000000","x-222.730000","y-925.420000"]},
+{"type":8,"values":["points3_DTM_Slope Gradient.tif","a24.40000000","b24.40000000","r1","s0","u0.0625000000","v0.0625000000","x-271.000000","y-889.800000"]},
+{"type":8,"values":["points_Classify Vegetation Height.tif","a24.40000000","b24.40000000","r1","s0","u0.0625000000","v0.0625000000","x-271.000000","y-889.800000"]},
+{"type":8,"values":["points_DTM_Slope Gradient.tif","a24.40000000","b24.40000000","r1","s0","u0.0625000000","v0.0625000000","x-271.000000","y-889.800000"]},
+{"type":8,"values":["points_DTM_Hill Shading.tif","a24.40000000","b24.40000000","r1","s0","u0.0625000000","v0.0625000000","x-271.000000","y-889.800000"]},
+{"type":8,"values":["points_DSM_LasIntensity.tif","a24.40000000","b24.40000000","r1","s0","u0.0625000000","v0.0625000000","x-271.000000","y-889.800000"]},
+{"type":8,"values":["Karori Cemetery_DTM_Slope Gradient.tif","a24.40000000","b24.40000000","r1","s0","u0.2500000000","v0.2500000000","x-222.74000000","y-925.42000000"]},
+{"type":8,"values":["Karori Cemetery_Classify Vegetation Height.tif","a24.40000000","b24.40000000","r1","s0","u0.2500000000","v0.2500000000","x-222.74000000","y-925.42000000"]},
+{"type":8,"values":["C:\\Users\\will\\orienteering\\OW\\Mapping\\Cemetery\\background\\wellington-0075m-urban-aerial-photos-2025\\BQ31_1000_1932.jpg","a24.40000000","b24.40000000","cbackground\\wellington-0075m-urban-aerial-photos-2025\\","r1","s1","u0.0187500000","v0.0187500000","x-108.99000000","y-955.74000000"]},
+{"type":8,"values":["C:\\Users\\will\\orienteering\\OW\\Mapping\\Cemetery\\background\\wellington-0075m-urban-aerial-photos-2025\\BQ31_1000_1931.jpg","a24.40000000","b24.40000000","cbackground\\wellington-0075m-urban-aerial-photos-2025\\","r1","s1","u0.0187500000","v0.0187500000","x-196.35000000","y-995.37000000"]},
+{"type":8,"values":["C:\\Users\\will\\orienteering\\OW\\Mapping\\Cemetery\\background\\wellington-0075m-urban-aerial-photos-2025\\BQ31_1000_1930.jpg","a24.40000000","b24.40000000","cbackground\\wellington-0075m-urban-aerial-photos-2025\\","r1","s1","u0.0187500000","v0.0187500000","x-279.46000000","y-1033.07000000"]},
+{"type":8,"values":["C:\\Users\\will\\orienteering\\OW\\Mapping\\Cemetery\\background\\wellington-0075m-urban-aerial-photos-2025\\BQ31_1000_1832.jpg","a24.40000000","b24.40000000","cbackground\\wellington-0075m-urban-aerial-photos-2025\\","r1","s1","u0.0187500000","v0.0187500000","x-175.11000000","y-809.99000000"]},
+{"type":8,"values":["C:\\Users\\will\\orienteering\\OW\\Mapping\\Cemetery\\background\\wellington-0075m-urban-aerial-photos-2025\\BQ31_1000_1831.jpg","a24.40000000","b24.40000000","cbackground\\wellington-0075m-urban-aerial-photos-2025\\","r1","s1","u0.0187500000","v0.0187500000","x-262.47000000","y-849.61000000"]},
+{"type":8,"values":["C:\\Users\\will\\orienteering\\OW\\Mapping\\Cemetery\\background\\wellington-0075m-urban-aerial-photos-2025\\BQ31_1000_1830.jpg","a24.40000000","b24.40000000","cbackground\\wellington-0075m-urban-aerial-photos-2025\\","r1","s1","u0.0187500000","v0.0187500000","x-345.58000000","y-887.31000000"]}
+]}

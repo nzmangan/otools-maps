@@ -1,0 +1,15 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"519.000",
+"objects":[
+{"id":"~baaa2vkr","type":"point","ang":1168,"col":2,"server":-1,"made":"2026-07-25T11:15:51.542Z","changed":"2026-08-04T11:30:19.920Z","res1":1,"status":1,"icol":2,"ilen":80,"points":[
+ [-30784,-91116]
+]},
+{"id":"~ldeyv3cr","type":"point","ang":-640,"col":2,"server":-1,"made":"2026-07-25T11:25:33.896Z","changed":"2026-08-04T11:30:19.920Z","res1":1,"status":1,"icol":2,"ilen":80,"points":[
+ [-30685,-91322]
+]},
+{"id":"~wb7mncwk","type":"point","ang":1242,"col":2,"server":-1,"made":"2026-08-04T10:00:07.410Z","changed":"2026-08-04T11:30:20.033Z","res1":1,"status":1,"icol":2,"ilen":80,"points":[
+ [-17959,-89721]
+]},
+{"id":"~zc7kfhky","type":"point","ang":-552,"col":2,"server":-1,"made":"2026-08-04T10:00:44.482Z","changed":"2026-08-04T11:30:20.033Z","res1":1,"status":1,"icol":2,"ilen":80,"points":[
+ [-18266,-89280]
+]}
+]}

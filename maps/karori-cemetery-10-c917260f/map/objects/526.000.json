@@ -1,0 +1,15 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"526.000",
+"objects":[
+{"id":"~l652ikte","type":"point","ang":244,"col":2,"server":-1,"made":"2026-07-06T11:14:21.2430002Z","changed":"2026-08-04T11:30:19.903Z","res1":1,"status":1,"icol":2,"ilen":80,"points":[
+ [-20244,-99946]
+]},
+{"id":"~ak5wjfmm","type":"point","ang":244,"col":2,"server":-1,"made":"2026-07-06T11:14:39.365Z","changed":"2026-08-04T11:30:19.903Z","res1":1,"status":1,"icol":2,"ilen":80,"points":[
+ [-19932,-99632]
+]},
+{"id":"~wa7vkcu2","type":"point","col":2,"server":-1,"made":"2026-07-12T23:32:07.1019998Z","changed":"2026-08-04T11:30:19.904Z","res1":1,"status":1,"icol":2,"ilen":80,"points":[
+ [-19966,-97889]
+]},
+{"id":"~7l5jhdt6","type":"point","col":2,"server":-1,"made":"2026-07-15T10:18:09.580Z","changed":"2026-08-04T11:30:19.907Z","res1":1,"status":1,"icol":2,"ilen":80,"points":[
+ [-29389,-82163]
+]}
+]}

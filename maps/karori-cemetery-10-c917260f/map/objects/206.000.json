@@ -1,0 +1,9 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"206.000",
+"objects":[
+{"id":"~3wrkbfiw","type":"area","col":2,"server":-1,"made":"2026-07-22T09:23:00.596Z","changed":"2026-08-04T11:31:21.414Z","res1":1,"status":1,"icol":2,"ilen":104,"points":[
+ [-24592,-84643],
+ [-24639,-84670,"corner"],
+ [-24593,-84675,"corner"],
+ [-24592,-84643]
+]}
+]}

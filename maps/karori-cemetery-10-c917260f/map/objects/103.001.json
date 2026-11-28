@@ -1,0 +1,34 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"103.001",
+"defaults":{"col":15,"server":-1,"res1":1,"status":1,"icol":15},
+"objects":[
+{"id":"~nsmsjdy5","type":"point","ang":900,"made":"2026-07-24T09:59:11.1510002Z","changed":"2026-08-04T11:30:19.911Z","ilen":80,"points":[
+ [-25641,-84818]
+]},
+{"id":"~2pgqbzus","type":"point","ang":1516,"made":"2026-07-24T10:01:23.873Z","changed":"2026-08-04T11:30:19.911Z","ilen":80,"points":[
+ [-27039,-89296]
+]},
+{"id":"~ondgxjgk","type":"point","ang":774,"made":"2026-07-24T10:04:38.3220002Z","changed":"2026-08-04T11:30:19.911Z","ilen":80,"points":[
+ [-23797,-86031]
+]},
+{"id":"~h567wttl","type":"point","ang":-604,"made":"2026-07-24T10:04:45.4239998Z","changed":"2026-08-04T11:30:19.911Z","ilen":80,"points":[
+ [-23558,-85630]
+]},
+{"id":"~e22agc7b","type":"point","ang":1114,"made":"2026-07-24T10:11:29.229Z","changed":"2026-08-04T11:30:19.911Z","ilen":80,"points":[
+ [-23468,-81866]
+]},
+{"id":"~dfrktyaa","type":"point","ang":-1276,"made":"2026-07-26T08:41:40.409Z","changed":"2026-08-04T11:30:19.920Z","ilen":80,"points":[
+ [-33155,-85720]
+]},
+{"id":"~mcayzyok","type":"point","ang":1330,"made":"2026-07-27T08:08:02.390Z","changed":"2026-08-04T11:30:19.920Z","ilen":80,"points":[
+ [-23770,-93461]
+]},
+{"id":"~pgc57fae","type":"point","ang":-1762,"made":"2026-08-04T09:34:43.628Z","changed":"2026-08-04T11:30:20.033Z","ilen":80,"points":[
+ [-29492,-88257]
+]},
+{"id":"~725pxecz","type":"point","ang":1051,"made":"2026-08-04T11:17:22.6149998Z","changed":"2026-08-04T11:30:20.037Z","ilen":80,"points":[
+ [-26999,-82085]
+]},
+{"id":"~66azhtv7","type":"point","ang":-835,"made":"2026-08-04T11:17:29.5420002Z","changed":"2026-08-04T11:30:20.037Z","ilen":80,"points":[
+ [-27076,-83163]
+]}
+]}
