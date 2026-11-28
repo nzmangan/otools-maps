@@ -1,0 +1,12 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"520.000",
+"objects":[
+{"id":"~ktbcgwvt","type":"area","col":17,"server":-1,"made":"2026-11-28T01:20:59.036Z","changed":"2026-11-28T01:20:59.036Z","otype":1,"status":1,"icol":17,"tags":"LINZ","points":[
+ [-6427,9840],
+ [-6327,9937],
+ [-6294,9933],
+ [-6210,9923],
+ [-6077,9907],
+ [-6427,9530],
+ [-6567,9590]
+]}
+]}

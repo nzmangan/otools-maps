@@ -1,0 +1,12 @@
+{"format":"otools-map","version":2,"kind":"settings","strings":[
+{"type":15,"len":28,"values":["All symbols","g-1","e0","f1","l1","i0"]},
+{"type":15,"len":25,"values":["Landforms","g2","e0","f0","l0","i1"]},
+{"type":15,"len":33,"values":["Rock and boulders","g3","e0","f0","l0","i1"]},
+{"type":15,"len":31,"values":["Water and marsh","g4","e0","f0","l0","i1"]},
+{"type":15,"len":26,"values":["Vegetation","g5","e0","f0","l0","i1"]},
+{"type":15,"len":33,"values":["Man-made features","g6","e0","f0","l0","i1"]},
+{"type":15,"len":33,"values":["Technical symbols","g7","e0","f0","l0","i1"]},
+{"type":15,"len":31,"values":["Course planning","g8","e0","f0","l0","i1"]},
+{"type":15,"len":20,"values":["Text","g9","e0","f0","l0","i1"]},
+{"type":1039,"len":91,"values":["","m15000.000000","g50.0000","r1","x1757867","y5423207","a24.60000000","d375.00","b0.00","c0.00","e2193","i19000"]}
+]}

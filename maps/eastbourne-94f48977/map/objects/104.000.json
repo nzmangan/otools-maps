@@ -1,0 +1,154 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"104.000",
+"defaults":{"col":6,"server":-1,"otype":1,"status":1,"icol":6},
+"objects":[
+{"id":"~sh2n2sms","type":"line","made":"2026-11-28T01:22:54.080Z","changed":"2026-11-28T01:22:54.080Z","tags":"LiDAR","note":"Bank or wall, 1.7 m high, 10 m long: check","points":[
+ [-2641,9884],
+ [-2581,9913]
+]},
+{"id":"~vz4czaql","type":"line","made":"2026-11-28T01:22:54.081Z","changed":"2026-11-28T01:22:54.081Z","tags":"LiDAR","note":"Bank or wall, 1.2 m high, 10 m long: check","points":[
+ [-3806,9160],
+ [-3779,9100]
+]},
+{"id":"~jjokbbb4","type":"line","made":"2026-11-28T01:22:54.087Z","changed":"2026-11-28T01:22:54.087Z","tags":"LiDAR","note":"Bank or wall, 1.9 m high, 12 m long: check","points":[
+ [481,9334],
+ [445,9406]
+]},
+{"id":"~fphxcdsx","type":"line","made":"2026-11-28T01:22:54.089Z","changed":"2026-11-28T01:22:54.089Z","tags":"LiDAR","note":"Bank or wall, 1.4 m high, 12 m long: check","points":[
+ [-2834,7047],
+ [-2803,6973]
+]},
+{"id":"~ghy5ofoj","type":"line","made":"2026-11-28T01:22:54.092Z","changed":"2026-11-28T01:22:54.092Z","tags":"LiDAR","note":"Bank or wall, 1.5 m high, 11 m long: check","points":[
+ [-8474,3988],
+ [-8506,4054]
+]},
+{"id":"~j3jkwqy2","type":"line","made":"2026-11-28T01:22:54.092Z","changed":"2026-11-28T01:22:54.092Z","tags":"LiDAR","note":"Bank or wall, 1.6 m high, 46 m long: check","points":[
+ [-6246,4876],
+ [-6235,4729],
+ [-6180,4584]
+]},
+{"id":"~sb5ifeut","type":"line","made":"2026-11-28T01:22:54.093Z","changed":"2026-11-28T01:22:54.093Z","tags":"LiDAR","note":"Bank or wall, 1.6 m high, 39 m long: check","points":[
+ [-6246,4619],
+ [-6274,4692],
+ [-6286,4871]
+]},
+{"id":"~nmb4idzx","type":"line","made":"2026-11-28T01:22:54.095Z","changed":"2026-11-28T01:22:54.095Z","tags":"LiDAR","note":"Bank or wall, 1.7 m high, 53 m long: check","points":[
+ [-5942,4075],
+ [-5888,4000],
+ [-5793,3926],
+ [-5730,3899],
+ [-5661,3894]
+]},
+{"id":"~qevx3cvx","type":"line","made":"2026-11-28T01:22:54.095Z","changed":"2026-11-28T01:22:54.095Z","tags":"LiDAR","note":"Bank or wall, 1.6 m high, 23 m long: check","points":[
+ [-5596,3896],
+ [-5446,3886]
+]},
+{"id":"~t4f5kiix","type":"line","made":"2026-11-28T01:22:54.096Z","changed":"2026-11-28T01:22:54.096Z","tags":"LiDAR","note":"Bank or wall, 1.8 m high, 9 m long: check","points":[
+ [8655,9623],
+ [8627,9676]
+]},
+{"id":"~p7vqhiyw","type":"line","made":"2026-11-28T01:22:54.096Z","changed":"2026-11-28T01:22:54.096Z","tags":"LiDAR","note":"Bank or wall, 1.9 m high, 12 m long: check","points":[
+ [6444,8354],
+ [6473,8279]
+]},
+{"id":"~gntemgp7","type":"line","made":"2026-11-28T01:22:54.096Z","changed":"2026-11-28T01:22:54.096Z","tags":"LiDAR","note":"Bank or wall, 1.6 m high, 11 m long: check","points":[
+ [6818,8315],
+ [6867,8364]
+]},
+{"id":"~ceypoj6p","type":"line","made":"2026-11-28T01:22:54.096Z","changed":"2026-11-28T01:22:54.096Z","tags":"LiDAR","note":"Bank or wall, 1.5 m high, 11 m long: check","points":[
+ [8736,8824],
+ [8694,8885]
+]},
+{"id":"~2wy5ub7c","type":"line","made":"2026-11-28T01:22:54.097Z","changed":"2026-11-28T01:22:54.097Z","tags":"LiDAR","note":"Bank or wall, 1.8 m high, 12 m long: check","points":[
+ [8860,8617],
+ [8810,8683]
+]},
+{"id":"~2uyjoj7i","type":"line","made":"2026-11-28T01:22:54.097Z","changed":"2026-11-28T01:22:54.097Z","tags":"LiDAR","note":"Bank or wall, 1.9 m high, 15 m long: check","points":[
+ [8999,8424],
+ [9016,8520]
+]},
+{"id":"~tygusqy5","type":"line","made":"2026-11-28T01:22:54.100Z","changed":"2026-11-28T01:22:54.100Z","tags":"LiDAR","note":"Bank or wall, 1.9 m high, 10 m long: check","points":[
+ [9590,4199],
+ [9527,4190]
+]},
+{"id":"~bdownfcz","type":"line","made":"2026-11-28T01:22:54.102Z","changed":"2026-11-28T01:22:54.102Z","tags":"LiDAR","note":"Bank or wall, 1.7 m high, 11 m long: check","points":[
+ [6228,1211],
+ [6252,1280]
+]},
+{"id":"~mxq4bxv5","type":"line","made":"2026-11-28T01:22:54.102Z","changed":"2026-11-28T01:22:54.102Z","tags":"LiDAR","note":"Bank or wall, 1.3 m high, 9 m long: check","points":[
+ [7600,1550],
+ [7553,1588]
+]},
+{"id":"~jd2myuab","type":"line","made":"2026-11-28T01:22:54.107Z","changed":"2026-11-28T01:22:54.107Z","tags":"LiDAR","note":"Bank or wall, 1.9 m high, 10 m long: check","points":[
+ [8638,677],
+ [8594,722]
+]},
+{"id":"~toiwkjan","type":"line","made":"2026-11-28T01:22:54.107Z","changed":"2026-11-28T01:22:54.107Z","tags":"LiDAR","note":"Bank or wall, 1.8 m high, 12 m long: check","points":[
+ [6450,-395],
+ [6441,-321]
+]},
+{"id":"~kydnkxn3","type":"line","made":"2026-11-28T01:22:54.108Z","changed":"2026-11-28T01:22:54.108Z","tags":"LiDAR","note":"Bank or wall, 1.8 m high, 24 m long: check","points":[
+ [1099,-3712],
+ [1098,-3553]
+]},
+{"id":"~g4aev4g5","type":"line","made":"2026-11-28T01:22:54.108Z","changed":"2026-11-28T01:22:54.108Z","tags":"LiDAR","note":"Bank or wall, 1.7 m high, 17 m long: check","points":[
+ [1108,-3965],
+ [1067,-3859]
+]},
+{"id":"~dvexhyjg","type":"line","made":"2026-11-28T01:22:54.108Z","changed":"2026-11-28T01:22:54.108Z","tags":"LiDAR","note":"Bank or wall, 1.7 m high, 10 m long: check","points":[
+ [-2107,-5540],
+ [-2130,-5477]
+]},
+{"id":"~44pwhagu","type":"line","made":"2026-11-28T01:22:54.108Z","changed":"2026-11-28T01:22:54.108Z","tags":"LiDAR","note":"Bank or wall, 1.3 m high, 12 m long: check","points":[
+ [1145,-4351],
+ [1135,-4276]
+]},
+{"id":"~qovgz2hg","type":"line","made":"2026-11-28T01:22:54.109Z","changed":"2026-11-28T01:22:54.109Z","tags":"LiDAR","note":"Bank or wall, 1.6 m high, 13 m long: check","points":[
+ [-3180,-6379],
+ [-3114,-6329]
+]},
+{"id":"~yw7pnvfl","type":"line","made":"2026-11-28T01:22:54.110Z","changed":"2026-11-28T01:22:54.110Z","tags":"LiDAR","note":"Bank or wall, 1.9 m high, 10 m long: check","points":[
+ [-2408,-6873],
+ [-2399,-6810]
+]},
+{"id":"~xbrdkx33","type":"line","made":"2026-11-28T01:22:54.110Z","changed":"2026-11-28T01:22:54.110Z","tags":"LiDAR","note":"Bank or wall, 1.8 m high, 11 m long: check","points":[
+ [-4019,-8123],
+ [-4064,-8183]
+]},
+{"id":"~67gppvo6","type":"line","made":"2026-11-28T01:22:54.112Z","changed":"2026-11-28T01:22:54.112Z","tags":"LiDAR","note":"Bank or wall, 1.7 m high, 13 m long: check","points":[
+ [-1861,-8258],
+ [-1908,-8183]
+]},
+{"id":"~l4azwayh","type":"line","made":"2026-11-28T01:22:54.113Z","changed":"2026-11-28T01:22:54.113Z","tags":"LiDAR","note":"Bank or wall, 1.9 m high, 10 m long: check","points":[
+ [5290,-5103],
+ [5334,-5057]
+]},
+{"id":"~zlbshu3i","type":"line","made":"2026-11-28T01:22:54.113Z","changed":"2026-11-28T01:22:54.113Z","tags":"LiDAR","note":"Bank or wall, 1.9 m high, 21 m long: check","points":[
+ [-919,-7965],
+ [-917,-7934],
+ [-862,-7844]
+]},
+{"id":"~3yvkyylw","type":"line","made":"2026-11-28T01:22:54.114Z","changed":"2026-11-28T01:22:54.114Z","tags":"LiDAR","note":"Bank or wall, 1.8 m high, 13 m long: check","points":[
+ [8747,-3863],
+ [8674,-3823]
+]},
+{"id":"~mnucevvo","type":"line","made":"2026-11-28T01:22:54.114Z","changed":"2026-11-28T01:22:54.114Z","tags":"LiDAR","note":"Bank or wall, 1.8 m high, 12 m long: check","points":[
+ [5470,-5679],
+ [5448,-5603]
+]},
+{"id":"~6mxcq3n5","type":"line","made":"2026-11-28T01:22:54.115Z","changed":"2026-11-28T01:22:54.115Z","tags":"LiDAR","note":"Bank or wall, 1.7 m high, 10 m long: check","points":[
+ [3000,-7097],
+ [3067,-7083]
+]},
+{"id":"~eyet75xi","type":"line","made":"2026-11-28T01:22:54.115Z","changed":"2026-11-28T01:22:54.115Z","tags":"LiDAR","note":"Bank or wall, 1.9 m high, 10 m long: check","points":[
+ [-643,-8835],
+ [-594,-8880]
+]},
+{"id":"~kcv7ac6k","type":"line","made":"2026-11-28T01:22:54.116Z","changed":"2026-11-28T01:22:54.116Z","tags":"LiDAR","note":"Bank or wall, 1.8 m high, 9 m long: check","points":[
+ [8554,-4838],
+ [8582,-4892]
+]},
+{"id":"~gcid6m5u","type":"line","made":"2026-11-28T01:22:54.116Z","changed":"2026-11-28T01:22:54.116Z","tags":"LiDAR","note":"Bank or wall, 1.5 m high, 9 m long: check","points":[
+ [-1281,-9437],
+ [-1227,-9412]
+]}
+]}

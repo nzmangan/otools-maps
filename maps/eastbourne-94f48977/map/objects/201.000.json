@@ -1,0 +1,1097 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"201.000",
+"defaults":{"col":4,"server":-1,"otype":1,"status":1,"icol":4},
+"objects":[
+{"id":"~4xgdow7u","type":"line","made":"2026-11-28T01:22:54.068Z","changed":"2026-11-28T01:22:54.068Z","tags":"LiDAR","note":"Wall or cliff, 2.6 m high, 13 m long: check","points":[
+ [-6057,10012],
+ [-6105,10007],
+ [-6131,9980]
+]},
+{"id":"~cyc6faov","type":"line","made":"2026-11-28T01:22:54.069Z","changed":"2026-11-28T01:22:54.069Z","tags":"LiDAR","note":"Wall or cliff, 2.2 m high, 12 m long: check","points":[
+ [-6214,9907],
+ [-6255,9837]
+]},
+{"id":"~na2losbc","type":"line","made":"2026-11-28T01:22:54.071Z","changed":"2026-11-28T01:22:54.071Z","tags":"LiDAR","note":"Wall or cliff, 3.3 m high, 11 m long: check","points":[
+ [-6682,9347],
+ [-6751,9330]
+]},
+{"id":"~kt62qo6b","type":"line","made":"2026-11-28T01:22:54.073Z","changed":"2026-11-28T01:22:54.073Z","tags":"LiDAR","note":"Wall or cliff, 2.2 m high, 14 m long: check","points":[
+ [-6794,9203],
+ [-6882,9171]
+]},
+{"id":"~ffssuqd6","type":"line","made":"2026-11-28T01:22:54.077Z","changed":"2026-11-28T01:22:54.077Z","tags":"LiDAR","note":"Wall or cliff, 3.6 m high, 12 m long: check","points":[
+ [-6685,8724],
+ [-6694,8799]
+]},
+{"id":"~wjwyoz7v","type":"line","made":"2026-11-28T01:22:54.077Z","changed":"2026-11-28T01:22:54.077Z","tags":"LiDAR","note":"Wall or cliff, 4.9 m high, 14 m long: check","points":[
+ [-6706,8794],
+ [-6699,8703]
+]},
+{"id":"~wneihi5d","type":"line","made":"2026-11-28T01:22:54.078Z","changed":"2026-11-28T01:22:54.078Z","tags":"LiDAR","note":"Wall or cliff, 4.9 m high, 11 m long: check","points":[
+ [-6703,8860],
+ [-6770,8830]
+]},
+{"id":"~n25n5gke","type":"line","made":"2026-11-28T01:22:54.078Z","changed":"2026-11-28T01:22:54.078Z","tags":"LiDAR","note":"Wall or cliff, 4.2 m high, 17 m long: check","points":[
+ [-6698,8958],
+ [-6725,8924],
+ [-6791,8892]
+]},
+{"id":"~zmnabur6","type":"line","made":"2026-11-28T01:22:54.078Z","changed":"2026-11-28T01:22:54.078Z","tags":"LiDAR","note":"Wall or cliff, 3.3 m high, 9 m long: check","points":[
+ [-6653,8574],
+ [-6709,8552]
+]},
+{"id":"~jgqnhpc2","type":"line","made":"2026-11-28T01:22:54.079Z","changed":"2026-11-28T01:22:54.079Z","tags":"LiDAR","note":"Wall or cliff, 2.7 m high, 15 m long: check","points":[
+ [-6727,8490],
+ [-6722,8391]
+]},
+{"id":"~qgmwrzec","type":"line","made":"2026-11-28T01:22:54.079Z","changed":"2026-11-28T01:22:54.079Z","tags":"LiDAR","note":"Wall or cliff, 4.4 m high, 12 m long: check","points":[
+ [-6691,8414],
+ [-6692,8336]
+]},
+{"id":"~e3ocnzem","type":"line","made":"2026-11-28T01:22:54.079Z","changed":"2026-11-28T01:22:54.079Z","tags":"LiDAR","note":"Wall or cliff, 2.4 m high, 9 m long: check","points":[
+ [-6726,8299],
+ [-6729,8239]
+]},
+{"id":"~w4x3td4w","type":"line","made":"2026-11-28T01:22:54.080Z","changed":"2026-11-28T01:22:54.080Z","tags":"LiDAR","note":"Wall or cliff, 2.5 m high, 18 m long: check","points":[
+ [-2459,9968],
+ [-2568,9917]
+]},
+{"id":"~piy7dhyb","type":"line","made":"2026-11-28T01:22:54.081Z","changed":"2026-11-28T01:22:54.081Z","tags":"LiDAR","note":"Wall or cliff, 2.6 m high, 27 m long: check","points":[
+ [-3135,9599],
+ [-3092,9632],
+ [-2970,9643]
+]},
+{"id":"~4og7jyfr","type":"line","made":"2026-11-28T01:22:54.081Z","changed":"2026-11-28T01:22:54.081Z","tags":"LiDAR","note":"Wall or cliff, 3.9 m high, 10 m long: check","points":[
+ [-6859,7334],
+ [-6862,7271]
+]},
+{"id":"~yyj5j3fs","type":"line","made":"2026-11-28T01:22:54.081Z","changed":"2026-11-28T01:22:54.081Z","tags":"LiDAR","note":"Wall or cliff, 3.9 m high, 11 m long: check","points":[
+ [-6837,7387],
+ [-6835,7318]
+]},
+{"id":"~2b3hpwof","type":"line","made":"2026-11-28T01:22:54.081Z","changed":"2026-11-28T01:22:54.081Z","tags":"LiDAR","note":"Wall or cliff, 3.9 m high, 11 m long: check","points":[
+ [-6818,7448],
+ [-6836,7380]
+]},
+{"id":"~nwphhmbg","type":"line","made":"2026-11-28T01:22:54.082Z","changed":"2026-11-28T01:22:54.082Z","tags":"LiDAR","note":"Wall or cliff, 3.9 m high, 13 m long: check","points":[
+ [-6756,7503],
+ [-6813,7444]
+]},
+{"id":"~7h6mzjyk","type":"line","made":"2026-11-28T01:22:54.082Z","changed":"2026-11-28T01:22:54.082Z","tags":"LiDAR","note":"Wall or cliff, 2.9 m high, 30 m long: check","points":[
+ [-6902,7276],
+ [-6836,7464]
+]},
+{"id":"~fwosehqs","type":"line","made":"2026-11-28T01:22:54.082Z","changed":"2026-11-28T01:22:54.082Z","tags":"LiDAR","note":"Wall or cliff, 2.8 m high, 16 m long: check","points":[
+ [-7010,6815],
+ [-7043,6719]
+]},
+{"id":"~7ccyfuit","type":"line","made":"2026-11-28T01:22:54.083Z","changed":"2026-11-28T01:22:54.083Z","tags":"LiDAR","note":"Wall or cliff, 3.1 m high, 12 m long: check","points":[
+ [-7051,6876],
+ [-7006,6808]
+]},
+{"id":"~qsybc6uh","type":"line","made":"2026-11-28T01:22:54.083Z","changed":"2026-11-28T01:22:54.083Z","tags":"LiDAR","note":"Wall or cliff, 3.1 m high, 10 m long: check","points":[
+ [159,10045],
+ [114,10090]
+]},
+{"id":"~ep2hk5gw","type":"line","made":"2026-11-28T01:22:54.084Z","changed":"2026-11-28T01:22:54.084Z","tags":"LiDAR","note":"Wall or cliff, 3.1 m high, 15 m long: check","points":[
+ [-347,9581],
+ [-328,9676]
+]},
+{"id":"~3th3dtjz","type":"line","made":"2026-11-28T01:22:54.084Z","changed":"2026-11-28T01:22:54.084Z","tags":"LiDAR","note":"Wall or cliff, 2.4 m high, 11 m long: check","points":[
+ [-6829,6545],
+ [-6851,6615]
+]},
+{"id":"~gd74m6pf","type":"line","made":"2026-11-28T01:22:54.084Z","changed":"2026-11-28T01:22:54.084Z","tags":"LiDAR","note":"Wall or cliff, 2 m high, 14 m long: check","points":[
+ [-6819,6622],
+ [-6780,6538]
+]},
+{"id":"~22uh2gx5","type":"line","made":"2026-11-28T01:22:54.085Z","changed":"2026-11-28T01:22:54.085Z","tags":"LiDAR","note":"Wall or cliff, 3.6 m high, 18 m long: check","points":[
+ [-6785,6385],
+ [-6792,6301],
+ [-6816,6274]
+]},
+{"id":"~z256lrk5","type":"line","made":"2026-11-28T01:22:54.085Z","changed":"2026-11-28T01:22:54.085Z","tags":"LiDAR","note":"Wall or cliff, 2.3 m high, 13 m long: check","points":[
+ [451,9505],
+ [382,9558]
+]},
+{"id":"~5tlg6qc7","type":"line","made":"2026-11-28T01:22:54.085Z","changed":"2026-11-28T01:22:54.085Z","tags":"LiDAR","note":"Wall or cliff, 3.1 m high, 9 m long: check","points":[
+ [-6780,6211],
+ [-6810,6156]
+]},
+{"id":"~tkzfrqi6","type":"line","made":"2026-11-28T01:22:54.085Z","changed":"2026-11-28T01:22:54.085Z","tags":"LiDAR","note":"Wall or cliff, 2.1 m high, 30 m long: check","points":[
+ [-4262,7293],
+ [-4071,7340]
+]},
+{"id":"~jicckkdb","type":"line","made":"2026-11-28T01:22:54.085Z","changed":"2026-11-28T01:22:54.085Z","tags":"LiDAR","note":"Wall or cliff, 2.4 m high, 11 m long: check","points":[
+ [-1772,8355],
+ [-1771,8424]
+]},
+{"id":"~d7bsmoqe","type":"line","made":"2026-11-28T01:22:54.085Z","changed":"2026-11-28T01:22:54.085Z","tags":"LiDAR","note":"Wall or cliff, 3.9 m high, 12 m long: check","points":[
+ [561,9421],
+ [524,9436],
+ [512,9471]
+]},
+{"id":"~to4sitcw","type":"line","made":"2026-11-28T01:22:54.085Z","changed":"2026-11-28T01:22:54.085Z","tags":"LiDAR","note":"Wall or cliff, 3.9 m high, 20 m long: check","points":[
+ [535,9455],
+ [583,9414],
+ [610,9350]
+]},
+{"id":"~ajrlyivt","type":"line","made":"2026-11-28T01:22:54.086Z","changed":"2026-11-28T01:22:54.086Z","tags":"LiDAR","note":"Wall or cliff, 2 m high, 9 m long: check","points":[
+ [280,9278],
+ [284,9339]
+]},
+{"id":"~fpla4ucu","type":"line","made":"2026-11-28T01:22:54.087Z","changed":"2026-11-28T01:22:54.087Z","tags":"LiDAR","note":"Wall or cliff, 2.4 m high, 17 m long: check","points":[
+ [-5021,6786],
+ [-4918,6834]
+]},
+{"id":"~qv2pt3vj","type":"line","made":"2026-11-28T01:22:54.087Z","changed":"2026-11-28T01:22:54.087Z","tags":"LiDAR","note":"Wall or cliff, 2.6 m high, 9 m long: check","points":[
+ [-902,8521],
+ [-853,8558]
+]},
+{"id":"~s26r4o5y","type":"line","made":"2026-11-28T01:22:54.087Z","changed":"2026-11-28T01:22:54.087Z","tags":"LiDAR","note":"Wall or cliff, 3.2 m high, 14 m long: check","points":[
+ [-6547,5925],
+ [-6637,5896]
+]},
+{"id":"~lqxg5bjd","type":"line","made":"2026-11-28T01:22:54.087Z","changed":"2026-11-28T01:22:54.087Z","tags":"LiDAR","note":"Wall or cliff, 2.9 m high, 17 m long: check","points":[
+ [-6426,5849],
+ [-6498,5933]
+]},
+{"id":"~2wuesvmi","type":"line","made":"2026-11-28T01:22:54.087Z","changed":"2026-11-28T01:22:54.087Z","tags":"LiDAR","note":"Wall or cliff, 2.9 m high, 36 m long: check","points":[
+ [-6774,5792],
+ [-6851,5668],
+ [-6856,5627],
+ [-6836,5581]
+]},
+{"id":"~ffurgbs3","type":"line","made":"2026-11-28T01:22:54.087Z","changed":"2026-11-28T01:22:54.087Z","tags":"LiDAR","note":"Wall or cliff, 2.1 m high, 14 m long: check","points":[
+ [-6393,5945],
+ [-6336,5868]
+]},
+{"id":"~olohpd66","type":"line","made":"2026-11-28T01:22:54.087Z","changed":"2026-11-28T01:22:54.087Z","tags":"LiDAR","note":"Wall or cliff, 2.3 m high, 12 m long: check","points":[
+ [-1593,7952],
+ [-1575,8033]
+]},
+{"id":"~2kt6t5xm","type":"line","made":"2026-11-28T01:22:54.087Z","changed":"2026-11-28T01:22:54.087Z","tags":"LiDAR","note":"Wall or cliff, 2.8 m high, 13 m long: check","points":[
+ [627,8947],
+ [603,8991],
+ [611,9028]
+]},
+{"id":"~2gnzum5i","type":"line","made":"2026-11-28T01:22:54.088Z","changed":"2026-11-28T01:22:54.088Z","tags":"LiDAR","note":"Wall or cliff, 2 m high, 15 m long: check","points":[
+ [-3377,7185],
+ [-3289,7145]
+]},
+{"id":"~fx53q7rn","type":"line","made":"2026-11-28T01:22:54.088Z","changed":"2026-11-28T01:22:54.088Z","tags":"LiDAR","note":"Wall or cliff, 2.7 m high, 11 m long: check","points":[
+ [130,8604],
+ [169,8662]
+]},
+{"id":"~fiafoxrv","type":"line","made":"2026-11-28T01:22:54.088Z","changed":"2026-11-28T01:22:54.088Z","tags":"LiDAR","note":"Wall or cliff, 3.6 m high, 11 m long: check","points":[
+ [-6842,5376],
+ [-6851,5301]
+]},
+{"id":"~dpu4243m","type":"line","made":"2026-11-28T01:22:54.088Z","changed":"2026-11-28T01:22:54.088Z","tags":"LiDAR","note":"Wall or cliff, 3.7 m high, 11 m long: check","points":[
+ [1306,9044],
+ [1279,9113]
+]},
+{"id":"~xcyr7gkh","type":"line","made":"2026-11-28T01:22:54.088Z","changed":"2026-11-28T01:22:54.088Z","tags":"LiDAR","note":"Wall or cliff, 3.4 m high, 11 m long: check","points":[
+ [744,8824],
+ [757,8755]
+]},
+{"id":"~m7dzreei","type":"line","made":"2026-11-28T01:22:54.089Z","changed":"2026-11-28T01:22:54.089Z","tags":"LiDAR","note":"Wall or cliff, 2.7 m high, 10 m long: check","points":[
+ [-1566,7664],
+ [-1595,7724]
+]},
+{"id":"~b4vycfsj","type":"line","made":"2026-11-28T01:22:54.089Z","changed":"2026-11-28T01:22:54.089Z","tags":"LiDAR","note":"Wall or cliff, 3.3 m high, 12 m long: check","points":[
+ [341,8549],
+ [266,8568]
+]},
+{"id":"~y6pdam7t","type":"line","made":"2026-11-28T01:22:54.089Z","changed":"2026-11-28T01:22:54.089Z","tags":"LiDAR","note":"Wall or cliff, 2.3 m high, 11 m long: check","points":[
+ [369,8602],
+ [439,8588]
+]},
+{"id":"~6omwid7f","type":"line","made":"2026-11-28T01:22:54.089Z","changed":"2026-11-28T01:22:54.089Z","tags":"LiDAR","note":"Wall or cliff, 2.2 m high, 47 m long: check","points":[
+ [-3577,6756],
+ [-3662,6661],
+ [-3717,6551],
+ [-3726,6492]
+]},
+{"id":"~7cacwy3w","type":"line","made":"2026-11-28T01:22:54.089Z","changed":"2026-11-28T01:22:54.089Z","tags":"LiDAR","note":"Wall or cliff, 3.1 m high, 13 m long: check","points":[
+ [621,8572],
+ [641,8652]
+]},
+{"id":"~zqaplcch","type":"line","made":"2026-11-28T01:22:54.089Z","changed":"2026-11-28T01:22:54.089Z","tags":"LiDAR","note":"Wall or cliff, 2.9 m high, 9 m long: check","points":[
+ [-1533,7568],
+ [-1533,7629]
+]},
+{"id":"~3ywnfjz5","type":"line","made":"2026-11-28T01:22:54.089Z","changed":"2026-11-28T01:22:54.089Z","tags":"LiDAR","note":"Wall or cliff, 2.9 m high, 9 m long: check","points":[
+ [-6983,5110],
+ [-7015,5059]
+]},
+{"id":"~qlxh4chs","type":"line","made":"2026-11-28T01:22:54.089Z","changed":"2026-11-28T01:22:54.089Z","tags":"LiDAR","note":"Wall or cliff, 2.6 m high, 10 m long: check","points":[
+ [1517,8964],
+ [1452,8984]
+]},
+{"id":"~jwbmohrk","type":"line","made":"2026-11-28T01:22:54.089Z","changed":"2026-11-28T01:22:54.089Z","tags":"LiDAR","note":"Wall or cliff, 3.6 m high, 9 m long: check","points":[
+ [-466,8016],
+ [-412,8042]
+]},
+{"id":"~nsgu6kqc","type":"line","made":"2026-11-28T01:22:54.089Z","changed":"2026-11-28T01:22:54.089Z","tags":"LiDAR","note":"Wall or cliff, 2.5 m high, 10 m long: check","points":[
+ [625,8447],
+ [575,8490]
+]},
+{"id":"~xtrw4pj2","type":"line","made":"2026-11-28T01:22:54.090Z","changed":"2026-11-28T01:22:54.090Z","tags":"LiDAR","note":"Wall or cliff, 3.4 m high, 9 m long: check","points":[
+ [-705,7721],
+ [-728,7776]
+]},
+{"id":"~yqjiecxd","type":"line","made":"2026-11-28T01:22:54.091Z","changed":"2026-11-28T01:22:54.091Z","tags":"LiDAR","note":"Wall or cliff, 4.1 m high, 11 m long: check","points":[
+ [-7384,4629],
+ [-7456,4640]
+]},
+{"id":"~xsjxzqrk","type":"line","made":"2026-11-28T01:22:54.091Z","changed":"2026-11-28T01:22:54.091Z","tags":"LiDAR","note":"Wall or cliff, 2.9 m high, 22 m long: check","points":[
+ [-7336,4640],
+ [-7406,4704],
+ [-7456,4723]
+]},
+{"id":"~jfk5d3qh","type":"line","made":"2026-11-28T01:22:54.092Z","changed":"2026-11-28T01:22:54.092Z","tags":"LiDAR","note":"Wall or cliff, 3.3 m high, 16 m long: check","points":[
+ [-7222,4657],
+ [-7326,4675]
+]},
+{"id":"~la2au4k5","type":"line","made":"2026-11-28T01:22:54.092Z","changed":"2026-11-28T01:22:54.092Z","tags":"LiDAR","note":"Wall or cliff, 3.5 m high, 11 m long: check","points":[
+ [729,8355],
+ [802,8355]
+]},
+{"id":"~t6t2awsj","type":"line","made":"2026-11-28T01:22:54.092Z","changed":"2026-11-28T01:22:54.092Z","tags":"LiDAR","note":"Wall or cliff, 3.1 m high, 34 m long: check","points":[
+ [-7487,4550],
+ [-7606,4516],
+ [-7669,4441]
+]},
+{"id":"~lauzp62p","type":"line","made":"2026-11-28T01:22:54.092Z","changed":"2026-11-28T01:22:54.092Z","tags":"LiDAR","note":"Wall or cliff, 3.6 m high, 12 m long: check","points":[
+ [-7832,4375],
+ [-7842,4294]
+]},
+{"id":"~3isedadn","type":"line","made":"2026-11-28T01:22:54.092Z","changed":"2026-11-28T01:22:54.092Z","tags":"LiDAR","note":"Wall or cliff, 2.6 m high, 17 m long: check","points":[
+ [-7109,4570],
+ [-7159,4566],
+ [-7210,4599]
+]},
+{"id":"~itlfjawq","type":"line","made":"2026-11-28T01:22:54.092Z","changed":"2026-11-28T01:22:54.092Z","tags":"LiDAR","note":"Wall or cliff, 4.3 m high, 14 m long: check","points":[
+ [858,8099],
+ [821,8185]
+]},
+{"id":"~aletu2uw","type":"line","made":"2026-11-28T01:22:54.093Z","changed":"2026-11-28T01:22:54.093Z","tags":"LiDAR","note":"Wall or cliff, 3.5 m high, 11 m long: check","points":[
+ [56,7665],
+ [-19,7660]
+]},
+{"id":"~vtic6tto","type":"line","made":"2026-11-28T01:22:54.093Z","changed":"2026-11-28T01:22:54.093Z","tags":"LiDAR","note":"Wall or cliff, 3.4 m high, 10 m long: check","points":[
+ [-1169,6942],
+ [-1231,6932]
+]},
+{"id":"~fvcs5732","type":"line","made":"2026-11-28T01:22:54.093Z","changed":"2026-11-28T01:22:54.093Z","tags":"LiDAR","note":"Wall or cliff, 3.2 m high, 14 m long: check","points":[
+ [513,7611],
+ [521,7648],
+ [502,7697]
+]},
+{"id":"~pxtz4jjo","type":"line","made":"2026-11-28T01:22:54.093Z","changed":"2026-11-28T01:22:54.093Z","tags":"LiDAR","note":"Wall or cliff, 2.3 m high, 10 m long: check","points":[
+ [-8233,3684],
+ [-8289,3643]
+]},
+{"id":"~hnex6nyx","type":"line","made":"2026-11-28T01:22:54.093Z","changed":"2026-11-28T01:22:54.093Z","tags":"LiDAR","note":"Wall or cliff, 2.4 m high, 9 m long: check","points":[
+ [1485,8034],
+ [1455,8086]
+]},
+{"id":"~6dh2kp4q","type":"line","made":"2026-11-28T01:22:54.093Z","changed":"2026-11-28T01:22:54.093Z","tags":"LiDAR","note":"Wall or cliff, 3.2 m high, 11 m long: check","points":[
+ [-9043,3225],
+ [-9107,3188]
+]},
+{"id":"~sotjc356","type":"line","made":"2026-11-28T01:22:54.094Z","changed":"2026-11-28T01:22:54.094Z","tags":"LiDAR","note":"Wall or cliff, 2.6 m high, 9 m long: check","points":[
+ [5759,10003],
+ [5816,10021]
+]},
+{"id":"~ep7m62wg","type":"line","made":"2026-11-28T01:22:54.094Z","changed":"2026-11-28T01:22:54.094Z","tags":"LiDAR","note":"Wall or cliff, 2.2 m high, 10 m long: check","points":[
+ [1495,7892],
+ [1486,7954]
+]},
+{"id":"~qepmhguj","type":"line","made":"2026-11-28T01:22:54.094Z","changed":"2026-11-28T01:22:54.094Z","tags":"LiDAR","note":"Wall or cliff, 3.2 m high, 14 m long: check","points":[
+ [-1112,6684],
+ [-1051,6617]
+]},
+{"id":"~rriynwa2","type":"line","made":"2026-11-28T01:22:54.095Z","changed":"2026-11-28T01:22:54.095Z","tags":"LiDAR","note":"Wall or cliff, 3.1 m high, 20 m long: check","points":[
+ [-546,6792],
+ [-536,6927]
+]},
+{"id":"~isikqgvb","type":"line","made":"2026-11-28T01:22:54.095Z","changed":"2026-11-28T01:22:54.095Z","tags":"LiDAR","note":"Wall or cliff, 3.4 m high, 10 m long: check","points":[
+ [-550,6863],
+ [-489,6844]
+]},
+{"id":"~ywyjkbvt","type":"line","made":"2026-11-28T01:22:54.095Z","changed":"2026-11-28T01:22:54.095Z","tags":"LiDAR","note":"Wall or cliff, 3.2 m high, 24 m long: check","points":[
+ [-1083,6507],
+ [-1048,6478],
+ [-997,6378]
+]},
+{"id":"~dkjie3ia","type":"line","made":"2026-11-28T01:22:54.095Z","changed":"2026-11-28T01:22:54.095Z","tags":"LiDAR","note":"Wall or cliff, 3.4 m high, 10 m long: check","points":[
+ [493,6383],
+ [547,6344]
+]},
+{"id":"~dbn6ccln","type":"line","made":"2026-11-28T01:22:54.095Z","changed":"2026-11-28T01:22:54.095Z","tags":"LiDAR","note":"Wall or cliff, 2 m high, 20 m long: check","points":[
+ [-4999,3853],
+ [-4931,3849],
+ [-4893,3897]
+]},
+{"id":"~7y5jl4yh","type":"line","made":"2026-11-28T01:22:54.095Z","changed":"2026-11-28T01:22:54.095Z","tags":"LiDAR","note":"Wall or cliff, 2.2 m high, 10 m long: check","points":[
+ [412,6120],
+ [439,6177]
+]},
+{"id":"~lelqczlo","type":"line","made":"2026-11-28T01:22:54.096Z","changed":"2026-11-28T01:22:54.096Z","tags":"LiDAR","note":"Wall or cliff, 4.3 m high, 12 m long: check","points":[
+ [-7720,2270],
+ [-7679,2332]
+]},
+{"id":"~5enutzrk","type":"line","made":"2026-11-28T01:22:54.096Z","changed":"2026-11-28T01:22:54.096Z","tags":"LiDAR","note":"Wall or cliff, 4.3 m high, 11 m long: check","points":[
+ [-7662,2324],
+ [-7700,2260]
+]},
+{"id":"~w24gkk4a","type":"line","made":"2026-11-28T01:22:54.096Z","changed":"2026-11-28T01:22:54.096Z","tags":"LiDAR","note":"Wall or cliff, 2.3 m high, 11 m long: check","points":[
+ [5402,7625],
+ [5454,7672]
+]},
+{"id":"~x2e4brzm","type":"line","made":"2026-11-28T01:22:54.096Z","changed":"2026-11-28T01:22:54.096Z","tags":"LiDAR","note":"Wall or cliff, 2.2 m high, 14 m long: check","points":[
+ [5897,7657],
+ [5923,7565]
+]},
+{"id":"~mdnswn4f","type":"line","made":"2026-11-28T01:22:54.096Z","changed":"2026-11-28T01:22:54.096Z","tags":"LiDAR","note":"Wall or cliff, 2.1 m high, 10 m long: check","points":[
+ [-449,4698],
+ [-386,4701]
+]},
+{"id":"~2aoqzzn3","type":"line","made":"2026-11-28T01:22:54.096Z","changed":"2026-11-28T01:22:54.096Z","tags":"LiDAR","note":"Wall or cliff, 3.2 m high, 16 m long: check","points":[
+ [4252,6790],
+ [4354,6776]
+]},
+{"id":"~7nr2zolf","type":"line","made":"2026-11-28T01:22:54.097Z","changed":"2026-11-28T01:22:54.097Z","tags":"LiDAR","note":"Wall or cliff, 2 m high, 11 m long: check","points":[
+ [5959,7552],
+ [6005,7500]
+]},
+{"id":"~wurdtr6w","type":"line","made":"2026-11-28T01:22:54.097Z","changed":"2026-11-28T01:22:54.097Z","tags":"LiDAR","note":"Wall or cliff, 2.1 m high, 12 m long: check","points":[
+ [8107,8265],
+ [8059,8331]
+]},
+{"id":"~2doyci6h","type":"line","made":"2026-11-28T01:22:54.097Z","changed":"2026-11-28T01:22:54.097Z","tags":"LiDAR","note":"Wall or cliff, 2.4 m high, 13 m long: check","points":[
+ [6036,7042],
+ [6110,6994]
+]},
+{"id":"~ibfqw5hg","type":"line","made":"2026-11-28T01:22:54.097Z","changed":"2026-11-28T01:22:54.097Z","tags":"LiDAR","note":"Wall or cliff, 2.2 m high, 14 m long: check","points":[
+ [8650,8090],
+ [8560,8081]
+]},
+{"id":"~wkv32u4r","type":"line","made":"2026-11-28T01:22:54.097Z","changed":"2026-11-28T01:22:54.097Z","tags":"LiDAR","note":"Wall or cliff, 2 m high, 11 m long: check","points":[
+ [8853,8149],
+ [8786,8180]
+]},
+{"id":"~4hy4edwp","type":"line","made":"2026-11-28T01:22:54.098Z","changed":"2026-11-28T01:22:54.098Z","tags":"LiDAR","note":"Wall or cliff, 2.4 m high, 22 m long: check","points":[
+ [8509,7536],
+ [8469,7562],
+ [8416,7560],
+ [8375,7583]
+]},
+{"id":"~pwwqhgzk","type":"line","made":"2026-11-28T01:22:54.098Z","changed":"2026-11-28T01:22:54.098Z","tags":"LiDAR","note":"Wall or cliff, 2.3 m high, 32 m long: check","points":[
+ [-2365,1952],
+ [-2482,2127]
+]},
+{"id":"~swhyjr77","type":"line","made":"2026-11-28T01:22:54.098Z","changed":"2026-11-28T01:22:54.098Z","tags":"LiDAR","note":"Wall or cliff, 2.5 m high, 10 m long: check","points":[
+ [7473,6552],
+ [7518,6507]
+]},
+{"id":"~uu5k6swr","type":"line","made":"2026-11-28T01:22:54.098Z","changed":"2026-11-28T01:22:54.098Z","tags":"LiDAR","note":"Wall or cliff, 2.5 m high, 12 m long: check","points":[
+ [5696,5239],
+ [5631,5188]
+]},
+{"id":"~ytfeqbgu","type":"line","made":"2026-11-28T01:22:54.098Z","changed":"2026-11-28T01:22:54.098Z","tags":"LiDAR","note":"Wall or cliff, 2.5 m high, 10 m long: check","points":[
+ [8408,6364],
+ [8471,6370]
+]},
+{"id":"~drrrbuzz","type":"line","made":"2026-11-28T01:22:54.098Z","changed":"2026-11-28T01:22:54.098Z","tags":"LiDAR","note":"Wall or cliff, 2.7 m high, 10 m long: check","points":[
+ [-8530,-1640],
+ [-8489,-1694]
+]},
+{"id":"~mka3knhh","type":"line","made":"2026-11-28T01:22:54.098Z","changed":"2026-11-28T01:22:54.098Z","tags":"LiDAR","note":"Wall or cliff, 2.1 m high, 10 m long: check","points":[
+ [6925,5399],
+ [6968,5353]
+]},
+{"id":"~hclqlilf","type":"line","made":"2026-11-28T01:22:54.098Z","changed":"2026-11-28T01:22:54.098Z","tags":"LiDAR","note":"Wall or cliff, 2.5 m high, 13 m long: check","points":[
+ [7774,5768],
+ [7860,5750]
+]},
+{"id":"~j4h4x6tu","type":"line","made":"2026-11-28T01:22:54.098Z","changed":"2026-11-28T01:22:54.098Z","tags":"LiDAR","note":"Wall or cliff, 2.9 m high, 23 m long: check","points":[
+ [4740,4285],
+ [4885,4333]
+]},
+{"id":"~fclbw7cc","type":"line","made":"2026-11-28T01:22:54.099Z","changed":"2026-11-28T01:22:54.099Z","tags":"LiDAR","note":"Wall or cliff, 2.7 m high, 11 m long: check","points":[
+ [8727,6015],
+ [8797,6023]
+]},
+{"id":"~ns4ztzce","type":"line","made":"2026-11-28T01:22:54.099Z","changed":"2026-11-28T01:22:54.099Z","tags":"LiDAR","note":"Wall or cliff, 2.3 m high, 10 m long: check","points":[
+ [6389,4942],
+ [6421,4883]
+]},
+{"id":"~6tjos36y","type":"line","made":"2026-11-28T01:22:54.099Z","changed":"2026-11-28T01:22:54.099Z","tags":"LiDAR","note":"Wall or cliff, 2.9 m high, 10 m long: check","points":[
+ [-7400,-1787],
+ [-7463,-1761]
+]},
+{"id":"~wjm3mf5t","type":"line","made":"2026-11-28T01:22:54.099Z","changed":"2026-11-28T01:22:54.099Z","tags":"LiDAR","note":"Wall or cliff, 2.3 m high, 20 m long: check","points":[
+ [7890,5101],
+ [7796,5189]
+]},
+{"id":"~platftj7","type":"line","made":"2026-11-28T01:22:54.099Z","changed":"2026-11-28T01:22:54.099Z","tags":"LiDAR","note":"Wall or cliff, 2.1 m high, 12 m long: check","points":[
+ [-5765,-1188],
+ [-5817,-1131]
+]},
+{"id":"~rgqzmeal","type":"line","made":"2026-11-28T01:22:54.099Z","changed":"2026-11-28T01:22:54.099Z","tags":"LiDAR","note":"Wall or cliff, 2.4 m high, 11 m long: check","points":[
+ [7396,4832],
+ [7432,4834],
+ [7462,4815]
+]},
+{"id":"~p3uhudzq","type":"line","made":"2026-11-28T01:22:54.099Z","changed":"2026-11-28T01:22:54.099Z","tags":"LiDAR","note":"Wall or cliff, 2.9 m high, 12 m long: check","points":[
+ [-5671,-1321],
+ [-5692,-1249]
+]},
+{"id":"~nhoi3fz3","type":"line","made":"2026-11-28T01:22:54.099Z","changed":"2026-11-28T01:22:54.099Z","tags":"LiDAR","note":"Wall or cliff, 2.6 m high, 17 m long: check","points":[
+ [-5436,-1260],
+ [-5379,-1278],
+ [-5358,-1324]
+]},
+{"id":"~fdvszktz","type":"line","made":"2026-11-28T01:22:54.099Z","changed":"2026-11-28T01:22:54.099Z","tags":"LiDAR","note":"Wall or cliff, 3.3 m high, 9 m long: check","points":[
+ [-8446,-2692],
+ [-8500,-2717]
+]},
+{"id":"~bcdpksaz","type":"line","made":"2026-11-28T01:22:54.099Z","changed":"2026-11-28T01:22:54.099Z","tags":"LiDAR","note":"Wall or cliff, 2.8 m high, 17 m long: check","points":[
+ [9583,5460],
+ [9521,5465],
+ [9477,5442]
+]},
+{"id":"~ee6aibf4","type":"line","made":"2026-11-28T01:22:54.100Z","changed":"2026-11-28T01:22:54.100Z","tags":"LiDAR","note":"Wall or cliff, 2.7 m high, 10 m long: check","points":[
+ [-5109,-1491],
+ [-5040,-1498]
+]},
+{"id":"~5axlknaj","type":"line","made":"2026-11-28T01:22:54.100Z","changed":"2026-11-28T01:22:54.100Z","tags":"LiDAR","note":"Wall or cliff, 2.5 m high, 10 m long: check","points":[
+ [4759,2384],
+ [4782,2321]
+]},
+{"id":"~hixmozl5","type":"line","made":"2026-11-28T01:22:54.100Z","changed":"2026-11-28T01:22:54.100Z","tags":"LiDAR","note":"Wall or cliff, 2.5 m high, 12 m long: check","points":[
+ [4436,1992],
+ [4518,1983]
+]},
+{"id":"~jcna57bb","type":"line","made":"2026-11-28T01:22:54.100Z","changed":"2026-11-28T01:22:54.100Z","tags":"LiDAR","note":"Wall or cliff, 3.5 m high, 9 m long: check","points":[
+ [-5235,-2574],
+ [-5283,-2537]
+]},
+{"id":"~qrlpofeq","type":"line","made":"2026-11-28T01:22:54.100Z","changed":"2026-11-28T01:22:54.100Z","tags":"LiDAR","note":"Wall or cliff, 3 m high, 13 m long: check","points":[
+ [7200,3110],
+ [7113,3121]
+]},
+{"id":"~oxs7vinl","type":"line","made":"2026-11-28T01:22:54.100Z","changed":"2026-11-28T01:22:54.100Z","tags":"LiDAR","note":"Wall or cliff, 2 m high, 14 m long: check","points":[
+ [-5267,-2687],
+ [-5236,-2601]
+]},
+{"id":"~mhcm6yhk","type":"line","made":"2026-11-28T01:22:54.100Z","changed":"2026-11-28T01:22:54.100Z","tags":"LiDAR","note":"Wall or cliff, 2.7 m high, 13 m long: check","points":[
+ [-4562,-2389],
+ [-4615,-2318]
+]},
+{"id":"~tqjx7ukq","type":"line","made":"2026-11-28T01:22:54.101Z","changed":"2026-11-28T01:22:54.101Z","tags":"LiDAR","note":"Wall or cliff, 2.5 m high, 11 m long: check","points":[
+ [-5224,-2753],
+ [-5196,-2685]
+]},
+{"id":"~b7cynjrb","type":"line","made":"2026-11-28T01:22:54.101Z","changed":"2026-11-28T01:22:54.101Z","tags":"LiDAR","note":"Wall or cliff, 3.2 m high, 9 m long: check","points":[
+ [8769,3585],
+ [8732,3632]
+]},
+{"id":"~jjtz67bv","type":"line","made":"2026-11-28T01:22:54.101Z","changed":"2026-11-28T01:22:54.101Z","tags":"LiDAR","note":"Wall or cliff, 2.3 m high, 11 m long: check","points":[
+ [4991,1867],
+ [5063,1852]
+]},
+{"id":"~ikv53mvu","type":"line","made":"2026-11-28T01:22:54.101Z","changed":"2026-11-28T01:22:54.101Z","tags":"LiDAR","note":"Wall or cliff, 2.8 m high, 16 m long: check","points":[
+ [-5645,-3271],
+ [-5592,-3178]
+]},
+{"id":"~bbfoplau","type":"line","made":"2026-11-28T01:22:54.101Z","changed":"2026-11-28T01:22:54.101Z","tags":"LiDAR","note":"Wall or cliff, 2.8 m high, 10 m long: check","points":[
+ [-5394,-3112],
+ [-5330,-3093]
+]},
+{"id":"~3e2tyh2w","type":"line","made":"2026-11-28T01:22:54.101Z","changed":"2026-11-28T01:22:54.101Z","tags":"LiDAR","note":"Wall or cliff, 3.1 m high, 12 m long: check","points":[
+ [-5388,-3205],
+ [-5463,-3184]
+]},
+{"id":"~zmjpn7yh","type":"line","made":"2026-11-28T01:22:54.101Z","changed":"2026-11-28T01:22:54.101Z","tags":"LiDAR","note":"Wall or cliff, 3 m high, 13 m long: check","points":[
+ [-4559,-2963],
+ [-4595,-2950],
+ [-4625,-2915]
+]},
+{"id":"~za3bt2cc","type":"line","made":"2026-11-28T01:22:54.101Z","changed":"2026-11-28T01:22:54.101Z","tags":"LiDAR","note":"Wall or cliff, 2.9 m high, 12 m long: check","points":[
+ [-4395,-2990],
+ [-4318,-2963]
+]},
+{"id":"~npmbxybw","type":"line","made":"2026-11-28T01:22:54.101Z","changed":"2026-11-28T01:22:54.101Z","tags":"LiDAR","note":"Wall or cliff, 3.1 m high, 10 m long: check","points":[
+ [-4233,-3088],
+ [-4297,-3066]
+]},
+{"id":"~3pjchk3g","type":"line","made":"2026-11-28T01:22:54.101Z","changed":"2026-11-28T01:22:54.101Z","tags":"LiDAR","note":"Wall or cliff, 2.4 m high, 14 m long: check","points":[
+ [-4015,-2982],
+ [-3923,-2989]
+]},
+{"id":"~5hhc6tqd","type":"line","made":"2026-11-28T01:22:54.101Z","changed":"2026-11-28T01:22:54.101Z","tags":"LiDAR","note":"Wall or cliff, 2.7 m high, 12 m long: check","points":[
+ [7419,1923],
+ [7392,1999]
+]},
+{"id":"~skcxasmn","type":"line","made":"2026-11-28T01:22:54.102Z","changed":"2026-11-28T01:22:54.102Z","tags":"LiDAR","note":"Wall or cliff, 2.1 m high, 11 m long: check","points":[
+ [6772,1577],
+ [6820,1526]
+]},
+{"id":"~srtms7ma","type":"line","made":"2026-11-28T01:22:54.102Z","changed":"2026-11-28T01:22:54.102Z","tags":"LiDAR","note":"Wall or cliff, 3.3 m high, 9 m long: check","points":[
+ [7627,1865],
+ [7591,1914]
+]},
+{"id":"~qd4ihuus","type":"line","made":"2026-11-28T01:22:54.102Z","changed":"2026-11-28T01:22:54.102Z","tags":"LiDAR","note":"Wall or cliff, 2.3 m high, 11 m long: check","points":[
+ [6695,1437],
+ [6657,1379]
+]},
+{"id":"~3wr7g6id","type":"line","made":"2026-11-28T01:22:54.102Z","changed":"2026-11-28T01:22:54.102Z","tags":"LiDAR","note":"Wall or cliff, 2.9 m high, 11 m long: check","points":[
+ [6591,1348],
+ [6641,1400]
+]},
+{"id":"~yb7tkt6o","type":"line","made":"2026-11-28T01:22:54.102Z","changed":"2026-11-28T01:22:54.102Z","tags":"LiDAR","note":"Wall or cliff, 2.9 m high, 17 m long: check","points":[
+ [6599,1249],
+ [6604,1283],
+ [6578,1355]
+]},
+{"id":"~6ki562om","type":"line","made":"2026-11-28T01:22:54.102Z","changed":"2026-11-28T01:22:54.102Z","tags":"LiDAR","note":"Wall or cliff, 2.4 m high, 10 m long: check","points":[
+ [6686,1283],
+ [6752,1282]
+]},
+{"id":"~6ygmluml","type":"line","made":"2026-11-28T01:22:54.102Z","changed":"2026-11-28T01:22:54.102Z","tags":"LiDAR","note":"Wall or cliff, 2.7 m high, 11 m long: check","points":[
+ [6578,1183],
+ [6627,1235]
+]},
+{"id":"~hxcb7mkw","type":"line","made":"2026-11-28T01:22:54.102Z","changed":"2026-11-28T01:22:54.102Z","tags":"LiDAR","note":"Wall or cliff, 2.6 m high, 10 m long: check","points":[
+ [6449,1096],
+ [6504,1137]
+]},
+{"id":"~w2j6ak6b","type":"line","made":"2026-11-28T01:22:54.102Z","changed":"2026-11-28T01:22:54.102Z","tags":"LiDAR","note":"Wall or cliff, 3.1 m high, 16 m long: check","points":[
+ [-4050,-3710],
+ [-3952,-3668]
+]},
+{"id":"~mrigi6mg","type":"line","made":"2026-11-28T01:22:54.102Z","changed":"2026-11-28T01:22:54.102Z","tags":"LiDAR","note":"Wall or cliff, 2.3 m high, 20 m long: check","points":[
+ [6304,977],
+ [6321,1026],
+ [6375,1082]
+]},
+{"id":"~sflxlp76","type":"line","made":"2026-11-28T01:22:54.102Z","changed":"2026-11-28T01:22:54.102Z","tags":"LiDAR","note":"Wall or cliff, 2.7 m high, 12 m long: check","points":[
+ [5964,762],
+ [6042,763]
+]},
+{"id":"~w7xovb7j","type":"line","made":"2026-11-28T01:22:54.102Z","changed":"2026-11-28T01:22:54.102Z","tags":"LiDAR","note":"Wall or cliff, 2.7 m high, 13 m long: check","points":[
+ [-4353,-4032],
+ [-4308,-3962]
+]},
+{"id":"~7df7uvj3","type":"line","made":"2026-11-28T01:22:54.102Z","changed":"2026-11-28T01:22:54.102Z","tags":"LiDAR","note":"Wall or cliff, 2.2 m high, 11 m long: check","points":[
+ [5754,513],
+ [5771,583]
+]},
+{"id":"~2n4anu7d","type":"line","made":"2026-11-28T01:22:54.103Z","changed":"2026-11-28T01:22:54.103Z","tags":"LiDAR","note":"Wall or cliff, 2.7 m high, 19 m long: check","points":[
+ [5408,85],
+ [5369,42],
+ [5339,-22]
+]},
+{"id":"~ktwockmv","type":"line","made":"2026-11-28T01:22:54.104Z","changed":"2026-11-28T01:22:54.104Z","tags":"LiDAR","note":"Wall or cliff, 2.3 m high, 9 m long: check","points":[
+ [9064,1591],
+ [9063,1651]
+]},
+{"id":"~esokcyxe","type":"line","made":"2026-11-28T01:22:54.104Z","changed":"2026-11-28T01:22:54.104Z","tags":"LiDAR","note":"Wall or cliff, 2.8 m high, 11 m long: check","points":[
+ [7669,786],
+ [7719,835]
+]},
+{"id":"~iwjlltgs","type":"line","made":"2026-11-28T01:22:54.105Z","changed":"2026-11-28T01:22:54.105Z","tags":"LiDAR","note":"Wall or cliff, 2.2 m high, 10 m long: check","points":[
+ [-5477,-5364],
+ [-5544,-5363]
+]},
+{"id":"~klxyueoq","type":"line","made":"2026-11-28T01:22:54.106Z","changed":"2026-11-28T01:22:54.106Z","tags":"LiDAR","note":"Wall or cliff, 3.2 m high, 10 m long: check","points":[
+ [9046,1205],
+ [9109,1212]
+]},
+{"id":"~t4jzeuz7","type":"line","made":"2026-11-28T01:22:54.106Z","changed":"2026-11-28T01:22:54.106Z","tags":"LiDAR","note":"Wall or cliff, 2.3 m high, 13 m long: check","points":[
+ [8815,881],
+ [8755,936]
+]},
+{"id":"~mpn3ndvb","type":"line","made":"2026-11-28T01:22:54.106Z","changed":"2026-11-28T01:22:54.106Z","tags":"LiDAR","note":"Wall or cliff, 2.4 m high, 14 m long: check","points":[
+ [8745,836],
+ [8689,906]
+]},
+{"id":"~xlwk6p2w","type":"line","made":"2026-11-28T01:22:54.107Z","changed":"2026-11-28T01:22:54.107Z","tags":"LiDAR","note":"Wall or cliff, 2 m high, 10 m long: check","points":[
+ [-6174,-6455],
+ [-6233,-6433]
+]},
+{"id":"~uxrfzxfk","type":"line","made":"2026-11-28T01:22:54.107Z","changed":"2026-11-28T01:22:54.107Z","tags":"LiDAR","note":"Wall or cliff, 2.2 m high, 9 m long: check","points":[
+ [4633,-1536],
+ [4687,-1509]
+]},
+{"id":"~vowz4uax","type":"line","made":"2026-11-28T01:22:54.107Z","changed":"2026-11-28T01:22:54.107Z","tags":"LiDAR","note":"Wall or cliff, 2.4 m high, 10 m long: check","points":[
+ [6251,-794],
+ [6306,-756]
+]},
+{"id":"~rgy7tdtq","type":"line","made":"2026-11-28T01:22:54.107Z","changed":"2026-11-28T01:22:54.107Z","tags":"LiDAR","note":"Wall or cliff, 3.8 m high, 15 m long: check","points":[
+ [6199,-1112],
+ [6248,-1028]
+]},
+{"id":"~6ohsyioj","type":"line","made":"2026-11-28T01:22:54.107Z","changed":"2026-11-28T01:22:54.107Z","tags":"LiDAR","note":"Wall or cliff, 2.6 m high, 33 m long: check","points":[
+ [-2921,-5455],
+ [-2790,-5276]
+]},
+{"id":"~hn5ff7in","type":"line","made":"2026-11-28T01:22:54.107Z","changed":"2026-11-28T01:22:54.107Z","tags":"LiDAR","note":"Wall or cliff, 3.2 m high, 11 m long: check","points":[
+ [-2494,-5202],
+ [-2562,-5176]
+]},
+{"id":"~bhzv3ktp","type":"line","made":"2026-11-28T01:22:54.107Z","changed":"2026-11-28T01:22:54.107Z","tags":"LiDAR","note":"Wall or cliff, 2.4 m high, 9 m long: check","points":[
+ [9059,101],
+ [8999,107]
+]},
+{"id":"~uz534egz","type":"line","made":"2026-11-28T01:22:54.107Z","changed":"2026-11-28T01:22:54.107Z","tags":"LiDAR","note":"Wall or cliff, 2.4 m high, 16 m long: check","points":[
+ [5613,-1461],
+ [5715,-1462]
+]},
+{"id":"~og7zhb4t","type":"line","made":"2026-11-28T01:22:54.108Z","changed":"2026-11-28T01:22:54.108Z","tags":"LiDAR","note":"Wall or cliff, 2.6 m high, 13 m long: check","points":[
+ [5542,-1546],
+ [5570,-1566],
+ [5580,-1619]
+]},
+{"id":"~czkv4z6c","type":"line","made":"2026-11-28T01:22:54.108Z","changed":"2026-11-28T01:22:54.108Z","tags":"LiDAR","note":"Wall or cliff, 2.7 m high, 14 m long: check","points":[
+ [-2330,-5267],
+ [-2273,-5342]
+]},
+{"id":"~qdbqjtgi","type":"line","made":"2026-11-28T01:22:54.108Z","changed":"2026-11-28T01:22:54.108Z","tags":"LiDAR","note":"Wall or cliff, 2.9 m high, 14 m long: check","points":[
+ [-2096,-5410],
+ [-2021,-5457]
+]},
+{"id":"~ob757cpa","type":"line","made":"2026-11-28T01:22:54.108Z","changed":"2026-11-28T01:22:54.108Z","tags":"LiDAR","note":"Wall or cliff, 2.8 m high, 12 m long: check","points":[
+ [-2002,-5509],
+ [-1946,-5562]
+]},
+{"id":"~yh5rx6um","type":"line","made":"2026-11-28T01:22:54.108Z","changed":"2026-11-28T01:22:54.108Z","tags":"LiDAR","note":"Wall or cliff, 3.3 m high, 16 m long: check","points":[
+ [9129,-465],
+ [9180,-441],
+ [9229,-443]
+]},
+{"id":"~775tnw3o","type":"line","made":"2026-11-28T01:22:54.108Z","changed":"2026-11-28T01:22:54.108Z","tags":"LiDAR","note":"Wall or cliff, 2.4 m high, 14 m long: check","points":[
+ [-2220,-5842],
+ [-2304,-5806]
+]},
+{"id":"~wqmimg47","type":"line","made":"2026-11-28T01:22:54.108Z","changed":"2026-11-28T01:22:54.108Z","tags":"LiDAR","note":"Wall or cliff, 3.3 m high, 9 m long: check","points":[
+ [8507,-980],
+ [8473,-930]
+]},
+{"id":"~ncvla7ar","type":"line","made":"2026-11-28T01:22:54.108Z","changed":"2026-11-28T01:22:54.108Z","tags":"LiDAR","note":"Wall or cliff, 3 m high, 9 m long: check","points":[
+ [9347,-611],
+ [9380,-661]
+]},
+{"id":"~unizl66t","type":"line","made":"2026-11-28T01:22:54.109Z","changed":"2026-11-28T01:22:54.109Z","tags":"LiDAR","note":"Wall or cliff, 2.3 m high, 12 m long: check","points":[
+ [-2814,-6346],
+ [-2840,-6318],
+ [-2841,-6278]
+]},
+{"id":"~xunorvkx","type":"line","made":"2026-11-28T01:22:54.109Z","changed":"2026-11-28T01:22:54.109Z","tags":"LiDAR","note":"Wall or cliff, 3.2 m high, 9 m long: check","points":[
+ [9476,-775],
+ [9530,-749]
+]},
+{"id":"~ohgo7epd","type":"line","made":"2026-11-28T01:22:54.109Z","changed":"2026-11-28T01:22:54.109Z","tags":"LiDAR","note":"Wall or cliff, 2.3 m high, 11 m long: check","points":[
+ [9133,-1135],
+ [9107,-1066]
+]},
+{"id":"~sd6yg2vr","type":"line","made":"2026-11-28T01:22:54.109Z","changed":"2026-11-28T01:22:54.109Z","tags":"LiDAR","note":"Wall or cliff, 2.3 m high, 10 m long: check","points":[
+ [-3102,-6800],
+ [-3135,-6808],
+ [-3164,-6792]
+]},
+{"id":"~riy465rn","type":"line","made":"2026-11-28T01:22:54.109Z","changed":"2026-11-28T01:22:54.109Z","tags":"LiDAR","note":"Wall or cliff, 2.2 m high, 15 m long: check","points":[
+ [9959,-837],
+ [10007,-826],
+ [10056,-842]
+]},
+{"id":"~kcfyzo7h","type":"line","made":"2026-11-28T01:22:54.109Z","changed":"2026-11-28T01:22:54.109Z","tags":"LiDAR","note":"Wall or cliff, 2.3 m high, 11 m long: check","points":[
+ [10094,-828],
+ [10162,-799]
+]},
+{"id":"~arecdbed","type":"line","made":"2026-11-28T01:22:54.109Z","changed":"2026-11-28T01:22:54.109Z","tags":"LiDAR","note":"Wall or cliff, 3.4 m high, 11 m long: check","points":[
+ [8726,-1634],
+ [8732,-1565]
+]},
+{"id":"~kiy2gr5b","type":"line","made":"2026-11-28T01:22:54.109Z","changed":"2026-11-28T01:22:54.109Z","tags":"LiDAR","note":"Wall or cliff, 3.3 m high, 10 m long: check","points":[
+ [8922,-1562],
+ [8878,-1510]
+]},
+{"id":"~5pn5kta6","type":"line","made":"2026-11-28T01:22:54.110Z","changed":"2026-11-28T01:22:54.110Z","tags":"LiDAR","note":"Wall or cliff, 3.2 m high, 11 m long: check","points":[
+ [-1965,-6592],
+ [-1926,-6534]
+]},
+{"id":"~bpt53cao","type":"line","made":"2026-11-28T01:22:54.110Z","changed":"2026-11-28T01:22:54.110Z","tags":"LiDAR","note":"Wall or cliff, 2.8 m high, 9 m long: check","points":[
+ [-1876,-6748],
+ [-1937,-6754]
+]},
+{"id":"~ugnnuyfx","type":"line","made":"2026-11-28T01:22:54.110Z","changed":"2026-11-28T01:22:54.110Z","tags":"LiDAR","note":"Wall or cliff, 2.4 m high, 10 m long: check","points":[
+ [10278,-1261],
+ [10298,-1201]
+]},
+{"id":"~34ngn2kj","type":"line","made":"2026-11-28T01:22:54.110Z","changed":"2026-11-28T01:22:54.110Z","tags":"LiDAR","note":"Wall or cliff, 2.8 m high, 11 m long: check","points":[
+ [-1740,-6832],
+ [-1784,-6778]
+]},
+{"id":"~lo7wkykw","type":"line","made":"2026-11-28T01:22:54.110Z","changed":"2026-11-28T01:22:54.110Z","tags":"LiDAR","note":"Wall or cliff, 2.3 m high, 12 m long: check","points":[
+ [-4460,-8116],
+ [-4407,-8054]
+]},
+{"id":"~rsfodndr","type":"line","made":"2026-11-28T01:22:54.110Z","changed":"2026-11-28T01:22:54.110Z","tags":"LiDAR","note":"Wall or cliff, 2.1 m high, 15 m long: check","points":[
+ [6504,-3174],
+ [6468,-3139],
+ [6457,-3093]
+]},
+{"id":"~dazlt22x","type":"line","made":"2026-11-28T01:22:54.110Z","changed":"2026-11-28T01:22:54.110Z","tags":"LiDAR","note":"Wall or cliff, 3.2 m high, 19 m long: check","points":[
+ [-4145,-8123],
+ [-4146,-8001]
+]},
+{"id":"~uhou7tvo","type":"line","made":"2026-11-28T01:22:54.110Z","changed":"2026-11-28T01:22:54.110Z","tags":"LiDAR","note":"Wall or cliff, 3.5 m high, 11 m long: check","points":[
+ [-4122,-8075],
+ [-4093,-8143]
+]},
+{"id":"~a7tgaavn","type":"line","made":"2026-11-28T01:22:54.110Z","changed":"2026-11-28T01:22:54.110Z","tags":"LiDAR","note":"Wall or cliff, 3.1 m high, 11 m long: check","points":[
+ [9365,-1955],
+ [9348,-2022]
+]},
+{"id":"~i4j2fyhb","type":"line","made":"2026-11-28T01:22:54.111Z","changed":"2026-11-28T01:22:54.111Z","tags":"LiDAR","note":"Wall or cliff, 2.9 m high, 16 m long: check","points":[
+ [6556,-3340],
+ [6570,-3288],
+ [6615,-3263]
+]},
+{"id":"~padbyq3w","type":"line","made":"2026-11-28T01:22:54.111Z","changed":"2026-11-28T01:22:54.111Z","tags":"LiDAR","note":"Wall or cliff, 2.5 m high, 11 m long: check","points":[
+ [6612,-3419],
+ [6556,-3373]
+]},
+{"id":"~hx76n5jv","type":"line","made":"2026-11-28T01:22:54.111Z","changed":"2026-11-28T01:22:54.111Z","tags":"LiDAR","note":"Wall or cliff, 2 m high, 15 m long: check","points":[
+ [5168,-4063],
+ [5240,-3998]
+]},
+{"id":"~uonpofx5","type":"line","made":"2026-11-28T01:22:54.111Z","changed":"2026-11-28T01:22:54.111Z","tags":"LiDAR","note":"Wall or cliff, 2.9 m high, 14 m long: check","points":[
+ [-4227,-8431],
+ [-4207,-8405],
+ [-4199,-8348]
+]},
+{"id":"~df45l5zs","type":"line","made":"2026-11-28T01:22:54.111Z","changed":"2026-11-28T01:22:54.111Z","tags":"LiDAR","note":"Wall or cliff, 2.3 m high, 9 m long: check","points":[
+ [6482,-3590],
+ [6523,-3546]
+]},
+{"id":"~3becdakp","type":"line","made":"2026-11-28T01:22:54.111Z","changed":"2026-11-28T01:22:54.111Z","tags":"LiDAR","note":"Wall or cliff, 3 m high, 10 m long: check","points":[
+ [6580,-3586],
+ [6588,-3653]
+]},
+{"id":"~ythtwiwl","type":"line","made":"2026-11-28T01:22:54.111Z","changed":"2026-11-28T01:22:54.111Z","tags":"LiDAR","note":"Wall or cliff, 3.2 m high, 11 m long: check","points":[
+ [6500,-3814],
+ [6491,-3744]
+]},
+{"id":"~2ysyqkm2","type":"line","made":"2026-11-28T01:22:54.111Z","changed":"2026-11-28T01:22:54.111Z","tags":"LiDAR","note":"Wall or cliff, 2.4 m high, 16 m long: check","points":[
+ [3947,-4939],
+ [4043,-4891]
+]},
+{"id":"~o74ez5ma","type":"line","made":"2026-11-28T01:22:54.111Z","changed":"2026-11-28T01:22:54.111Z","tags":"LiDAR","note":"Wall or cliff, 3.1 m high, 10 m long: check","points":[
+ [7637,-3330],
+ [7704,-3336]
+]},
+{"id":"~vrrq2fau","type":"line","made":"2026-11-28T01:22:54.111Z","changed":"2026-11-28T01:22:54.111Z","tags":"LiDAR","note":"Wall or cliff, 2.4 m high, 16 m long: check","points":[
+ [9533,-2548],
+ [9622,-2489]
+]},
+{"id":"~o7gi4yx6","type":"line","made":"2026-11-28T01:22:54.111Z","changed":"2026-11-28T01:22:54.111Z","tags":"LiDAR","note":"Wall or cliff, 2.1 m high, 26 m long: check","points":[
+ [-3471,-8676],
+ [-3443,-8617],
+ [-3452,-8509]
+]},
+{"id":"~ptunbkz5","type":"line","made":"2026-11-28T01:22:54.111Z","changed":"2026-11-28T01:22:54.111Z","tags":"LiDAR","note":"Wall or cliff, 2.1 m high, 10 m long: check","points":[
+ [4355,-5108],
+ [4411,-5071]
+]},
+{"id":"~4zztobgv","type":"line","made":"2026-11-28T01:22:54.111Z","changed":"2026-11-28T01:22:54.111Z","tags":"LiDAR","note":"Wall or cliff, 2.7 m high, 11 m long: check","points":[
+ [5821,-4435],
+ [5891,-4410]
+]},
+{"id":"~6ic35q4o","type":"line","made":"2026-11-28T01:22:54.111Z","changed":"2026-11-28T01:22:54.111Z","tags":"LiDAR","note":"Wall or cliff, 2.7 m high, 12 m long: check","points":[
+ [9919,-2558],
+ [9994,-2548]
+]},
+{"id":"~wkovvm62","type":"line","made":"2026-11-28T01:22:54.112Z","changed":"2026-11-28T01:22:54.112Z","tags":"LiDAR","note":"Wall or cliff, 2.9 m high, 10 m long: check","points":[
+ [7434,-3778],
+ [7497,-3769]
+]},
+{"id":"~5nidn2rr","type":"line","made":"2026-11-28T01:22:54.112Z","changed":"2026-11-28T01:22:54.112Z","tags":"LiDAR","note":"Wall or cliff, 2.7 m high, 12 m long: check","points":[
+ [5674,-4668],
+ [5691,-4589]
+]},
+{"id":"~pvx6n42q","type":"line","made":"2026-11-28T01:22:54.112Z","changed":"2026-11-28T01:22:54.112Z","tags":"LiDAR","note":"Wall or cliff, 3 m high, 10 m long: check","points":[
+ [7284,-3882],
+ [7351,-3867]
+]},
+{"id":"~li7ojr3g","type":"line","made":"2026-11-28T01:22:54.112Z","changed":"2026-11-28T01:22:54.112Z","tags":"LiDAR","note":"Wall or cliff, 2.1 m high, 12 m long: check","points":[
+ [-2116,-8237],
+ [-2038,-8243]
+]},
+{"id":"~o57flsoi","type":"line","made":"2026-11-28T01:22:54.112Z","changed":"2026-11-28T01:22:54.112Z","tags":"LiDAR","note":"Wall or cliff, 2.7 m high, 14 m long: check","points":[
+ [-664,-7629],
+ [-619,-7552]
+]},
+{"id":"~wzbwaqnw","type":"line","made":"2026-11-28T01:22:54.112Z","changed":"2026-11-28T01:22:54.112Z","tags":"LiDAR","note":"Wall or cliff, 2.4 m high, 12 m long: check","points":[
+ [4249,-5416],
+ [4258,-5493]
+]},
+{"id":"~hdvlb4is","type":"line","made":"2026-11-28T01:22:54.112Z","changed":"2026-11-28T01:22:54.112Z","tags":"LiDAR","note":"Wall or cliff, 2.1 m high, 9 m long: check","points":[
+ [-2137,-8428],
+ [-2130,-8368]
+]},
+{"id":"~s2tzxl4j","type":"line","made":"2026-11-28T01:22:54.112Z","changed":"2026-11-28T01:22:54.112Z","tags":"LiDAR","note":"Wall or cliff, 4.5 m high, 10 m long: check","points":[
+ [5727,-4782],
+ [5790,-4809]
+]},
+{"id":"~fjnhcwqf","type":"line","made":"2026-11-28T01:22:54.112Z","changed":"2026-11-28T01:22:54.112Z","tags":"LiDAR","note":"Wall or cliff, 2.9 m high, 11 m long: check","points":[
+ [5658,-4863],
+ [5703,-4803]
+]},
+{"id":"~7xsbhcjm","type":"line","made":"2026-11-28T01:22:54.112Z","changed":"2026-11-28T01:22:54.112Z","tags":"LiDAR","note":"Wall or cliff, 2.9 m high, 12 m long: check","points":[
+ [-3428,-9007],
+ [-3353,-8994]
+]},
+{"id":"~j7u65kay","type":"line","made":"2026-11-28T01:22:54.113Z","changed":"2026-11-28T01:22:54.113Z","tags":"LiDAR","note":"Wall or cliff, 2 m high, 14 m long: check","points":[
+ [10509,-2676],
+ [10463,-2623]
+]},
+{"id":"~qcgnc2h5","type":"line","made":"2026-11-28T01:22:54.113Z","changed":"2026-11-28T01:22:54.113Z","tags":"LiDAR","note":"Wall or cliff, 3.5 m high, 12 m long: check","points":[
+ [5616,-4974],
+ [5631,-4898]
+]},
+{"id":"~halxxuyd","type":"line","made":"2026-11-28T01:22:54.113Z","changed":"2026-11-28T01:22:54.113Z","tags":"LiDAR","note":"Wall or cliff, 3.1 m high, 15 m long: check","points":[
+ [7026,-4393],
+ [7000,-4296]
+]},
+{"id":"~6exdtqo5","type":"line","made":"2026-11-28T01:22:54.113Z","changed":"2026-11-28T01:22:54.113Z","tags":"LiDAR","note":"Wall or cliff, 2.6 m high, 21 m long: check","points":[
+ [7013,-4289],
+ [7125,-4368]
+]},
+{"id":"~agkvzu54","type":"line","made":"2026-11-28T01:22:54.113Z","changed":"2026-11-28T01:22:54.113Z","tags":"LiDAR","note":"Wall or cliff, 2.8 m high, 25 m long: check","points":[
+ [6546,-4546],
+ [6515,-4557],
+ [6385,-4526]
+]},
+{"id":"~qgu6wyux","type":"line","made":"2026-11-28T01:22:54.113Z","changed":"2026-11-28T01:22:54.113Z","tags":"LiDAR","note":"Wall or cliff, 3.3 m high, 13 m long: check","points":[
+ [6682,-4580],
+ [6599,-4575]
+]},
+{"id":"~ikluj6e7","type":"line","made":"2026-11-28T01:22:54.113Z","changed":"2026-11-28T01:22:54.113Z","tags":"LiDAR","note":"Wall or cliff, 2.6 m high, 11 m long: check","points":[
+ [9479,-3278],
+ [9527,-3223]
+]},
+{"id":"~hue5v2it","type":"line","made":"2026-11-28T01:22:54.114Z","changed":"2026-11-28T01:22:54.114Z","tags":"LiDAR","note":"Wall or cliff, 2.7 m high, 9 m long: check","points":[
+ [-1856,-8613],
+ [-1847,-8553]
+]},
+{"id":"~ltpusrtl","type":"line","made":"2026-11-28T01:22:54.114Z","changed":"2026-11-28T01:22:54.114Z","tags":"LiDAR","note":"Wall or cliff, 2.9 m high, 16 m long: check","points":[
+ [5574,-5322],
+ [5545,-5303],
+ [5526,-5235]
+]},
+{"id":"~p6wutlyu","type":"line","made":"2026-11-28T01:22:54.114Z","changed":"2026-11-28T01:22:54.114Z","tags":"LiDAR","note":"Wall or cliff, 3 m high, 12 m long: check","points":[
+ [6977,-4699],
+ [6950,-4771]
+]},
+{"id":"~53ooxgac","type":"line","made":"2026-11-28T01:22:54.114Z","changed":"2026-11-28T01:22:54.114Z","tags":"LiDAR","note":"Wall or cliff, 2.6 m high, 18 m long: check","points":[
+ [-1076,-8448],
+ [-1065,-8566]
+]},
+{"id":"~2ngetspr","type":"line","made":"2026-11-28T01:22:54.114Z","changed":"2026-11-28T01:22:54.114Z","tags":"LiDAR","note":"Wall or cliff, 2.6 m high, 10 m long: check","points":[
+ [-489,-8284],
+ [-426,-8295]
+]},
+{"id":"~vicop2iu","type":"line","made":"2026-11-28T01:22:54.114Z","changed":"2026-11-28T01:22:54.114Z","tags":"LiDAR","note":"Wall or cliff, 2.4 m high, 12 m long: check","points":[
+ [-1246,-8673],
+ [-1243,-8638],
+ [-1213,-8610]
+]},
+{"id":"~lueycdyx","type":"line","made":"2026-11-28T01:22:54.114Z","changed":"2026-11-28T01:22:54.114Z","tags":"LiDAR","note":"Wall or cliff, 3.3 m high, 9 m long: check","points":[
+ [5527,-5579],
+ [5556,-5632]
+]},
+{"id":"~ztwgriqm","type":"line","made":"2026-11-28T01:22:54.115Z","changed":"2026-11-28T01:22:54.115Z","tags":"LiDAR","note":"Wall or cliff, 3.1 m high, 16 m long: check","points":[
+ [-1287,-8767],
+ [-1183,-8788]
+]},
+{"id":"~7fknzjia","type":"line","made":"2026-11-28T01:22:54.115Z","changed":"2026-11-28T01:22:54.115Z","tags":"LiDAR","note":"Wall or cliff, 2.3 m high, 9 m long: check","points":[
+ [5298,-5825],
+ [5348,-5788]
+]},
+{"id":"~usjdwhgb","type":"line","made":"2026-11-28T01:22:54.115Z","changed":"2026-11-28T01:22:54.115Z","tags":"LiDAR","note":"Wall or cliff, 3.2 m high, 11 m long: check","points":[
+ [5219,-5957],
+ [5285,-5987]
+]},
+{"id":"~hw3aitbz","type":"line","made":"2026-11-28T01:22:54.115Z","changed":"2026-11-28T01:22:54.115Z","tags":"LiDAR","note":"Wall or cliff, 3 m high, 14 m long: check","points":[
+ [-1143,-9003],
+ [-1200,-9005],
+ [-1227,-9025]
+]},
+{"id":"~bewz7zbf","type":"line","made":"2026-11-28T01:22:54.115Z","changed":"2026-11-28T01:22:54.115Z","tags":"LiDAR","note":"Wall or cliff, 3.2 m high, 11 m long: check","points":[
+ [-979,-8911],
+ [-907,-8907]
+]},
+{"id":"~ra5x2wse","type":"line","made":"2026-11-28T01:22:54.115Z","changed":"2026-11-28T01:22:54.115Z","tags":"LiDAR","note":"Wall or cliff, 2.7 m high, 11 m long: check","points":[
+ [7351,-5152],
+ [7420,-5156]
+]},
+{"id":"~dax6gg2x","type":"line","made":"2026-11-28T01:22:54.115Z","changed":"2026-11-28T01:22:54.115Z","tags":"LiDAR","note":"Wall or cliff, 3.6 m high, 13 m long: check","points":[
+ [-1517,-9340],
+ [-1528,-9258]
+]},
+{"id":"~cmyrxr4u","type":"line","made":"2026-11-28T01:22:54.115Z","changed":"2026-11-28T01:22:54.115Z","tags":"LiDAR","note":"Wall or cliff, 2.3 m high, 12 m long: check","points":[
+ [-527,-8886],
+ [-493,-8817]
+]},
+{"id":"~odxhdz7w","type":"line","made":"2026-11-28T01:22:54.115Z","changed":"2026-11-28T01:22:54.115Z","tags":"LiDAR","note":"Wall or cliff, 2.7 m high, 11 m long: check","points":[
+ [-552,-8956],
+ [-546,-8887]
+]},
+{"id":"~3glgt53e","type":"line","made":"2026-11-28T01:22:54.115Z","changed":"2026-11-28T01:22:54.115Z","tags":"LiDAR","note":"Wall or cliff, 2.6 m high, 12 m long: check","points":[
+ [-1226,-9243],
+ [-1219,-9165]
+]},
+{"id":"~g5gmcio6","type":"line","made":"2026-11-28T01:22:54.116Z","changed":"2026-11-28T01:22:54.116Z","tags":"LiDAR","note":"Wall or cliff, 2 m high, 10 m long: check","points":[
+ [4112,-6774],
+ [4172,-6807]
+]},
+{"id":"~czgymdhk","type":"line","made":"2026-11-28T01:22:54.116Z","changed":"2026-11-28T01:22:54.116Z","tags":"LiDAR","note":"Wall or cliff, 2.9 m high, 17 m long: check","points":[
+ [8617,-4715],
+ [8627,-4787],
+ [8616,-4827]
+]},
+{"id":"~en35osvi","type":"line","made":"2026-11-28T01:22:54.116Z","changed":"2026-11-28T01:22:54.116Z","tags":"LiDAR","note":"Wall or cliff, 2.2 m high, 9 m long: check","points":[
+ [-483,-8889],
+ [-424,-8901]
+]},
+{"id":"~k5a2klpq","type":"line","made":"2026-11-28T01:22:54.116Z","changed":"2026-11-28T01:22:54.116Z","tags":"LiDAR","note":"Wall or cliff, 2.3 m high, 9 m long: check","points":[
+ [-263,-8827],
+ [-216,-8788]
+]},
+{"id":"~j5h5e2c7","type":"line","made":"2026-11-28T01:22:54.117Z","changed":"2026-11-28T01:22:54.117Z","tags":"LiDAR","note":"Wall or cliff, 2.6 m high, 9 m long: check","points":[
+ [7369,-6180],
+ [7332,-6133]
+]},
+{"id":"~3ysz5czn","type":"line","made":"2026-11-28T01:22:54.117Z","changed":"2026-11-28T01:22:54.117Z","tags":"LiDAR","note":"Wall or cliff, 3.4 m high, 11 m long: check","points":[
+ [-1206,-10659],
+ [-1130,-10648]
+]},
+{"id":"~7bcjjaz4","type":"line","made":"2026-11-28T01:22:54.118Z","changed":"2026-11-28T01:22:54.118Z","tags":"LiDAR","note":"Wall or cliff, 2 m high, 11 m long: check","points":[
+ [4208,-8486],
+ [4275,-8462]
+]},
+{"id":"~gabwxj7v","type":"line","made":"2026-11-28T01:22:54.118Z","changed":"2026-11-28T01:22:54.118Z","tags":"LiDAR","note":"Wall or cliff, 2.8 m high, 9 m long: check","points":[
+ [7001,-7265],
+ [7026,-7320]
+]},
+{"id":"~vw2mz6ih","type":"line","made":"2026-11-28T01:22:54.118Z","changed":"2026-11-28T01:22:54.118Z","tags":"LiDAR","note":"Wall or cliff, 2.5 m high, 24 m long: check","points":[
+ [8397,-6823],
+ [8444,-6720],
+ [8482,-6695]
+]},
+{"id":"~r4gdkptm","type":"line","made":"2026-11-28T01:22:54.118Z","changed":"2026-11-28T01:22:54.118Z","tags":"LiDAR","note":"Wall or cliff, 3.1 m high, 11 m long: check","points":[
+ [6882,-7537],
+ [6932,-7488]
+]},
+{"id":"~yftp3zwb","type":"line","made":"2026-11-28T01:22:54.118Z","changed":"2026-11-28T01:22:54.118Z","tags":"LiDAR","note":"Wall or cliff, 2.6 m high, 11 m long: check","points":[
+ [8793,-6686],
+ [8752,-6749]
+]},
+{"id":"~x4xf3yif","type":"line","made":"2026-11-28T01:22:54.118Z","changed":"2026-11-28T01:22:54.118Z","tags":"LiDAR","note":"Wall or cliff, 3 m high, 12 m long: check","points":[
+ [8443,-6926],
+ [8468,-6852]
+]},
+{"id":"~mto4zghy","type":"line","made":"2026-11-28T01:22:54.118Z","changed":"2026-11-28T01:22:54.118Z","tags":"LiDAR","note":"Wall or cliff, 2.8 m high, 16 m long: check","points":[
+ [5484,-8320],
+ [5494,-8212]
+]},
+{"id":"~xt57ohji","type":"line","made":"2026-11-28T01:22:54.118Z","changed":"2026-11-28T01:22:54.118Z","tags":"LiDAR","note":"Wall or cliff, 2.6 m high, 13 m long: check","points":[
+ [-434,-11056],
+ [-427,-11018],
+ [-381,-11001]
+]},
+{"id":"~be6zerrq","type":"line","made":"2026-11-28T01:22:54.119Z","changed":"2026-11-28T01:22:54.119Z","tags":"LiDAR","note":"Wall or cliff, 3 m high, 10 m long: check","points":[
+ [-376,-11112],
+ [-310,-11094]
+]},
+{"id":"~kw7jku6u","type":"line","made":"2026-11-28T01:22:54.119Z","changed":"2026-11-28T01:22:54.119Z","tags":"LiDAR","note":"Wall or cliff, 2.6 m high, 19 m long: check","points":[
+ [447,-10727],
+ [570,-10728]
+]},
+{"id":"~aywoesh2","type":"line","made":"2026-11-28T01:22:54.119Z","changed":"2026-11-28T01:22:54.119Z","tags":"LiDAR","note":"Wall or cliff, 3 m high, 17 m long: check","points":[
+ [-295,-11113],
+ [-254,-11134],
+ [-189,-11119]
+]},
+{"id":"~chjdfc65","type":"line","made":"2026-11-28T01:22:54.119Z","changed":"2026-11-28T01:22:54.119Z","tags":"LiDAR","note":"Wall or cliff, 2.6 m high, 18 m long: check","points":[
+ [7130,-7758],
+ [7087,-7870]
+]},
+{"id":"~wxce4k4b","type":"line","made":"2026-11-28T01:22:54.119Z","changed":"2026-11-28T01:22:54.119Z","tags":"LiDAR","note":"Wall or cliff, 2.1 m high, 9 m long: check","points":[
+ [394,-11029],
+ [443,-10992]
+]},
+{"id":"~h5iv3wio","type":"line","made":"2026-11-28T01:22:54.119Z","changed":"2026-11-28T01:22:54.119Z","tags":"LiDAR","note":"Wall or cliff, 3.1 m high, 10 m long: check","points":[
+ [240,-11222],
+ [304,-11200]
+]},
+{"id":"~rhufzyab","type":"line","made":"2026-11-28T01:22:54.119Z","changed":"2026-11-28T01:22:54.119Z","tags":"LiDAR","note":"Wall or cliff, 2.2 m high, 9 m long: check","points":[
+ [495,-11190],
+ [463,-11241]
+]},
+{"id":"~32psgoyi","type":"line","made":"2026-11-28T01:22:54.119Z","changed":"2026-11-28T01:22:54.119Z","tags":"LiDAR","note":"Wall or cliff, 2.6 m high, 14 m long: check","points":[
+ [5747,-9081],
+ [5791,-8996]
+]},
+{"id":"~3ulypv2o","type":"line","made":"2026-11-28T01:22:54.120Z","changed":"2026-11-28T01:22:54.120Z","tags":"LiDAR","note":"Wall or cliff, 2.6 m high, 12 m long: check","points":[
+ [6692,-8855],
+ [6692,-8930]
+]},
+{"id":"~vg6ogpbe","type":"line","made":"2026-11-28T01:22:54.120Z","changed":"2026-11-28T01:22:54.120Z","tags":"LiDAR","note":"Wall or cliff, 2.8 m high, 12 m long: check","points":[
+ [5591,-9502],
+ [5643,-9443]
+]},
+{"id":"~ydia5qgd","type":"line","made":"2026-11-28T01:22:54.120Z","changed":"2026-11-28T01:22:54.120Z","tags":"LiDAR","note":"Wall or cliff, 4 m high, 10 m long: check","points":[
+ [6658,-9182],
+ [6604,-9147]
+]},
+{"id":"~om3bjrv3","type":"line","made":"2026-11-28T01:22:54.120Z","changed":"2026-11-28T01:22:54.120Z","tags":"LiDAR","note":"Wall or cliff, 3.4 m high, 29 m long: check","points":[
+ [6337,-9293],
+ [6402,-9258],
+ [6519,-9243]
+]},
+{"id":"~qhmx6iuj","type":"line","made":"2026-11-28T01:22:54.120Z","changed":"2026-11-28T01:22:54.120Z","tags":"LiDAR","note":"Wall or cliff, 4 m high, 28 m long: check","points":[
+ [6341,-9488],
+ [6353,-9306]
+]},
+{"id":"~6dt5ychw","type":"line","made":"2026-11-28T01:22:54.120Z","changed":"2026-11-28T01:22:54.120Z","tags":"LiDAR","note":"Wall or cliff, 3.3 m high, 12 m long: check","points":[
+ [6581,-9233],
+ [6616,-9228],
+ [6657,-9253]
+]},
+{"id":"~4prxkdxm","type":"line","made":"2026-11-28T01:22:54.120Z","changed":"2026-11-28T01:22:54.120Z","tags":"LiDAR","note":"Wall or cliff, 2.2 m high, 19 m long: check","points":[
+ [5489,-9763],
+ [5407,-9855]
+]},
+{"id":"~pegv4el6","type":"line","made":"2026-11-28T01:22:54.121Z","changed":"2026-11-28T01:22:54.121Z","tags":"LiDAR","note":"Wall or cliff, 3.2 m high, 15 m long: check","points":[
+ [6993,-9076],
+ [7091,-9098]
+]},
+{"id":"~zhcdlubu","type":"line","made":"2026-11-28T01:22:54.122Z","changed":"2026-11-28T01:22:54.122Z","tags":"LiDAR","note":"Wall or cliff, 2.6 m high, 10 m long: check","points":[
+ [7207,-9040],
+ [7268,-9069]
+]},
+{"id":"~hcywqnjn","type":"line","made":"2026-11-28T01:22:54.122Z","changed":"2026-11-28T01:22:54.122Z","tags":"LiDAR","note":"Wall or cliff, 2.6 m high, 15 m long: check","points":[
+ [7458,-8953],
+ [7497,-8860]
+]},
+{"id":"~q5p5ujwp","type":"line","made":"2026-11-28T01:22:54.122Z","changed":"2026-11-28T01:22:54.122Z","tags":"LiDAR","note":"Wall or cliff, 2.8 m high, 18 m long: check","points":[
+ [7046,-9168],
+ [6927,-9157]
+]}
+]}
