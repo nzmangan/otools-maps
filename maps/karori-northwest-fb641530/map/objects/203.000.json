@@ -1,0 +1,30 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"203.000",
+"objects":[
+{"id":"~m5nsdkvd","type":"point","col":2,"server":-1,"made":"2020-09-27T15:20:59.521Z","changed":"2024-11-02T20:17:35.824Z","status":1,"icol":2,"points":[
+ [40975,88570]
+]},
+{"id":"~gigwpqhe","type":"point","ang":-1531,"col":2,"server":-1,"made":"2020-09-27T15:20:59.521Z","changed":"2024-11-02T20:17:35.824Z","status":1,"icol":2,"points":[
+ [37081,95618]
+]},
+{"id":"~6ka2ufxn","type":"point","ang":-337,"col":2,"server":-1,"made":"2020-09-27T15:20:59.521Z","changed":"2024-11-02T20:17:35.824Z","status":1,"icol":2,"points":[
+ [22247,57617]
+]},
+{"id":"~ycvy3txi","type":"point","ang":-1411,"col":2,"server":-1,"made":"2020-09-27T15:20:59.521Z","changed":"2024-11-02T20:17:35.8399998Z","status":1,"icol":2,"points":[
+ [-1050,23227]
+]},
+{"id":"~hx3zpyk5","type":"point","col":2,"server":-1,"made":"2020-09-27T15:20:59.521Z","changed":"2024-11-02T20:17:35.887Z","status":1,"icol":2,"points":[
+ [-3622,33558]
+]},
+{"id":"~stgok2up","type":"point","col":2,"server":-1,"made":"2020-09-27T15:20:59.521Z","changed":"2024-11-02T20:17:35.9029998Z","status":1,"icol":2,"points":[
+ [-11669,29752]
+]},
+{"id":"~q2x436ul","type":"point","ang":607,"col":2,"server":-1,"made":"2020-09-27T15:20:59.521Z","changed":"2024-11-02T20:17:35.9350002Z","status":1,"icol":2,"points":[
+ [-16683,50183]
+]},
+{"id":"~olbrkd6i","type":"point","col":2,"server":-1,"made":"2024-12-02T20:02:06.254Z","changed":"2025-03-17T19:05:56.092Z","status":1,"icol":2,"points":[
+ [47035,96886]
+]},
+{"id":"~j5mryk2k","type":"point","col":2,"server":-1,"made":"2024-12-02T20:02:06.254Z","changed":"2025-03-17T19:17:25.5759998Z","status":1,"icol":2,"points":[
+ [-16037,15671]
+]}
+]}

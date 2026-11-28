@@ -1,0 +1,9 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"501.011",
+"objects":[
+{"id":"~wgtzqy4t","type":"line","server":-1,"made":"2025-03-17T09:07:04.186Z","changed":"2025-03-17T09:07:20.450Z","status":1,"icol":-1,"points":[
+ [36972,73570],
+ [36980,73679,"c1"],
+ [36991,73733,"c2"],
+ [36991,73842]
+]}
+]}

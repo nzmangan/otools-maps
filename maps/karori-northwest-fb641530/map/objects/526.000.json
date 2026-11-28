@@ -1,0 +1,12 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"526.000",
+"objects":[
+{"id":"~wgkpachc","type":"point","col":2,"server":-1,"made":"2020-09-27T15:20:59.521Z","changed":"2024-11-02T20:17:35.824Z","status":1,"icol":2,"points":[
+ [22857,59275]
+]},
+{"id":"~kvgemj77","type":"point","col":2,"server":-1,"made":"2024-12-02T20:02:06.426Z","changed":"2025-03-17T19:06:09.582Z","status":1,"icol":2,"points":[
+ [55313,66599]
+]},
+{"id":"~35yj7git","type":"point","col":2,"server":-1,"made":"2024-12-02T20:02:06.426Z","changed":"2025-03-17T19:13:38.945Z","status":1,"icol":2,"points":[
+ [-23132,3595]
+]}
+]}

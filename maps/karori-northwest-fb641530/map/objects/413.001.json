@@ -1,0 +1,34 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"413.001",
+"defaults":{"col":29,"server":-1,"status":1,"icol":29},
+"objects":[
+{"id":"~ny27dqsf","type":"point","made":"2020-09-27T15:20:59.521Z","changed":"2024-11-02T20:17:35.793Z","points":[
+ [-1103,18417]
+]},
+{"id":"~zgludddh","type":"point","made":"2020-09-27T15:20:59.521Z","changed":"2024-11-02T20:17:35.793Z","points":[
+ [-968,18437]
+]},
+{"id":"~kasi6awg","type":"point","made":"2020-09-27T15:20:59.521Z","changed":"2024-11-02T20:17:35.824Z","points":[
+ [38617,80218]
+]},
+{"id":"~ok6gpjol","type":"point","made":"2020-09-27T15:20:59.521Z","changed":"2024-11-02T20:17:35.8399998Z","points":[
+ [7187,37062]
+]},
+{"id":"~ev6u6f4n","type":"point","made":"2020-09-27T15:20:59.521Z","changed":"2024-11-02T20:17:35.8399998Z","points":[
+ [22407,42172]
+]},
+{"id":"~tcwpbqas","type":"point","made":"2020-09-27T15:20:59.521Z","changed":"2024-11-02T20:17:35.8399998Z","points":[
+ [22420,42112]
+]},
+{"id":"~3obtw6dx","type":"point","made":"2020-09-27T15:20:59.521Z","changed":"2024-11-02T20:17:35.8399998Z","points":[
+ [22710,42450]
+]},
+{"id":"~dsaxh5tp","type":"point","made":"2020-09-27T15:20:59.521Z","changed":"2024-11-02T20:17:35.8399998Z","points":[
+ [22767,42425]
+]},
+{"id":"~etimlava","type":"point","made":"2024-12-02T20:02:06.332Z","changed":"2025-03-17T19:06:09.580Z","points":[
+ [55313,82599]
+]},
+{"id":"~yesoxk6t","type":"point","made":"2024-12-02T20:02:06.332Z","changed":"2025-03-17T19:13:38.942Z","points":[
+ [-23132,19595]
+]}
+]}

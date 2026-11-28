@@ -1,0 +1,37 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"112.000",
+"defaults":{"col":15,"server":-1,"status":1,"icol":15},
+"objects":[
+{"id":"~kq4bt6op","type":"point","made":"2020-09-27T15:20:59.521Z","changed":"2024-11-02T20:17:35.856Z","points":[
+ [-18852,59112]
+]},
+{"id":"~sfwqr2oo","type":"point","made":"2020-09-27T15:20:59.521Z","changed":"2024-11-02T20:17:35.887Z","points":[
+ [-16882,43263]
+]},
+{"id":"~dtoseslt","type":"point","made":"2020-09-27T15:20:59.521Z","changed":"2024-11-02T20:17:35.9029998Z","points":[
+ [-16880,43265]
+]},
+{"id":"~5wjgxsik","type":"point","made":"2020-09-27T15:20:59.521Z","changed":"2024-11-02T20:17:35.9350002Z","points":[
+ [-9603,36415]
+]},
+{"id":"~g75ja6os","type":"point","made":"2020-09-27T15:20:59.521Z","changed":"2024-11-02T20:17:35.9350002Z","points":[
+ [-16524,43735]
+]},
+{"id":"~thdg573g","type":"point","made":"2020-09-27T15:20:59.521Z","changed":"2024-11-02T20:17:35.950Z","points":[
+ [-9227,69356]
+]},
+{"id":"~mp7i2o43","type":"point","made":"2020-09-27T15:20:59.521Z","changed":"2024-11-02T20:17:35.997Z","points":[
+ [17087,77361]
+]},
+{"id":"~hq3fzxqt","type":"point","made":"2020-09-27T15:20:59.521Z","changed":"2024-11-02T20:17:35.997Z","points":[
+ [17205,77861]
+]},
+{"id":"~iawixmwd","type":"point","made":"2024-12-02T20:02:06.239Z","changed":"2025-03-17T19:05:56.092Z","points":[
+ [47035,99386]
+]},
+{"id":"~a7six4p7","type":"point","made":"2025-03-16T23:03:42.237Z","changed":"2025-03-16T23:03:42.237Z","col":0,"points":[
+ [-6539,36943]
+]},
+{"id":"~2khfzmua","type":"point","made":"2024-12-02T20:02:06.239Z","changed":"2025-03-17T19:17:25.5750002Z","points":[
+ [-16037,18171]
+]}
+]}

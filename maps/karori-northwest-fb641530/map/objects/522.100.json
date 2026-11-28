@@ -1,0 +1,18 @@
+{"format":"otools-map","version":2,"kind":"objects","symbol":"522.100",
+"objects":[
+{"id":"~u2qgjx7e","type":"point","ang":-621,"col":2,"server":-1,"made":"2020-09-27T15:20:59.521Z","changed":"2024-11-02T20:17:35.793Z","status":1,"icol":2,"points":[
+ [37,20437]
+]},
+{"id":"~7mgdlzb6","type":"point","col":2,"server":-1,"made":"2020-09-27T15:20:59.521Z","changed":"2024-11-02T20:17:35.824Z","status":1,"icol":2,"points":[
+ [38705,86582]
+]},
+{"id":"~cjispk6s","type":"point","ang":266,"col":2,"server":-1,"made":"2020-09-27T15:20:59.521Z","changed":"2024-11-02T20:17:35.8399998Z","status":1,"icol":2,"points":[
+ [6602,29330]
+]},
+{"id":"~66nk7u6t","type":"point","col":2,"server":-1,"made":"2024-12-02T20:02:06.4100002Z","changed":"2025-03-17T19:06:09.582Z","status":1,"icol":2,"points":[
+ [55313,67599]
+]},
+{"id":"~is476sme","type":"point","col":2,"server":-1,"made":"2024-12-02T20:02:06.4100002Z","changed":"2025-03-17T19:13:38.945Z","status":1,"icol":2,"points":[
+ [-23132,4595]
+]}
+]}
