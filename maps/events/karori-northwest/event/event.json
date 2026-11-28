@@ -24,6 +24,10 @@
   },
   "printScale": 4000,
   "overprint": "auto",
+  "classes": "classes.jsonl",
   "controls": "controls.jsonl",
-  "courses": []
+  "legs": "legs.jsonl",
+  "courses": [
+    1
+  ]
 }
