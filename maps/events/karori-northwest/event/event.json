@@ -1,0 +1,29 @@
+{
+  "format": "otools-event",
+  "version": 1,
+  "title": "Karori Northwest",
+  "map": {
+    "file": "Karori Northwest.ocd",
+    "size": 15933656,
+    "sha256": "8f94d1031c1359346a9ba2ab68f3f799bb507f98c692ba144509f711eccd4eba",
+    "scale": 4000,
+    "georef": {
+      "x": 1744000,
+      "y": 5427000,
+      "angle": 23.5,
+      "epsg": 2193,
+      "grid": 19000
+    },
+    "library": {
+      "org": "oe95abec73f054cab884a34f1da1f3ee4",
+      "id": "mfb641530acbe48aeac1af99319c62c6b",
+      "version": 1,
+      "name": "Karori Northwest",
+      "follow": "latest"
+    }
+  },
+  "printScale": 4000,
+  "overprint": "auto",
+  "controls": "controls.jsonl",
+  "courses": []
+}
