@@ -1,8 +1,8 @@
 {"id":1,"kind":"start","x":97,"y":226}
 {"id":2,"kind":"finish","x":-1436,"y":902}
-{"id":5,"kind":"control","x":6420,"y":4919,"code":31,"desc":{"d":"2.1","g":"11.14SW"}}
-{"id":6,"kind":"control","x":4275,"y":6808,"code":32,"desc":{"d":"2.1","g":"11.14S"}}
-{"id":7,"kind":"control","x":823,"y":8172,"code":33,"desc":{"d":"2.1","g":"11.14NE"},"gaps":[[88.5,125.2]],"autoCut":true}
-{"id":8,"kind":"control","x":-2714,"y":6254,"code":34}
-{"id":9,"kind":"control","x":-3509,"y":3328,"code":35}
-{"id":10,"kind":"control","x":-2725,"y":2881,"code":36}
+{"id":5,"kind":"control","x":6400,"y":4909,"code":31,"desc":{"d":"2.1","g":"11.14SW"}}
+{"id":6,"kind":"control","x":4321,"y":6772,"code":32,"desc":{"d":"2.1","g":"11.14S"}}
+{"id":7,"kind":"control","x":752,"y":8353,"code":33,"desc":{"d":"2.1","g":"11.14S"},"gaps":[[102.3,128.9],[134.2,151.5],[284.3,300.7]],"autoCut":true}
+{"id":8,"kind":"control","x":-2732,"y":6263,"code":34,"desc":{"d":"1.3"}}
+{"id":9,"kind":"control","x":-3499,"y":3297,"code":35}
+{"id":10,"kind":"control","x":-2509,"y":2665,"code":36}
